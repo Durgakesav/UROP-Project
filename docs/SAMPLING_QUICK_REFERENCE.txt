@@ -1,0 +1,91 @@
+================================================================================
+QUICK REFERENCE: Uniform Data Sampling for LDI+LLM Project
+================================================================================
+
+PROBLEM: Creating smaller datasets (< 10,000 rows) while maintaining proportions
+
+SOLUTION: Stratified Sampling using sklearn train_test_split
+
+================================================================================
+BASIC CODE TEMPLATE
+================================================================================
+
+from sklearn.model_selection import train_test_split
+
+# Load dataset
+df = pd.read_csv('large_dataset.csv')
+
+# Stratified sampling (maintains proportions)
+df_small, _ = train_test_split(
+    df, 
+    train_size=10000,           # Target size
+    stratify=df['category_col'], # Column to preserve
+    random_state=42              # Reproducibility
+)
+
+# Save result
+df_small.to_csv('small_dataset.csv', index=False)
+
+================================================================================
+DATASETS CONFIGURATION
+================================================================================
+
+Dataset Name    | Stratification Column | Purpose
+----------------|----------------------|----------------------------------
+buy.csv         | manufacturer         | Preserve brand diversity
+phone.csv       | brand                | Maintain phone brand distribution
+restaurant.csv  | type                 | Keep cuisine type diversity
+zomato.csv      | cuisine              | Preserve cuisine variety
+
+================================================================================
+KEY DIFFERENCES
+================================================================================
+
+RANDOM SAMPLING (WRONG):
+- Uses: df.sample(n=10000)
+- Result: Proportions drift (e.g., 50% → 52%)
+- Problem: Biased representation
+
+STRATIFIED SAMPLING (CORRECT):
+- Uses: train_test_split with stratify parameter
+- Result: Proportions preserved (e.g., 50% → 50%)
+- Benefit: Uniform, representative data
+
+================================================================================
+VERIFICATION
+================================================================================
+
+# Check proportions before and after
+original = df['category'].value_counts(normalize=True)
+sampled = df_small['category'].value_counts(normalize=True)
+
+# Print differences
+for cat in original.index:
+    print(f"{cat}: {original[cat]:.4f} → {sampled[cat]:.4f}")
+
+================================================================================
+WHY IT MATTERS
+================================================================================
+
+✓ Fair representation of all categories
+✓ Consistent model training
+✓ Reliable imputation results
+✓ Better generalization
+✓ Reproducible experiments
+
+================================================================================
+CONTACT
+================================================================================
+
+Project: UROP - LDI+LLM Data Imputation Methods
+Full Guide: See DATA_SAMPLING_GUIDE.md
+
+================================================================================
+
+
+
+
+
+
+
+

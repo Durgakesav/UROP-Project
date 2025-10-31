@@ -1,0 +1,34 @@
+LLM1 CLUSTERING IMPUTATION REPORT - BUY DATASET (30% MISSING)
+================================================================================
+Timestamp: 2025-10-27 11:42:41
+Dataset: Buy (455 rows, 4 columns)
+Missing cells: 676/1820 (37.1%)
+Success rate: 100.0%
+Accuracy: 0.0%
+Correct matches: 0/676
+
+SAMPLE IMPUTATION RESULTS:
+--------------------------------------------------------------------------------
+Row   Column       Original             Imputed              Match 
+--------------------------------------------------------------------------------
+2     name         Linksys EtherFast    None                 No    
+6     name         Canon EOS 5D Mark    None                 No    
+11    name         Panasonic KX-TG103   None                 No    
+12    name         Nikon EN-EL9 Lithi   None                 No    
+13    name         Samsung PN58A550 5   None                 No    
+15    name         Panasonic KX-TG934   None                 No    
+24    name         Netgear ProSafe JG   None                 No    
+26    name         Kensington MicroSa   None                 No    
+30    name         Sharp AQUOS LC-32D   None                 No    
+33    name         Onkyo TXSR606 A/V    None                 No    
+34    name         Onkyo TXSR506 A/V    None                 No    
+36    name         Sony Z591U/B Noteb   None                 No    
+37    name         Bose Acoustimass 5   None                 No    
+39    name         Z-Line Designs ZL2   None                 No    
+40    name         OmniMount Universa   None                 No    
+41    name         Linksys EtherFast    None                 No    
+47    name         Panasonic Viera TH   None                 No    
+49    name         Sanus Universal Pr   None                 No    
+52    name         Canon FAX-JX200 Fa   None                 No    
+54    name         Sony 1GB Memory St   None                 No    
+... and 656 more results

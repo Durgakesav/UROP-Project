@@ -1,0 +1,79 @@
+{
+  "dataset": "buy",
+  "n_clusters": 9,
+  "n_noise": 420,
+  "clusters": {
+    "0": {
+      "name": "Speck Products SeeThru Case for Apple 13' MacBook - MB13-AQU-SEE-V2",
+      "description": "Plastic - Green",
+      "manufacturer": "Speck Products",
+      "price": null
+    },
+    "1": {
+      "name": "Panasonic DMR-EA18K DVD Player/Recorder",
+      "description": "DVD+RW, DVD-RW, DVD-RAM, DVD+R, DVD-R, CD-RW, Secure Digital (SD) - DVD Video, CD-DA, MP3, JPEG, DivX, PCM, MPEG-2 Playback - Progressive Scan - 14.33Hour Recording",
+      "manufacturer": "Panasonic",
+      "price": null
+    },
+    "2": {
+      "name": "LG 32LG40 32' TV/DVD Combo",
+      "description": "LG 32LG40 - 32' Widescreen 720p LCD HDTV w/ Built-in DVD Player - 12,000:1 Dynamic Contrast Ratio - 8ms Response Time",
+      "manufacturer": "LG Electronics",
+      "price": null
+    },
+    "3": {
+      "name": "Griffin SmartTalk Headphone Adapter with Control and Mic for iPhone - 3016-SMRTLKB",
+      "description": "3 x FM",
+      "manufacturer": "Griffin",
+      "price": null
+    },
+    "4": {
+      "name": "Peerless SmartMount 700 Series Articulating Wall Arm",
+      "description": "Peerless SA745PU - Articulating Wall Arm for 32' to 45' LCD and Plasma Screens - Piano Black",
+      "manufacturer": "Peerless",
+      "price": null
+    },
+    "5": {
+      "name": "Panasonic KX-TG1033S Digital Cordless Phone with Three Handsets",
+      "description": "1 x Phone Line(s) - Black",
+      "manufacturer": "Panasonic",
+      "price": null
+    },
+    "6": {
+      "name": "Linksys EtherFast EZXS88W Ethernet Switch - EZXS88W",
+      "description": "Linksys EtherFast 8-Port 10/100 Switch (New/Workgroup)",
+      "manufacturer": "LINKSYS",
+      "price": null
+    },
+    "7": {
+      "name": "Sanus Euro Foundation Series III Speaker Stand - EFSATBKIII",
+      "description": "Steel - Black",
+      "manufacturer": "Sanus",
+      "price": null
+    },
+    "8": {
+      "name": "Netgear ProSafe GS105 Ethernet Switch - GS105NA",
+      "description": "NETGEAR ProSafe 5 Port Gigabit Desktop Switch",
+      "manufacturer": "Netgear",
+      "price": null
+    }
+  },
+  "cluster_sizes": {
+    "0": 9,
+    "1": 4,
+    "2": 4,
+    "3": 3,
+    "4": 3,
+    "5": 3,
+    "6": 3,
+    "7": 3,
+    "8": 3
+  },
+  "clustering_config": {
+    "eps": 3.0,
+    "min_samples": 3,
+    "method": "Categorical",
+    "quality_score": 0.69,
+    "noise_percentage": 92.31
+  }
+}

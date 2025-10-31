@@ -1,0 +1,788 @@
+{
+  "dataset": "zomato",
+  "method": "KMeans",
+  "n_clusters": 10,
+  "n_outliers": 0,
+  "score": 0.12613144657584474,
+  "cluster_analysis": {
+    "0": {
+      "size": 787,
+      "characteristics": {
+        "restaurant_name": {
+          "type": "categorical",
+          "top_values": {
+            "Mexican Fiesta": 54,
+            "Noodle Bar": 49,
+            "Curry House": 49
+          }
+        },
+        "cuisine": {
+          "type": "categorical",
+          "top_values": {
+            "Mexican": 115,
+            "Thai": 107,
+            "Mediterranean": 96
+          }
+        },
+        "area": {
+          "type": "categorical",
+          "top_values": {
+            "Whitefield": 100,
+            "Marathahalli": 99,
+            "MG Road": 92
+          }
+        },
+        "rating": {
+          "type": "numerical",
+          "mean": 4.265565438373571,
+          "std": 0.5243399138603494,
+          "min": 3.0,
+          "max": 5.0
+        },
+        "cost_for_two": {
+          "type": "numerical",
+          "mean": 714.866581956798,
+          "std": 376.22752609049604,
+          "min": 300,
+          "max": 1500
+        },
+        "online_order": {
+          "type": "categorical",
+          "top_values": {
+            "Yes": 786,
+            "No": 1
+          }
+        },
+        "book_table": {
+          "type": "categorical",
+          "top_values": {
+            "Yes": 786,
+            "No": 1
+          }
+        },
+        "votes": {
+          "type": "numerical",
+          "mean": 2785.8958068614993,
+          "std": 1422.0214115766312,
+          "min": 65,
+          "max": 4993
+        },
+        "phone": {
+          "type": "numerical",
+          "mean": 6401771571.815756,
+          "std": 2549631716.062026,
+          "min": 47302335,
+          "max": 9987579726
+        },
+        "address": {
+          "type": "categorical",
+          "top_values": {
+            "38 JP Nagar Bangalore": 5,
+            "39 Whitefield Bangalore": 4,
+            "58 JP Nagar Bangalore": 4
+          }
+        }
+      }
+    },
+    "1": {
+      "size": 1009,
+      "characteristics": {
+        "restaurant_name": {
+          "type": "categorical",
+          "top_values": {
+            "Italian Bistro": 62,
+            "Mediterranean Delight": 61,
+            "Sushi House": 61
+          }
+        },
+        "cuisine": {
+          "type": "categorical",
+          "top_values": {
+            "Italian": 102,
+            "Thai": 102,
+            "Japanese": 96
+          }
+        },
+        "area": {
+          "type": "categorical",
+          "top_values": {
+            "Koramangala": 110,
+            "Indiranagar": 110,
+            "MG Road": 105
+          }
+        },
+        "rating": {
+          "type": "numerical",
+          "mean": 4.029930624380575,
+          "std": 0.5735887574234403,
+          "min": 3.0,
+          "max": 5.0
+        },
+        "cost_for_two": {
+          "type": "numerical",
+          "mean": 1885.0346878097125,
+          "std": 210.49833112562501,
+          "min": 1500,
+          "max": 2000
+        },
+        "online_order": {
+          "type": "categorical",
+          "top_values": {
+            "Yes": 513,
+            "No": 496
+          }
+        },
+        "book_table": {
+          "type": "categorical",
+          "top_values": {
+            "Yes": 1009
+          }
+        },
+        "votes": {
+          "type": "numerical",
+          "mean": 2654.287413280476,
+          "std": 1436.4294276590788,
+          "min": 56,
+          "max": 4999
+        },
+        "phone": {
+          "type": "numerical",
+          "mean": 5099938077.936571,
+          "std": 2827668591.230808,
+          "min": 7049564,
+          "max": 9974935527
+        },
+        "address": {
+          "type": "categorical",
+          "top_values": {
+            "91 Marathahalli Bangalore": 5,
+            "60 Koramangala Bangalore": 5,
+            "60 BTM Layout Bangalore": 5
+          }
+        }
+      }
+    },
+    "2": {
+      "size": 702,
+      "characteristics": {
+        "restaurant_name": {
+          "type": "categorical",
+          "top_values": {
+            "Taco Bell": 76,
+            "Vegan Heaven": 66,
+            "Thai Paradise": 62
+          }
+        },
+        "cuisine": {
+          "type": "categorical",
+          "top_values": {
+            "Mexican": 70,
+            "Korean": 69,
+            "Japanese": 68
+          }
+        },
+        "area": {
+          "type": "categorical",
+          "top_values": {
+            "Electronic City": 81,
+            "Brigade Road": 78,
+            "Koramangala": 75
+          }
+        },
+        "rating": {
+          "type": "numerical",
+          "mean": 3.549002849002849,
+          "std": 0.41846520399354015,
+          "min": 3.0,
+          "max": 4.9
+        },
+        "cost_for_two": {
+          "type": "numerical",
+          "mean": 807.977207977208,
+          "std": 421.9297553535167,
+          "min": 300,
+          "max": 2000
+        },
+        "online_order": {
+          "type": "categorical",
+          "top_values": {
+            "Yes": 697,
+            "No": 5
+          }
+        },
+        "book_table": {
+          "type": "categorical",
+          "top_values": {
+            "No": 687,
+            "Yes": 15
+          }
+        },
+        "votes": {
+          "type": "numerical",
+          "mean": 2043.6396011396012,
+          "std": 1400.5041337168202,
+          "min": 50,
+          "max": 4933
+        },
+        "phone": {
+          "type": "numerical",
+          "mean": 5743499671.5698,
+          "std": 2706614531.1458116,
+          "min": 55409186,
+          "max": 9967648327
+        },
+        "address": {
+          "type": "categorical",
+          "top_values": {
+            "38 BTM Layout Bangalore": 5,
+            "10 Indiranagar Bangalore": 4,
+            "16 HSR Layout Bangalore": 4
+          }
+        }
+      }
+    },
+    "3": {
+      "size": 808,
+      "characteristics": {
+        "restaurant_name": {
+          "type": "categorical",
+          "top_values": {
+            "Fried Chicken Co": 51,
+            "BBQ Junction": 50,
+            "Curry House": 50
+          }
+        },
+        "cuisine": {
+          "type": "categorical",
+          "top_values": {
+            "Thai": 89,
+            "Indian": 84,
+            "Fast Food": 78
+          }
+        },
+        "area": {
+          "type": "categorical",
+          "top_values": {
+            "JP Nagar": 94,
+            "Koramangala": 86,
+            "Indiranagar": 86
+          }
+        },
+        "rating": {
+          "type": "numerical",
+          "mean": 3.9345297029702975,
+          "std": 0.5592376441290984,
+          "min": 3.0,
+          "max": 5.0
+        },
+        "cost_for_two": {
+          "type": "numerical",
+          "mean": 756.3118811881188,
+          "std": 388.6044191141795,
+          "min": 300,
+          "max": 1500
+        },
+        "online_order": {
+          "type": "categorical",
+          "top_values": {
+            "No": 808
+          }
+        },
+        "book_table": {
+          "type": "categorical",
+          "top_values": {
+            "Yes": 808
+          }
+        },
+        "votes": {
+          "type": "numerical",
+          "mean": 2680.6299504950493,
+          "std": 1412.9672427868231,
+          "min": 54,
+          "max": 4997
+        },
+        "phone": {
+          "type": "numerical",
+          "mean": 5133440755.513614,
+          "std": 2777541933.8822846,
+          "min": 5350403,
+          "max": 9993421383
+        },
+        "address": {
+          "type": "categorical",
+          "top_values": {
+            "30 Brigade Road Bangalore": 8,
+            "28 Koramangala Bangalore": 8,
+            "27 MG Road Bangalore": 5
+          }
+        }
+      }
+    },
+    "4": {
+      "size": 875,
+      "characteristics": {
+        "restaurant_name": {
+          "type": "categorical",
+          "top_values": {
+            "Bakery Sweet": 66,
+            "Burger Palace": 64,
+            "Golden Dragon": 62
+          }
+        },
+        "cuisine": {
+          "type": "categorical",
+          "top_values": {
+            "Korean": 100,
+            "Mediterranean": 83,
+            "Thai": 81
+          }
+        },
+        "area": {
+          "type": "categorical",
+          "top_values": {
+            "Electronic City": 105,
+            "BTM Layout": 96,
+            "MG Road": 94
+          }
+        },
+        "rating": {
+          "type": "numerical",
+          "mean": 4.3673142857142855,
+          "std": 0.4506608274876356,
+          "min": 3.0,
+          "max": 5.0
+        },
+        "cost_for_two": {
+          "type": "numerical",
+          "mean": 692.0,
+          "std": 345.623172797153,
+          "min": 300,
+          "max": 1500
+        },
+        "online_order": {
+          "type": "categorical",
+          "top_values": {
+            "Yes": 875
+          }
+        },
+        "book_table": {
+          "type": "categorical",
+          "top_values": {
+            "No": 875
+          }
+        },
+        "votes": {
+          "type": "numerical",
+          "mean": 2898.116571428571,
+          "std": 1388.5420980367387,
+          "min": 58,
+          "max": 4993
+        },
+        "phone": {
+          "type": "numerical",
+          "mean": 4585649517.722285,
+          "std": 2830940166.705136,
+          "min": 3008741,
+          "max": 9961649590
+        },
+        "address": {
+          "type": "categorical",
+          "top_values": {
+            "66 Indiranagar Bangalore": 5,
+            "94 Brigade Road Bangalore": 5,
+            "52 Electronic City Bangalore": 5
+          }
+        }
+      }
+    },
+    "5": {
+      "size": 883,
+      "characteristics": {
+        "restaurant_name": {
+          "type": "categorical",
+          "top_values": {
+            "Taco Bell": 60,
+            "Thai Paradise": 58,
+            "Vegan Heaven": 52
+          }
+        },
+        "cuisine": {
+          "type": "categorical",
+          "top_values": {
+            "French": 96,
+            "Indian": 94,
+            "American": 94
+          }
+        },
+        "area": {
+          "type": "categorical",
+          "top_values": {
+            "MG Road": 105,
+            "Electronic City": 97,
+            "Whitefield": 92
+          }
+        },
+        "rating": {
+          "type": "numerical",
+          "mean": 4.011325028312571,
+          "std": 0.5835293642597364,
+          "min": 3.0,
+          "max": 5.0
+        },
+        "cost_for_two": {
+          "type": "numerical",
+          "mean": 723.5560588901473,
+          "std": 372.29757009329944,
+          "min": 300,
+          "max": 2000
+        },
+        "online_order": {
+          "type": "categorical",
+          "top_values": {
+            "No": 883
+          }
+        },
+        "book_table": {
+          "type": "categorical",
+          "top_values": {
+            "Yes": 883
+          }
+        },
+        "votes": {
+          "type": "numerical",
+          "mean": 2518.5537938844845,
+          "std": 1416.1796202368323,
+          "min": 53,
+          "max": 4995
+        },
+        "phone": {
+          "type": "numerical",
+          "mean": 4994221909.294451,
+          "std": 2876908809.9625425,
+          "min": 12339273,
+          "max": 9998955019
+        },
+        "address": {
+          "type": "categorical",
+          "top_values": {
+            "95 Electronic City Bangalore": 6,
+            "73 HSR Layout Bangalore": 6,
+            "83 JP Nagar Bangalore": 6
+          }
+        }
+      }
+    },
+    "6": {
+      "size": 900,
+      "characteristics": {
+        "restaurant_name": {
+          "type": "categorical",
+          "top_values": {
+            "BBQ Junction": 56,
+            "Bakery Sweet": 54,
+            "Fried Chicken Co": 54
+          }
+        },
+        "cuisine": {
+          "type": "categorical",
+          "top_values": {
+            "American": 92,
+            "Indian": 83,
+            "Continental": 83
+          }
+        },
+        "area": {
+          "type": "categorical",
+          "top_values": {
+            "Whitefield": 112,
+            "Koramangala": 110,
+            "Marathahalli": 99
+          }
+        },
+        "rating": {
+          "type": "numerical",
+          "mean": 4.0104444444444445,
+          "std": 0.5581849481016419,
+          "min": 3.0,
+          "max": 5.0
+        },
+        "cost_for_two": {
+          "type": "numerical",
+          "mean": 1876.111111111111,
+          "std": 215.98106066004115,
+          "min": 1500,
+          "max": 2000
+        },
+        "online_order": {
+          "type": "categorical",
+          "top_values": {
+            "Yes": 482,
+            "No": 418
+          }
+        },
+        "book_table": {
+          "type": "categorical",
+          "top_values": {
+            "No": 900
+          }
+        },
+        "votes": {
+          "type": "numerical",
+          "mean": 2513.14,
+          "std": 1428.0203221400384,
+          "min": 50,
+          "max": 4987
+        },
+        "phone": {
+          "type": "numerical",
+          "mean": 4878202987.864445,
+          "std": 2782515962.230293,
+          "min": 16307367,
+          "max": 9984101107
+        },
+        "address": {
+          "type": "categorical",
+          "top_values": {
+            "64 Electronic City Bangalore": 4,
+            "37 JP Nagar Bangalore": 4,
+            "43 Indiranagar Bangalore": 4
+          }
+        }
+      }
+    },
+    "7": {
+      "size": 876,
+      "characteristics": {
+        "restaurant_name": {
+          "type": "categorical",
+          "top_values": {
+            "Vegan Heaven": 58,
+            "Thai Paradise": 57,
+            "Noodle Bar": 56
+          }
+        },
+        "cuisine": {
+          "type": "categorical",
+          "top_values": {
+            "Italian": 95,
+            "Thai": 85,
+            "Mexican": 82
+          }
+        },
+        "area": {
+          "type": "categorical",
+          "top_values": {
+            "Whitefield": 94,
+            "Brigade Road": 93,
+            "Koramangala": 93
+          }
+        },
+        "rating": {
+          "type": "numerical",
+          "mean": 4.065867579908676,
+          "std": 0.5840835954252434,
+          "min": 3.0,
+          "max": 5.0
+        },
+        "cost_for_two": {
+          "type": "numerical",
+          "mean": 779.1095890410959,
+          "std": 407.062937189889,
+          "min": 300,
+          "max": 2000
+        },
+        "online_order": {
+          "type": "categorical",
+          "top_values": {
+            "No": 876
+          }
+        },
+        "book_table": {
+          "type": "categorical",
+          "top_values": {
+            "No": 876
+          }
+        },
+        "votes": {
+          "type": "numerical",
+          "mean": 2667.0582191780823,
+          "std": 1444.4077390427724,
+          "min": 61,
+          "max": 4996
+        },
+        "phone": {
+          "type": "numerical",
+          "mean": 7469110522.108447,
+          "std": 1598748694.680029,
+          "min": 2917744439,
+          "max": 9999182029
+        },
+        "address": {
+          "type": "categorical",
+          "top_values": {
+            "56 Brigade Road Bangalore": 5,
+            "39 JP Nagar Bangalore": 5,
+            "12 Electronic City Bangalore": 4
+          }
+        }
+      }
+    },
+    "8": {
+      "size": 827,
+      "characteristics": {
+        "restaurant_name": {
+          "type": "categorical",
+          "top_values": {
+            "Bakery Sweet": 68,
+            "Burger Palace": 61,
+            "Coffee Corner": 49
+          }
+        },
+        "cuisine": {
+          "type": "categorical",
+          "top_values": {
+            "Chinese": 89,
+            "American": 79,
+            "Fast Food": 74
+          }
+        },
+        "area": {
+          "type": "categorical",
+          "top_values": {
+            "Indiranagar": 94,
+            "BTM Layout": 93,
+            "JP Nagar": 93
+          }
+        },
+        "rating": {
+          "type": "numerical",
+          "mean": 3.9446191051995165,
+          "std": 0.5737430255297162,
+          "min": 3.0,
+          "max": 5.0
+        },
+        "cost_for_two": {
+          "type": "numerical",
+          "mean": 769.0447400241839,
+          "std": 401.8834973640172,
+          "min": 300,
+          "max": 1500
+        },
+        "online_order": {
+          "type": "categorical",
+          "top_values": {
+            "No": 826,
+            "Yes": 1
+          }
+        },
+        "book_table": {
+          "type": "categorical",
+          "top_values": {
+            "No": 827
+          }
+        },
+        "votes": {
+          "type": "numerical",
+          "mean": 2379.303506650544,
+          "std": 1397.6277336487717,
+          "min": 63,
+          "max": 4976
+        },
+        "phone": {
+          "type": "numerical",
+          "mean": 2469645482.3736396,
+          "std": 1586307963.041082,
+          "min": 1626602,
+          "max": 7148034957
+        },
+        "address": {
+          "type": "categorical",
+          "top_values": {
+            "24 JP Nagar Bangalore": 4,
+            "47 Whitefield Bangalore": 4,
+            "87 JP Nagar Bangalore": 4
+          }
+        }
+      }
+    },
+    "9": {
+      "size": 833,
+      "characteristics": {
+        "restaurant_name": {
+          "type": "categorical",
+          "top_values": {
+            "Steak House": 59,
+            "Noodle Bar": 57,
+            "Vegan Heaven": 52
+          }
+        },
+        "cuisine": {
+          "type": "categorical",
+          "top_values": {
+            "American": 157,
+            "Chinese": 134,
+            "Fast Food": 104
+          }
+        },
+        "area": {
+          "type": "categorical",
+          "top_values": {
+            "HSR Layout": 105,
+            "BTM Layout": 104,
+            "Brigade Road": 93
+          }
+        },
+        "rating": {
+          "type": "numerical",
+          "mean": 3.7939975990396158,
+          "std": 0.5352367242218782,
+          "min": 3.0,
+          "max": 5.0
+        },
+        "cost_for_two": {
+          "type": "numerical",
+          "mean": 783.6734693877551,
+          "std": 413.3266181237395,
+          "min": 300,
+          "max": 2000
+        },
+        "online_order": {
+          "type": "categorical",
+          "top_values": {
+            "Yes": 832,
+            "No": 1
+          }
+        },
+        "book_table": {
+          "type": "categorical",
+          "top_values": {
+            "Yes": 826,
+            "No": 7
+          }
+        },
+        "votes": {
+          "type": "numerical",
+          "mean": 2262.638655462185,
+          "std": 1425.3972304960755,
+          "min": 56,
+          "max": 4994
+        },
+        "phone": {
+          "type": "numerical",
+          "mean": 3718547798.189676,
+          "std": 2568561235.7424273,
+          "min": 2077837,
+          "max": 9962169360
+        },
+        "address": {
+          "type": "categorical",
+          "top_values": {
+            "76 HSR Layout Bangalore": 6,
+            "87 Electronic City Bangalore": 5,
+            "95 BTM Layout Bangalore": 5
+          }
+        }
+      }
+    }
+  }
+}

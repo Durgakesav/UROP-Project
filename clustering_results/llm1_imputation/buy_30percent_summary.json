@@ -1,0 +1,13 @@
+{
+  "dataset": "buy",
+  "missingness": "30%",
+  "timestamp": "2025-10-27T11:42:41.009458",
+  "api_key": "AIzaSyCAN54rG_gYyE5h...",
+  "total_missing_cells": 676,
+  "successful_imputations": 676,
+  "failed_imputations": 0,
+  "success_rate": 100.0,
+  "accuracy": 0.0,
+  "correct_matches": 0,
+  "total_successful": 676
+}

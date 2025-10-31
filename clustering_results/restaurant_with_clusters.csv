@@ -1,0 +1,605 @@
+name,addr,city,phone,type,cluster_label,is_outlier
+mel's drive-in,3355 geary st.,san francisco,415-387-2244,hamburgers,-1,True
+boulevard,1 mission st.,san francisco,415-543-6084,american (new),-1,True
+tra di noi,3835 cross creek rd.,los angeles,310/456-0169,italian,-1,True
+tang pavillion,65 w. 55th st.,new york,212/956-6888,asian,-1,True
+water club,500 e. 30th st.,new york,212/683-3333,american,-1,True
+palace court,3570 las vegas blvd. s,las vegas,702/731-7547,continental,-1,True
+mary mac's tea room,224 ponce de leon ave.,atlanta,404-876-1800,southern/soul,-1,True
+cafe bizou,14016 ventura blvd.,sherman oaks,818/788-3536,french,-1,True
+van gogh's restaurant & bar,70 w. crossville rd.,roswell,770-993-1156,american (new),-1,True
+pamir,1065 1st ave.  at 58th st.,new york,212/644-9258,middle eastern,-1,True
+gramercy tavern,42 e. 20th st.,new york city,212-477-0777,american (new),-1,True
+izzy's steak & chop house,3345 steiner st.,san francisco,415/563-0487,steak houses,-1,True
+big cup,228 8th ave.  between 21st and 22nd sts.,new york,212/206-0059,coffee bar,-1,True
+grand cafe hotel monaco,501 geary st.,san francisco,415/292-0101,american,-1,True
+steak house  the,2880 las vegas blvd. s.,las vegas,702-734-0410,steakhouses,-1,True
+canter's,419 n. fairfax ave.,los angeles,213/651-2030.,american,-1,True
+ritz-carlton restaurant and dining room,600 stockton st.,san francisco,415/296-7465,american,-1,True
+duane park cafe,157 duane st.  between w. broadway and hudson st.,new york,212/732-5555,american,-1,True
+fraunces tavern,54 pearl st. at broad st.,new york,212/269-0144,american,-1,True
+virgil's,152 w. 44th st.,new york,212/ 921-9494,american,-1,True
+roettelle a. g,126 e. 7th st.  between 1st ave. and ave. a,new york,212/674-4140,continental,-1,True
+au mandarin,200-250 vesey st. world financial center,new york,212/385-0313,asian,-1,True
+tse yang,34 e. 51st st.,new york,212/688-5447,asian,-1,True
+spago (los angeles),8795 sunset blvd.,w. hollywood,310-652-4025,californian,-1,True
+stringer's fish camp and oyster bar,3384 shallowford rd.  chamblee,atlanta,770/458-7145,southern,-1,True
+pisces,95 ave. a at 6th st.,new york,212/260-6660,seafood,-1,True
+cassis,3300 peachtree rd.  grand hyatt,atlanta,404/365-8100,mediterranean,-1,True
+carmine's,2450 broadway  between 90th and 91st sts.,new york,212/362-2200,italian,-1,True
+arizona,206 206 e. 60th st.,new york,212/838-0440,american,-1,True
+caffe dell'artista,46 greenwich ave.,new york,212/645-4431,coffee bar,-1,True
+buccaneer bay club,3300 las vegas blvd. s.,las vegas,702-894-7350,continental,-1,True
+le chardonnay,8284 melrose ave.,los angeles,213/655-8880,french,-1,True
+caffe vivaldi,32 jones st. at bleecker st.,new york,212/691-7538,coffee bar,-1,True
+ocean star,145 n. atlantic blvd.,monterey park,818-308-2128,seafood,-1,True
+perry's,1944 union st.,san francisco,415/922-9022,american,-1,True
+aureole,34 e. 61st st.,new york city,212-319-1660,american (new),-1,True
+koo koo roo,8393 w. beverly blvd.,la,213-655-9045,chicken,-1,True
+bradshaw's restaurant,2911 s. pharr court,atlanta,404-261-7015,southern/soul,-1,True
+benny's burritos,93 ave. a,new york city,212-254-2054,mexican,-1,True
+orleans,11705 national blvd.,los angeles,310/479-4187,cajun,-1,True
+le select,507 columbus ave.  between 84th and 85th sts.,new york,212/875-1993,american,-1,True
+il fornaio levi's plaza,1265 battery st.,san francisco,415/986-0100,italian,-1,True
+veselka,144 second ave.,new york city,212-228-9682,ukrainian,-1,True
+sammy's roumanian steak house,157 chrystie st. at delancey st.,new york,212/673-0330,east european,-1,True
+grill on the alley,9560 dayton way,los angeles,310/276-0615,american,-1,True
+sanppo,1702 post st.,san francisco,415/346-3486,asian,-1,True
+cafe bianco,1486 2nd ave.  between 77th and 78th sts.,new york,212/988-2655,coffee bar,-1,True
+le bernardin,155 w. 51st st.,new york city,212-489-1515,seafood,-1,True
+chanterelle,2 harrison st.,new york city,212-966-6960,french (new),-1,True
+restaurant horikawa,111 s. san pedro st.,los angeles,213/680-9355,asian,-1,True
+9 jones street,9 jones st.,new york,212/989-1220,american,-1,True
+maxwell's cafe,13329 washington blvd.,marina del rey,310-306-7829,american,-1,True
+osteria al droge,142 w. 44th st.,new york,212/944-3643,italian,-1,True
+le central,453 bush st.,san francisco,415/391-2233,french,-1,True
+restaurant  ritz-carlton  atlanta,181 peachtree st.,atlanta,404/659-0400,continental,-1,True
+battista's hole in the wall,4041 audrie st. at flamingo rd.,las vegas,702/732-1424,italian,-1,True
+bally's big kitchen,3645 las vegas blvd. s,las vegas,702/739-4111,buffets,-1,True
+rose pistola,532 columbus ave.,san francisco,415-399-0499,italian,-1,True
+circus circus,2880 las vegas blvd. s,las vegas,702/734-0410,buffets,-1,True
+straits cafe,3300 geary blvd.,san francisco,415/668-1783,asian,-1,True
+french roast cafe,2340 broadway at 85th st.,new york,212/799-1533,coffee bar,-1,True
+gumbo pot  the,6333 w. third st.,la,213-933-0358,cajun/creole,-1,True
+cafe renaissance,7050 jimmy carter blvd.  norcross,atlanta,770/441--0291,american,-1,True
+south of france,2345 cheshire bridge rd.,atlanta,404/325-6963,french,-1,True
+pano's and paul's,1232 w. paces ferry rd.,atlanta,404/261-3662,international,-1,True
+fog city diner,1300 battery st.,san francisco,415/982-2000,american,-1,True
+mad fish,2182 broadway  between 77th and 78th sts.,new york,212/787-0202,seafood,-1,True
+georgia grille,2290 peachtree rd.,atlanta,404-352-3517,southwestern,-1,True
+gladstone's,4 fish 17300 pacific coast hwy. at sunset blvd.,pacific palisades,310/454-3474,american,-1,True
+lillie langtry's,129 e. fremont st.,las vegas,702/385-7111,asian,-1,True
+windows on the world,107th fl.,new york city,212-524-7000,eclectic,-1,True
+island spice,402 w. 44th st.,new york,212/765-1737,tel caribbean,-1,True
+river cafe,1 water st.,brooklyn,718-522-5200,american (new),-1,True
+the savannah club,2420 broadway at 89th st.,new york,212/496-1066,american,-1,True
+sarabeth's kitchen,423 amsterdam ave.  between 80th and 81st sts.,new york,212/496-6280,american,-1,True
+petrossian,182 w. 58th st.,new york,212/245-2214,french,-1,True
+san domenico,240 central park s,new york,212/265-5959,italian,-1,True
+bix,56 gold st.,san francisco,415/433-6300,american,-1,True
+march,405 e. 58th st.,new york,212/754-6272,american,-1,True
+sofia fabulous pizza,1022 madison ave.  near 79th st.,new york,212/734-2676,italian,-1,True
+lutece,249 e. 50th st.,new york city,212-752-2225,french (classic),-1,True
+cupcake cafe,522 9th ave. at 39th st.,new york,212/465-1530,coffee bar,-1,True
+victor's cafe,52 236 w. 52nd st.,new york,212/586-7714,latin american,-1,True
+brookhaven cafe,4274 peachtree rd.,atlanta,404-231-5907,vegetarian,-1,True
+greenwood's,1087 green st.,roswell,770-992-5383,southern/soul,-1,True
+sa tsu ki,3043 buford hwy.,atlanta,404/325-5285,asian,-1,True
+sundown cafe,2165 cheshire bridge rd.,atlanta,404/321-1118,american,-1,True
+mesa grill,102 5th ave.  between 15th and 16th sts.,new york,212/807-7400,american,-1,True
+chinois on main,2709 main st.,santa monica,310-392-9025,pacific new wave,-1,True
+anthonys,3109 piedmont rd.  just south of peachtree rd.,atlanta,404/262-7379,american,-1,True
+valentino,3115 pico blvd.,santa monica,310-829-4313,italian,-1,True
+valentino,3115 pico blvd.,santa monica,310/829-4313,italian,-1,True
+chez jacqueline,72 macdougal st.  between w. houston and bleecker sts.,new york,212/505-0727,french,-1,True
+heera of india,595 piedmont ave.,atlanta,404-876-4408,indian,-1,True
+szechuan hunan cottage,1588 york ave.,new york city,212-535-5223,chinese,-1,True
+nickiemoto's: a sushi bar,247 buckhead ave.  east village sq.,atlanta,404/842-0334,fusion,-1,True
+cafe blanc,9777 little santa monica blvd.,beverly hills,310-888-0108,pacific new wave,-1,True
+rubicon,558 sacramento st.,san francisco,415/434-4100,american,-1,True
+cafe  ritz-carlton  buckhead,3434 peachtree rd.,atlanta,404/237-2700,ext 6108 international,-1,True
+nava,3060 peachtree rd.,atlanta,404-240-1984,southwestern,-1,True
+california culinary academy,625 polk st.,san francisco,415/771-3500,french,-1,True
+pano's & paul's,1232 w. paces ferry rd.,atlanta,404-261-3662,american (new),-1,True
+hayes street grill,320 hayes st.,san francisco,415/863-5545,seafood,-1,True
+michael's (los angeles),1147 third st.,santa monica,310-451-0843,californian,-1,True
+jack's,615 sacramento st.,san francisco,415/986-9854,old san francisco,-1,True
+le dome,8720 sunset blvd.,los angeles,310/659-6919,french,-1,True
+les halles,411 park ave. s  between 28th and 29th sts.,new york,212/679-4111,french,-1,True
+corrado cafe,1013 3rd ave.  between 60th and 61st sts.,new york,212/753-5100,coffee bar,-1,True
+antonio's,3700 w. flamingo,las vegas,702/252-7737,italian,-1,True
+fenix at the argyle,8358 sunset blvd.,w. hollywood,213-848-6677,french (new),-1,True
+art's deli,12224 ventura blvd.,studio city,818-762-1221,delis,-1,True
+inca grill,492 broome st.  near w. broadway,new york,212/966-3371,latin american,-1,True
+le colonial,8783 beverly blvd.,los angeles,310/289-0660,asian,-1,True
+harbor village,4 embarcadero center,san francisco,415/781-8833,asian,-1,True
+planet hollywood,140 w. 57th st.,new york,212/333-7827,american,-1,True
+ipanema,13 w. 46th st.,new york,212/730-5848,latin american,-1,True
+rose pistola,532 columbus ave.,san francisco,415/399-0499,italian,-1,True
+eats,600 ponce de leon ave.,atlanta,404-888-9149,italian,-1,True
+monkey bar,60 e. 54th st.,new york,212/838-2600,american,-1,True
+alon's at the terrace,659 peachtree st.,atlanta,404-724-0444,sandwiches,-1,True
+caffe bondi ristorante,7 w. 20th st.,new york,212/691-8136,italian,-1,True
+la grotta at ravinia dunwoody rd.,holiday inn/crowne plaza at ravinia  dunwoody,atlanta,770/395-9925,italian,-1,True
+campanile,624 s. la brea ave.,los angeles,213-938-1447,californian,-1,True
+hard rock cafe,8600 beverly blvd.,los angeles,310/276-7605,american,-1,True
+l'orangerie,903 n. la cienega blvd.,los angeles,310/652-9770,french,-1,True
+fishin eddie,73 w. 71st st.,new york,212/874-3474,seafood,-1,True
+ritz-carlton dining room (san francisco),600 stockton st.,san francisco,415-296-7465,french (new),-1,True
+garden court,market and new montgomery sts.,san francisco,415/546-5011,old san francisco,-1,True
+one if by land  tibs,17 barrow st.,new york city,212-228-0822,continental,-1,True
+la taqueria,2889 mission st.,san francisco,415-285-7117,mexican,-1,True
+imperial fez,2285 peachtree rd.  peachtree battle condominium,atlanta,404/351-0870,mediterranean,-1,True
+dix et sept,181 w. 10th st.,new york,212/645-8023,french,-1,True
+ej's luncheonette,432 sixth ave.,new york city,212-473-5555,diners,-1,True
+fringale,570 fourth st.,san francisco,415-543-0573,french bistro,-1,True
+chan dara,310 n. larchmont blvd.,los angeles,213/467-1052,asian,-1,True
+march,405 e. 58th st.,new york city,212-754-6272,american (new),-1,True
+s.p.q.r,133 mulberry st.  between hester and grand sts.,new york,212/925-3120,italian,-1,True
+mani's bakery & espresso bar,519 s. fairfax ave.,la,213-938-8800,desserts,-1,True
+bugsy's diner,3555 las vegas blvd. s,las vegas,702/733-3111,coffee shops/diners,-1,True
+20 mott,20 mott st.  between bowery and pell st.,new york,212/964-0380,asian,-1,True
+toulouse,b peachtree rd.,atlanta,404/351-9533,french,-1,True
+pink's famous chili dogs,709 n. la brea ave.,la,213-931-4223,hot dogs,-1,True
+verbena,54 irving pl. at 17th st.,new york,212/260-5454,american,-1,True
+bone's restaurant,3130 piedmont rd. ne,atlanta,404-237-2663,steakhouses,-1,True
+island spice,402 w. 44th st.,new york city,212-765-1737,caribbean,-1,True
+des alpes,732 broadway,san francisco,415/788-9900,french,-1,True
+tomtom,3393 peachtree rd.,atlanta,404/264-1163,continental,-1,True
+tavola calda,7371 melrose ave.,los angeles,213/658-6340,italian,-1,True
+four seasons grill room,99 e. 52nd st.,new york,212/754-9494,american,-1,True
+center stage plaza hotel,1 main st.,las vegas,702/386-2512,american,-1,True
+alain rondelli,126 clement st.,san francisco,415/387-0408,french,-1,True
+remi,3rd st. promenade,santa monica,310/393-6545,italian,-1,True
+zarzuela,2000 hyde st.,san francisco,415/346-0800,mexican/latin american/spanish,-1,True
+bertolini's,3570 las vegas blvd. s,las vegas,702/735-4663,italian,-1,True
+cha cha cha,656 n. virgil ave.,los angeles,213/664-7723,caribbean,-1,True
+lutece,249 e. 50th st.,new york,212/752-2225,french,-1,True
+la grenouille,3 e. 52nd st.,new york city,212-752-1495,french (classic),-1,True
+second avenue deli,156 second ave.,new york city,212-677-0606,delis,-1,True
+smith & wollensky,797 third ave.,new york city,212-753-1530,steakhouses,-1,True
+tommy's,2575 beverly blvd.,la,213-389-9060,hamburgers,-1,True
+alamo,304 e. 48th st.,new york,212/ 759-0590,mexican,-1,True
+clearwater cafe,168 w. colorado blvd.,los angeles,818/356-0959,health food,-1,True
+arnie morton's of chicago,435 s. la cienega blv.,los angeles,310/246-1501,american,-1,True
+sally's cafe & bakery,300 de haro st.,san francisco,415-626-6006,american,-1,True
+parioli romanissimo,24 e. 81st st.,new york,212/288-2391,italian,-1,True
+stick to your ribs,5-16 51st ave.,queens,718-937-3030,bbq,-1,True
+lattanzi ristorante,361 w. 46th st.,new york,212/315-0980,italian,-1,True
+brent's deli,19565 parthenia ave.,northridge,818-886-5679,delis,-1,True
+tavern on the green,in central park at 67th st.,new york,212/873-3200,american,-1,True
+the mandarin,430 n. camden dr.,los angeles,310/859-0926,asian,-1,True
+jiraffe,502 santa monica blvd,santa monica,310-917-6671,californian,-1,True
+second avenue deli,156 2nd ave. at 10th st.,new york,212/677-0606,delicatessen,-1,True
+border grill,4th st.,los angeles,310/451-1655,mexican,-1,True
+le soleil,133 clement st.,san francisco,415/668-4848,asian,-1,True
+cypress club,500 jackson st.,san francisco,415/296-8555,american,-1,True
+west,63rd street steakhouse 44 w. 63rd st.,new york,212/246-6363,american,-1,True
+schatzi on main,3110 main st.,los angeles,310/399-4800,continental,-1,True
+caffe dante,81 macdougal st.  between houston and bleeker sts.,new york,212/982-5275,coffee bar,-1,True
+harris',2100 van ness ave.,san francisco,415/673-1888,steak houses,-1,True
+steak house,2880 las vegas blvd. s,las vegas,702/734-0410,steak houses,-1,True
+palio d'asti,640 sacramento st.,san francisco,415/395-9800,italian,-1,True
+broiler,4111 boulder hwy.,las vegas,702/432-7777,american,-1,True
+tre visi,3799 las vegas blvd. s.,las vegas,702-891-7331,italian,-1,True
+scala's bistro,432 powell st.,san francisco,415/395-8555,italian,-1,True
+global,33 93 2nd ave.  between 5th and 6th sts.,new york,212/477-8427,american,-1,True
+posto,14928 ventura blvd.,sherman oaks,818/784-4400,italian,-1,True
+macarthur park,607 front st.,san francisco,415/398-5700,american,-1,True
+bruno,240 e. 58th st.,new york,212/688-4190,italian,-1,True
+motown cafe,104 w. 57th st.  near 6th ave.,new york,212/581-8030,american,-1,True
+ct,111 e. 22nd st.  between park ave. s and lexington ave.,new york,212/995-8500,french,-1,True
+fat matt's rib shack,1811 piedmont ave.  near cheshire bridge rd.,atlanta,404/607-1622,barbecue,-1,True
+21 club,21 w. 52nd st.,new york,212/582-7200,american,-1,True
+felix,340 w. broadway at grand st.,new york,212/431-0021,french,-1,True
+grand ticino,228 thompson st.  between w. 3rd and bleecker sts.,new york,212/777-5922,italian,-1,True
+pamplemousse,400 e. sahara ave.,las vegas,702/733-2066,continental,-1,True
+nate 'n' al's,414 n. beverly dr.,los angeles,310/274-0101,american,-1,True
+cafe claude,7 claude ln.,san francisco,415-392-3505,french bistro,-1,True
+wa-ha-ka oaxaca mexican grill,2141 polk st.,san francisco,415-775-1055,mexican,-1,True
+edison cafe,228 w. 47th st.,new york city,212-840-5000,diners,-1,True
+picholine,35 w. 64th st.,new york city,212-724-8585,mediterranean,-1,True
+carnegie deli,854 seventh ave.,new york city,212-757-2245,delis,-1,True
+original pancake house (at),4330 peachtree rd.,atlanta,404-237-4116,american,-1,True
+atlanta fish market,265 pharr rd.,atlanta,404/262-3165,american,-1,True
+oceana,55 e. 54th st.,new york,212/759-5941,seafood,-1,True
+post house,28 e. 63rd st.,new york,212/935-2888,american,-1,True
+harry denton's,161 steuart st.,san francisco,415/882-1333,american,-1,True
+cafe sunflower,5975 roswell rd.,atlanta,404-256-1675,health food,-1,True
+rumpus,1 tillman pl.,san francisco,415/421-2300,american,-1,True
+pane e vino,3011 steiner st.,san francisco,415/346-2111,italian,-1,True
+ritz-carlton cafe (buckhead),3434 peachtree rd. ne,atlanta,404-237-2700,american (new),-1,True
+boonthai,1393a 2nd ave.  between 72nd and 73rd sts.,new york,212/249-8484,asian,-1,True
+veniero's pasticceria,342 e. 11th st.  near 1st ave.,new york,212/674-7264,coffee bar,-1,True
+carmine's,2450 broadway,new york city,212-362-2200,italian,-1,True
+bill's place,2315 clement st.,san francisco,415-221-5262,hamburgers,-1,True
+abruzzi,2355 peachtree rd. ne,atlanta,404-261-8186,italian,-1,True
+smith & wollensky,201 e. 49th st.,new york,212/753-1530,american,-1,True
+parkway grill,510 s. arroyo pkwy.,pasadena,818-795-1001,californian,-1,True
+sam's noodle shop,411 third ave.,new york city,212-213-2288,chinese,-1,True
+toulouse,293-b peachtree rd.,atlanta,404-351-9533,french (new),-1,True
+pho hoa,642 broadway,chinatown,213-626-5530,vietnamese,-1,True
+aureole,34 e. 61st st.,new york,212/ 319-1660,american,-1,True
+docks,633 3rd ave. at 40th st.,new york,212/ 986-8080,seafood,-1,True
+remi,145 w. 53rd st.,new york,212/581-4242,italian,-1,True
+phnom penh cambodian restaurant,631 larkin st.,san francisco,415-775-5979,cambodian,-1,True
+sylvia's,328 lenox ave.,new york city,212-996-0660,southern/soul,-1,True
+caffe reggio,119 macdougal st.  between 3rd and bleecker sts.,new york,212/475-9557,coffee bar,-1,True
+fiorello's roman cafe,1900 broadway  between 63rd and 64th sts.,new york,212/595-5330,italian,-1,True
+chopstix,4279 roswell rd.,atlanta,404-255-4868,chinese,-1,True
+second street grille,200 e. fremont st.,las vegas,702/385-3232,seafood,-1,True
+teresa's,103 1st ave.  between 6th and 7th sts.,new york,212/228-0604,east european,-1,True
+golden unicorn,18 e. broadway at catherine st.,new york,212/ 941-0911,asian,-1,True
+ocean park cafe,3117 ocean park blvd.,santa monica,310-452-5728,american,-1,True
+palace court,3570 las vegas blvd. s.,las vegas,702-731-7110,french (new),-1,True
+le gamin,50 macdougal st.  between houston and prince sts.,new york,212/254-4678,coffee bar,-1,True
+annie's thai castle,3195 roswell rd.,atlanta,404/264-9546,asian,-1,True
+ocean avenue,1401 ocean ave.,santa monica,310/394-5669,american,-1,True
+caffe lure,169 sullivan st.  between houston and bleecker sts.,new york,212/473-2642,french,-1,True
+grill  the,9560 dayton way,beverly hills,310-276-0615,american (traditional),-1,True
+mary mac's tea room,224 ponce de leon ave.,atlanta,404/876-1800,southern,-1,True
+rainbow restaurant,2118 n. decatur rd.,decatur,404-633-3538,vegetarian,-1,True
+cafe botanica,160 central park s,new york,212/484-5120,french,-1,True
+l'auberge,1191 1st ave.  between 64th and 65th sts.,new york,212/288-8791,middle eastern,-1,True
+havana sandwich shop,2905 buford hwy.,atlanta,404-636-4094,cuban,-1,True
+citrus,6703 melrose ave.,los angeles,213/857-0034,californian,-1,True
+lola,30 west 22nd st.  between 5th and 6th ave.,new york,212/675-6700,american,-1,True
+lucky strike,59 grand st.  between wooster st. and w. broadway,new york,212/941-0479,or 212/941-0772 american,-1,True
+bouterin,420 e. 59th st.  off 1st ave.,new york,212/758-0323,french,-1,True
+firehouse,522 columbus ave.  between 85th and 86th sts.,new york,212/595-3139,american,-1,True
+le chardonnay (los angeles),8284 melrose ave.,los angeles,213-655-8880,french bistro,-1,True
+sparks steak house,210 e. 46th st.,new york city,212-687-4855,steakhouses,-1,True
+indigo coastal grill,1397 n. highland ave.,atlanta,404-876-0676,eclectic,-1,True
+bistro,3400 las vegas blvd. s,las vegas,702/791-7111,continental,-1,True
+rex il ristorante,617 s. olive st.,los angeles,213/627-2300,italian,-1,True
+nikolai's roof,255 courtland st.,atlanta,404-221-6362,continental,-1,True
+ed debevic's,134 n. la cienega,los angeles,310/659-1952,american,-1,True
+cucina della fontana,368 bleecker st.,new york city,212-242-0636,italian,-1,True
+gaylord's,ghirardelli sq.,san francisco,415/771-8822,asian,-1,True
+bruno's,3838 centinela ave.,mar vista,310-397-5703,italian,-1,True
+moustache,405 atlantic ave.,brooklyn,718-852-5555,middle eastern,-1,True
+brasserie le coze,3393 peachtree rd.  lenox square mall  near neiman marcus,atlanta,404/266-1440,french,-1,True
+agrotikon,322 e. 14 st.  between 1st and 2nd aves.,new york,212/473-2602,mediterranean,-1,True
+emeril's new orleans fish house,3799 las vegas blvd. s.,las vegas,702-891-7374,seafood,-1,True
+granita,23725 w. malibu rd.,malibu,310-456-0488,californian,-1,True
+tavern on the green,central park west,new york city,212-873-3200,american (new),-1,True
+caffe roma,385 broome st. at mulberry,new york,212/226-8413,coffee bar,-1,True
+joss,9255 sunset blvd.,los angeles,310/276-1886,asian,-1,True
+zankou chicken,1415 e. colorado st.,glendale,818-244-1937,middle eastern,-1,True
+white house restaurant,3172 peachtree rd. ne,atlanta,404-237-7601,diners,-1,True
+aqua,252 california st.,san francisco,415/956-9662,seafood,-1,True
+san domenico,240 central park s.,new york city,212-265-5959,italian,-1,True
+bamboo garden,4850 flamingo rd.,las vegas,702/871-3262,asian,-1,True
+dining room  ritz-carlton  buckhead,3434 peachtree rd.,atlanta,404/237-2700,international,-1,True
+billy's,948 1st ave.  between 52nd and 53rd sts.,new york,212/753-1870,american,-1,True
+diaghilev,1020 n. san vicente blvd.,w. hollywood,310-854-1111,russian,-1,True
+afghan kebab house,764 ninth ave.,new york city,212-307-1612,afghan,-1,True
+suppenkuche,601 hayes st.,san francisco,415/252-9289,russian/german,-1,True
+kabuto sushi,5116 geary blvd.,san francisco,415/752-5652,asian,-1,True
+chevys,4th and howard sts.,san francisco,415/543-8060,mexican/latin american/spanish,-1,True
+luna si,1931 peachtree rd.,atlanta,404/355-5993,continental,-1,True
+mario's bohemian cigar store cafe,2209 polk st.,san francisco,415-776-8226,italian,-1,True
+yujean kang's,67 n. raymond ave.,pasadena,818-585-0855,chinese,-1,True
+stefano's,129 fremont st.,las vegas,702-385-7111,italian,-1,True
+buckhead diner,3073 piedmont rd.,atlanta,404-262-3336,american (new),-1,True
+la fonda latina,4427 roswell rd.,atlanta,404-303-8201,spanish,-1,True
+la grotta,2637 peachtree rd. ne,atlanta,404-231-1368,italian,-1,True
+granita,23725 w. malibu rd.,malibu,310/456-0488,californian,-1,True
+hsu's gourmet,192 peachtree center ave.  at international blvd.,atlanta,404/659-2788,asian,-1,True
+aquavit,13 w. 54th st.,new york,212/307-7311,continental,-1,True
+cha cha cha's,1805 haight st.,san francisco,415-386-5758,caribbean,-1,True
+hugo's cellar,202 e. fremont st.,las vegas,702-385-4011,continental,-1,True
+little szechuan,c buford hwy.  northwoods plaza  doraville,atlanta,770/451-0192,asian,-1,True
+katia's,600 5th ave.,san francisco,415/668-9292,,-1,True
+two two two,222 w. 79th st.,new york,212/799-0400,american,-1,True
+west beach cafe,60 n. venice blvd.,los angeles,310/823-5396,american,-1,True
+buca giovanni,800 greenwich st.,san francisco,415/776-7766,italian,-1,True
+barney greengrass,9570 wilshire blvd.,beverly hills,310/777-5877,american,-1,True
+locanda veneta,3rd st.,los angeles,310/274-1893,italian,-1,True
+kokomo cafe,6333 w. third st.,la,213-933-0773,american,-1,True
+pen & pencil,205 e. 45th st.,new york,212/682-8660,american,-1,True
+fujiyama mama,467 columbus ave.  between 82nd and 83rd sts.,new york,212/769-1144,asian,-1,True
+broadway deli,3rd st. promenade,santa monica,310/451-0616,american,-1,True
+pinot bistro,12969 ventura blvd.,studio city,818-990-0500,french bistro,-1,True
+zab-e-lee,4837 old national hwy.,college park,404-768-2705,thai,-1,True
+hi-life restaurant and lounge,1340 1st ave. at 72nd st.,new york,212/249-3600,american,-1,True
+tapika,950 8th ave. at 56th st.,new york,212/ 397-3737,american,-1,True
+cafe flore,2298 market st.,san francisco,415-621-8579,californian,-1,True
+lemongrass grill,61a seventh ave.,brooklyn,718-399-7100,thai,-1,True
+killer shrimp,4000 colfax ave.,studio city,818-508-1570,seafood,-1,True
+cafe claude,7 claude la.,san francisco,415/392-3505,french,-1,True
+marnie's noodle shop,466 hudson st.,new york city,212-741-3214,asian,-1,True
+palm too,840 second ave.,new york city,212-697-5198,steakhouses,-1,True
+coco loco,40  buckhead crossing mall on the sidney marcus blvd.,atlanta,404/364-0212,caribbean,-1,True
+campo santo,240 columbus ave.,san francisco,415-433-9623,mexican,-1,True
+andre's french restaurant,401 s. 6th st.,las vegas,702-385-5016,french (classic),-1,True
+caffe greco,423 columbus ave.,san francisco,415-397-6261,continental,-1,True
+georgia grille,2290 peachtree rd.  peachtree square shopping center,atlanta,404/352-3517,american,-1,True
+north india,3131 webster st.,san francisco,415/931-1556,asian,-1,True
+bone's,3130 piedmont road,atlanta,404/237-2663,american,-1,True
+hyde street bistro,1521 hyde st.,san francisco,415/441-7778,italian,-1,True
+moose's,1652 stockton st.,san francisco,415/989-7800,mediterranean,-1,True
+cafe '50s,838 lincoln blvd.,venice,310-399-1955,american,-1,True
+rainbow room,30 rockefeller plaza,new york city,212-632-5000,american (new),-1,True
+beaurivage,26025 pacific coast hwy.,malibu,310/456-5733,french,-1,True
+house of chan,2469 cobb pkwy.,smyrna,770-955-9444,chinese,-1,True
+park avenue cafe (new york city),100 e. 63rd st.,new york city,212-644-1900,american (new),-1,True
+montien,1134 1st ave.   between 62nd and 63rd sts.,new york,212/421-4433,asian,-1,True
+milan cafe and coffee bar,120 w. 23rd st.,new york,212/807-1801,coffee bar,-1,True
+greens,bldg. a fort mason,san francisco,415/771-6222,vegetarian,-1,True
+seryna,11 e. 53rd st.,new york city,212-980-9393,japanese,-1,True
+cafe lalo,201 w. 83rd st.,new york city,212-496-6031,coffeehouses,-1,True
+bacchanalia,3125 piedmont rd.,atlanta,404-365-0410,californian,-1,True
+le perigord,405 e. 52nd st.,new york,212/755-6244,french,-1,True
+majestic,1031 ponce de leon ave.,atlanta,404-875-0276,diners,-1,True
+khan toke thai house,5937 geary blvd.,san francisco,415-668-6654,thai,-1,True
+piero's restaurant,355 convention center dr.,las vegas,702-369-2305,italian,-1,True
+duke's,8909 sunset blvd.,w. hollywood,310-652-3100,coffee shops,-1,True
+campanile,624 s. la brea ave.,los angeles,213/938-1447,american,-1,True
+swan oyster depot,1517 polk st.,san francisco,415-673-1101,seafood,-1,True
+pinot bistro,12969 ventura blvd.,los angeles,818/990-0500,french,-1,True
+sal anthony's,55 irving pl.,new york,212/982-9030,italian,-1,True
+jackson's farm,439 n. beverly drive,los angeles,310/273-5578,californian,-1,True
+bolo,23 e. 22nd st.,new york,212/228-2200,mediterranean,-1,True
+jody maroni's sausage kingdom,2011 ocean front walk,venice,310-306-1995,hot dogs,-1,True
+bizou,598 fourth st.,san francisco,415/543-2222,french,-1,True
+pastis,1015 battery st.,san francisco,415/391-2555,french,-1,True
+stars,150 redwood alley,san francisco,415/861-7827,american,-1,True
+nicola,601 s. figueroa st.,los angeles,213/485-0927,american,-1,True
+bar anise,1022 3rd ave.  between 60th and 61st sts.,new york,212/355-1112,mediterranean,-1,True
+marichu,342 e. 46th st.  between 1st and 2nd aves.,new york,212/370-1866,french,-1,True
+bacchanalia,3125 piedmont rd.  near peachtree rd.,atlanta,404/365-0410,international,-1,True
+joe's shanghai,9 pell st.,queens,718-539-3838,chinese,-1,True
+yama,122 e. 17th st.,new york city,212-475-0969,japanese,-1,True
+empress court,3570 las vegas blvd. s,las vegas,702/731-7888,asian,-1,True
+xunta,174 1st ave.  between 10th and 11th sts.,new york,212/614-0620,mediterranean,-1,True
+tillerman  the,2245 e. flamingo rd.,las vegas,702-731-4036,steakhouses,-1,True
+tillerman,2245 e. flamingo rd.,las vegas,702/731-4036,seafood,-1,True
+johnny rockets (la),7507 melrose ave.,la,213-651-3361,american,-1,True
+flying biscuit  the,1655 mclendon ave.,atlanta,404-687-8888,eclectic,-1,True
+elias corner,24-02 31st st.,queens,718-932-1510,greek,-1,True
+f. ille ponte ristorante,39 desbrosses st.  near west st.,new york,212/226-4621,italian,-1,True
+spring street natural restaurant & bar,62 spring st. at lafayette st.,new york,212/966-0290,american,-1,True
+capsouto freres,451 washington st.  near watts st.,new york,212/966-4900,french,-1,True
+veni vidi vici,41 14th st.,atlanta,404/875-8424,italian,-1,True
+sign of the dove,1110 third ave.,new york city,212-861-8080,american (new),-1,True
+lombardi's,32 spring st.,new york city,212-941-7994,pizza,-1,True
+mccormick & kuleto's,ghirardelli sq.,san francisco,415/929-1730,seafood,-1,True
+second street grill,200 e. fremont st.,las vegas,702-385-6277,pacific rim,-1,True
+soto,3330 piedmont rd.,atlanta,404-233-2005,japanese,-1,True
+campton place,340 stockton st.,san francisco,415-955-5555,american (new),-1,True
+millennium,246 mcallister st.,san francisco,415/487-9800,vegetarian,-1,True
+tommy tang's,7313 melrose ave.,los angeles,213/937-5733,asian,-1,True
+anche vivolo,222 e. 58th st.  between 2nd and 3rd aves.,new york,212/308-0112,italian,-1,True
+le jardin,25 cleveland pl.  near spring st.,new york,212/343-9599,french,-1,True
+sign of the dove,1110 3rd ave. at 65th st.,new york,212/861-8080,american,-1,True
+ritz-carlton restaurant,181 peachtree st.,atlanta,404-659-0400,french (classic),-1,True
+fringale,570 4th st.,san francisco,415/543-0573,french,-1,True
+penang soho,109 spring st.  between greene and mercer sts.,new york,212/274-8883,asian,-1,True
+el cholo,1121 s. western ave.,los angeles,213/734-2773,mexican,-1,True
+marquet patisserie,15 e. 12th st.  between 5th ave. and university pl.,new york,212/229-9313,coffee bar,-1,True
+wollensky's grill,205 e. 49th st.,new york city,212-753-0444,steakhouses,-1,True
+uncle nick's,747 ninth ave.,new york city,212-245-7992,greek,-1,True
+vivande ristorante,670 golden gate ave.,san francisco,415/673-9245,italian,-1,True
+le marais,150 w. 46th st.,new york,212/869-0900,american,-1,True
+la cachette,10506 little santa monica blvd.,century city,310-470-4992,french (new),-1,True
+jan's family restaurant,8424 beverly blvd.,la,213-651-2866,coffee shops,-1,True
+103 west,103 w. paces ferry rd.,atlanta,404-233-5993,continental,-1,True
+postrio,545 post st.,san francisco,415-776-7825,californian,-1,True
+yaya cuisine,1220 9th ave.,san francisco,415/566-6966,greek and middle eastern,-1,True
+baker's cajun cafe,1134 euclid ave.,atlanta,404-223-5039,cajun/creole,-1,True
+brighton coffee shop,9600 brighton way,beverly hills,310-276-7732,coffee shops,-1,True
+bobby & june's kountry kitchen,375 14th st.,atlanta,404-876-3872,southern/soul,-1,True
+south park cafe,108 south park,san francisco,415/495-7275,french,-1,True
+kelley & ping,127 greene st.,new york city,212-228-1212,pan-asian,-1,True
+kelly's on trinity,333 bush st.,san francisco,415-362-4454,californian,-1,True
+jimmy sung's,219 e. 44th st.  between 2nd and 3rd aves.,new york,212/682-5678,asian,-1,True
+doidge's,2217 union st.,san francisco,415-921-2149,american,-1,True
+holt bros. bar-b-q,6359 jimmy carter blvd.  at buford hwy.  norcross,atlanta,770/242-3984,barbecue,-1,True
+pinot hollywood,1448 n. gower st.,los angeles,213/461-8800,californian,-1,True
+uncle bill's pancake house,1305 highland ave.,manhattan beach,310-545-5177,diners,-1,True
+pomaire,371 w. 46th st.  off 9th ave.,new york,212/ 956-3055,latin american,-1,True
+beesley's of buckhead,260 e. paces ferry road,atlanta,404/264-1334,continental,-1,True
+river cafe,1 water st. at the east river,brooklyn,718/522-5200,american,-1,True
+cafe pinot,700 w. fifth st.,los angeles,213/239-6500,californian,-1,True
+sarabeth's,1295 madison ave.,new york city,212-410-7335,american,-1,True
+maykadeh,470 green st.,san francisco,415/362-8286,greek and middle eastern,-1,True
+hard rock cafe,221 w. 57th st.,new york,212/489-6565,american,-1,True
+la mediterranee,288 noe st.,san francisco,415-431-7210,mediterranean,-1,True
+california pizza kitchen,207 s. beverly dr.,los angeles,310/275-1101,californian,-1,True
+la salsa (la),22800 pch,malibu,310-456-6299,mexican,-1,True
+cafe fes,246 w. 4th st. at charles st.,new york,212/924-7653,mediterranean,-1,True
+belvedere  the,9882 little santa monica blvd.,beverly hills,310-788-2306,pacific new wave,-1,True
+main street,446 columbus ave.  between 81st and 82nd sts.,new york,212/873-5025,american,-1,True
+mayflower cuisinier,4750 w. sahara ave.,las vegas,702-870-8432,chinese,-1,True
+flowers,21 west 17th st.  between 5th and 6th aves.,new york,212/691-8888,american,-1,True
+louise's trattoria,4500 los feliz blvd.,los angeles,213/667-0777,italian,-1,True
+stars cafe,500 van ness ave.,san francisco,415/861-4344,american,-1,True
+the heights,3235 sacramento st.,san francisco,415/474-8890,french,-1,True
+vida,1930 north hillhurst ave.,los feliz,213/660-4446,american,-1,True
+hudson river club,4 world financial center,new york,212/786-1500,american,-1,True
+jean lafitte,68 w. 58th st.,new york,212/751-2323,french,-1,True
+adriano's ristorante,2930 beverly glen circle,los angeles,310/475-9807,italian,-1,True
+palm  the (atlanta),3391 peachtree rd. ne,atlanta,404-814-1955,steakhouses,-1,True
+sushi nozawa,11288 ventura blvd.,studio city,818-508-7017,japanese,-1,True
+the coffee pot,350 9th ave. at 49th st.,new york,212/265-3566,coffee bar,-1,True
+evergreen cafe,1288 1st ave. at 69th st.,new york,212/744-3266,asian,-1,True
+dante's down the hatch  buckhead,3380 peachtree rd.,atlanta,404/266-1600,continental,-1,True
+wu kong,101 spear st.,san francisco,415/957-9300,asian,-1,True
+mo's burgers,1322 grant st.,san francisco,415-788-3779,hamburgers,-1,True
+deacon burton's soulfood restaurant,1029 edgewood ave. se,atlanta,404-523-1929,southern/soul,-1,True
+nicky blair's,3925 paradise rd.,las vegas,702-792-9900,italian,-1,True
+r&g lounge,631 b kearny st.,san francisco,415/982-7877,or 415/982-3811 asian,-1,True
+menchanko-tei,39 w. 55th st.,new york city,212-247-1585,japanese,-1,True
+apple pan  the,10801 w. pico blvd.,west la,310-475-3585,american,-1,True
+kiev,117 second ave.,new york city,212-674-4040,ukrainian,-1,True
+margarita's mexican cantina,3120 las vegas blvd. s,las vegas,702/794-8200,mexican,-1,True
+silver skillet  the,200 14th st. nw,atlanta,404-874-1388,coffee shops,-1,True
+carta,1772 market st.,san francisco,415/863-3516,american,-1,True
+les celebrites,155 w. 58th st.,new york city,212-484-5113,french (classic),-1,True
+drai's,730 n. la cienega blvd.,los angeles,310/358-8585,french,-1,True
+poquito mas,2635 w. olive ave.,burbank,818-563-2252,mexican,-1,True
+ciboulette restaurant,1529 piedmont ave.,atlanta,404-874-7600,french (new),-1,True
+pricci,500 pharr rd.,atlanta,404/237-2941,italian,-1,True
+philippe the original,1001 n. alameda st.,chinatown,213-628-3781,cafeterias,-1,True
+binion's coffee shop,128 fremont st.,las vegas,702/382-1600,coffee shops/diners,-1,True
+la grotta,2637 peachtree rd.  peachtree house condominium,atlanta,404/231-1368,italian,-1,True
+bristol farms market cafe,1570 rosecrans ave. s.,pasadena,310-643-5229,californian,-1,True
+monsoon (ny),435 amsterdam ave.,new york city,212-580-8686,thai,-1,True
+kuruma zushi,2nd fl.,new york city,212-317-2802,japanese,-1,True
+lettuce souprise you (at),3525 mall blvd.,duluth,770-418-9969,cafeterias,-1,True
+mesa grill,102 fifth ave.,new york city,212-807-7400,southwestern,-1,True
+viva mercado's,6182 w. flamingo rd.,las vegas,702/871-8826,mexican,-1,True
+dive!,10250 santa monica blvd.,los angeles,310/788-,dive american,-1,True
+cafe marimba,2317 chestnut st.,san francisco,415/776-1506,mexican/latin american/spanish,-1,True
+mo better meatty meat,7261 melrose ave.,la,213-935-5280,hamburgers,-1,True
+sfuzzi,58 w. 65th st.,new york,212/873-3700,american,-1,True
+golden steer,308 w. sahara ave.,las vegas,702/384-4470,steak houses,-1,True
+szechuan kitchen,1460 first ave.,new york city,212-249-4615,chinese,-1,True
+khan toke thai house,5937 geary blvd.,san francisco,415/668-6654,asian,-1,True
+l'udo,432 lafayette st.  near astor pl.,new york,212/388-0978,french,-1,True
+le chantilly,106 e. 57th st.,new york,212/751-2931,french,-1,True
+la caridad,2199 broadway,new york city,212-874-2780,cuban,-1,True
+plumpjack cafe,3127 fillmore st.,san francisco,415-563-4755,american (new),-1,True
+hotel bel-air,701 stone canyon rd.,bel air,310/472-1211,californian,-1,True
+yoyo tsumami bistro,1611 post st.,san francisco,415/922-7788,french,-1,True
+madame ching's,3300 las vegas blvd. s.,las vegas,702-894-7111,asian,-1,True
+one market,1 market st.,san francisco,415/777-5577,american,-1,True
+capozzoli's,3333 s. maryland pkwy.,las vegas,702/731-5311,italian,-1,True
+gray's papaya,2090 broadway,new york city,212-799-0243,hot dogs,-1,True
+local nochol,30869 thousand oaks blvd.,westlake village,818-706-7706,health food,-1,True
+montrachet,239 w. broadway  between walker and white sts.,new york,212/ 219-2777,french,-1,True
+jackson diner,37-03 74th st.,queens,718-672-1232,indian,-1,True
+cafe adriano,3347 fillmore st.,san francisco,415/474-4180,italian,-1,True
+lincoln tavern,51 w. 64th st.,new york,212/721-8271,american,-1,True
+city grill,50 hurt plaza,atlanta,404/524-2489,international,-1,True
+21 club,21 w. 52nd st.,new york city,212-582-7200,american (new),-1,True
+patina,5955 melrose ave.,los angeles,213/467-1108,californian,-1,True
+fleur de lys,777 sutter st.,san francisco,415/673-7779,french,-1,True
+chin's,3200 las vegas blvd. s,las vegas,702/733-8899,asian,-1,True
+locanda veneta,8638 w. third st.,los angeles,310-274-1893,italian,-1,True
+thai house cafe,151 hudson st.,new york city,212-334-1085,thai,-1,True
+ca'brea,346 s. la brea ave.,los angeles,213/938-2863,italian,-1,True
+zen palate,34 union sq. e at 16th st.,new york,212/614-9291,and 212/614-9345 asian,-1,True
+il cortile,125 mulberry st.  between canal and hester sts.,new york,212/226-6060,italian,-1,True
+aja,937 broadway at 22nd st.,new york,212/473-8388,american,-1,True
+mavalli palace,46 e. 29th st.,new york,212/679-5535,asian,-1,True
+johnny reb's southern smokehouse,4663 long beach blvd.,long beach,310-423-7327,southern/soul,-1,True
+l'auberge du midi,310 w. 4th st.  between w. 12th and bank sts.,new york,212/242-4705,french,-1,True
+hong kong flower lounge,5322 geary blvd.,san francisco,415/668-8998,asian,-1,True
+bistango,1100 peachtree st.,atlanta,404/724-0901,mediterranean,-1,True
+le montrachet,3000 w. paradise rd.,las vegas,702/732-5111,continental,-1,True
+daniel,20 e. 76th st.,new york,212/288-0033,french,-1,True
+terrace,400 w. 119th st.  between amsterdam and morningside aves.,new york,212/666-9490,continental,-1,True
+baja fresh,3345 kimber dr.,westlake village,805-498-4049,mexican,-1,True
+uncle nick's,747 9th ave.  between 50th and 51st sts.,new york,212/315-1726,mediterranean,-1,True
+emerald garden restaurant,1550 california st.,san francisco,415-673-1155,vietnamese,-1,True
+mi spia dunwoody rd.,park place  across from perimeter mall  dunwoody,atlanta,770/393-1333,italian,-1,True
+dawat,210 e. 58th st.,new york,212/355-7555,asian,-1,True
+fenix,8358 sunset blvd. west,hollywood,213/848-6677,american,-1,True
+buckhead diner,3073 piedmont road,atlanta,404/262-3336,american,-1,True
+spago,1114 horn ave.,los angeles,310/652-4025,californian,-1,True
+aleck's barbecue heaven,783 martin luther king jr. dr.,atlanta,404/525-2062,barbecue,-1,True
+il nido,251 e. 53rd st.,new york,212/753-8450,italian,-1,True
+veni vidi vici,41 14th st.,atlanta,404-875-8424,italian,-1,True
+plumpjack cafe,3201 fillmore st.,san francisco,415/563-4755,mediterranean,-1,True
+cafe lalo,201 w. 83rd st.,new york,212/496-6031,coffee bar,-1,True
+da nico,164 mulberry st.  between grand and broome sts.,new york,212/343-1212,italian,-1,True
+peter luger steak house,178 broadway,brooklyn,718-387-7400,steakhouses,-1,True
+cucina di pesce,87 e. fourth st.,new york city,212-260-6800,seafood,-1,True
+good enough to eat,483 amsterdam ave.,new york city,212-496-0163,american,-1,True
+arturo's,106 w. houston st.  off thompson st.,new york,212/677-3820,italian,-1,True
+rubin's red hots,15322 ventura blvd.,encino,818-905-6515,hot dogs,-1,True
+il fornaio cucina italiana,301 n. beverly dr.,los angeles,310/550-8330,italian,-1,True
+il mulino,86 w. third st.,new york city,212-673-3783,italian,-1,True
+shaan,57 w. 48th st.,new york,212/ 977-8400,asian,-1,True
+sant ambroeus,1000 madison ave.  between 77th and 78th sts.,new york,212/570-2211,coffee bar,-1,True
+tu lan,8 sixth st.,san francisco,415-626-0927,vietnamese,-1,True
+prego,362 n. camden dr.,los angeles,310/277-7346,italian,-1,True
+fleur de lys,777 sutter st.,san francisco,415-673-7779,french (new),-1,True
+delectables,1 margaret mitchell sq.,atlanta,404-681-2909,cafeterias,-1,True
+mandarin court,1510 e. flamingo rd.,las vegas,702/737-1234,asian,-1,True
+john's pizzeria,48 w. 65th st.,new york city,212-721-7001,pizza,-1,True
+le madri,168 w. 18th st.,new york,212/727-8022,italian,-1,True
+ruby's (la),45 s. fair oaks ave.,pasadena,818-796-7829,diners,-1,True
+tribeca grill,375 greenwich st.  near franklin st.,new york,212/941-3900,american,-1,True
+fiore rotisserie & grille,3700 w. flamingo rd.,las vegas,702-252-7702,italian,-1,True
+petrossian,182 w. 58th st.,new york city,212-245-2214,russian,-1,True
+2223,2223 market st.,san francisco,415/431-0692,american,-1,True
+l'absinthe,227 e. 67th st.,new york,212/794-4950,french,-1,True
+arnie morton's of chicago,435 s. la cienega blvd.,los angeles,310-246-1501,steakhouses,-1,True
+indian delights,3675 satellite blvd.,duluth,100-813-8212,indian,-1,True
+the bacchanal,3570 las vegas blvd. s,las vegas,702/731-7525,only in las vegas,-1,True
+la cote basque,60 w. 55th st.  between 5th and 6th ave.,new york,212/688-6525,french,-1,True
+hawthorne lane,22 hawthorne st.,san francisco,415-777-9779,californian,-1,True
+philippe's the original,1001 n. alameda st.,los angeles,213/628-3781,american,-1,True
+michael's (las vegas),3595 las vegas blvd. s.,las vegas,702-737-7111,continental,-1,True
+french quarter food shop,923 peachtree st.  at 8th st.,atlanta,404/875-2489,southern,-1,True
+odeon,145 w. broadway at thomas st.,new york,212/233-0507,american,-1,True
+san pietro,18 e. 54th st.,new york,212/753-9015,italian,-1,True
+gallagher's,228 w. 52nd st.,new york,212/245-5336,american,-1,True
+manhattan ocean club,57 w. 58th st.,new york city,212-371-7777,seafood,-1,True
+diva,341 w. broadway  near grand st.,new york,212/941-9024,italian,-1,True
+yolie's,3900 paradise rd.,las vegas,702/794-0700,steak houses,-1,True
+empire korea,6 e. 32nd st.,new york,212/725-1333,asian,-1,True
+monte carlo,3145 las vegas blvd. s.,las vegas,702-733-4524,french (new),-1,True
+drago,2628 wilshire blvd.,santa monica,310/828-1585,italian,-1,True
+citrus,6703 melrose ave.,los angeles,213-857-0034,californian,-1,True
+cafe pierre,2 e. 61st st.,new york,212/940-8185,french,-1,True
+kuleto's,221 powell st.,san francisco,415/397-7720,italian,-1,True
+joe allen,326 w. 46th st.,new york,212/581-6464,american,-1,True
+roscoe's house of chicken 'n' waffles,1514 n. gower st.,los angeles,213/466-9329,american,-1,True
+heera of india,595 piedmont ave.  rio shopping mall,atlanta,404/876-4408,asian,-1,True
+slanted door,584 valencia st.,san francisco,415-861-8032,vietnamese,-1,True
+asahi ramen,2027 sawtelle blvd.,west la,310-479-2231,noodle shops,-1,True
+vince & eddie's,70 w. 68th st.,new york,212/721-0068,american,-1,True
+la cumbre,515 valencia st.,san francisco,415-863-8205,mexican,-1,True
+colonnade restaurant,1879 cheshire bridge rd.,atlanta,404/874-5642,southern,-1,True
+dynasty room,930 hilgard ave.,los angeles,310/208-8765,continental,-1,True
+acquarello,1722 sacramento st.,san francisco,415/567-5432,italian,-1,True
+venetian,3713 w. sahara ave.,las vegas,702/876-4190,italian,-1,True
+martha's,22nd street grill 25 22nd,st. hermosa beach,310-376-7786,american,-1,True
+alain rondelli,126 clement st.,san francisco,415-387-0408,french (new),-1,True
+steakhouse  the,128 e. fremont st.,las vegas,702-382-1600,steakhouses,-1,True
+r-23,923 e. third st.,los angeles,213-687-7178,japanese,-1,True
+triangolo,345 e. 83rd st.,new york,212/472-4488,italian,-1,True
+la serenata de garibaldi,1842 e. first,st. boyle hts.,213-265-2887,mexican/tex-mex,-1,True
+horseradish grill,4320 powers ferry rd.,atlanta,404/255-7277,southern,-1,True
+carnegie deli,854 7th ave.  between 54th and 55th sts.,new york,212/757-2245,delicatessen,-1,True
+trattoria dell'arte,900 7th ave.  between 56th and 57th sts.,new york,212/245-9800,italian,-1,True
+ralph's diner,3000 las vegas blvd. s,las vegas,702/732-6330,coffee shops/diners,-1,True
+patsy's pizza,19 old fulton st.,brooklyn,718-858-4300,pizza,-1,True
+jack sprat's grill,10668 w. pico blvd.,los angeles,310/837-6662,health food,-1,True
+katsu,1972 hillhurst ave.,los feliz,213-665-1891,japanese,-1,True
+cafe la fortuna,69 w. 71st st.,new york,212/724-5846,coffee bar,-1,True
+seventh regiment mess and bar,643 park ave. at 66th st.,new york,212/744-4107,american,-1,True
+delectables,1 margaret mitchell sq.,atlanta,404/681-2909,american,-1,True
+swingers,8020 beverly blvd.,los angeles,213/653-5858,american,-1,True
+aqua,252 california st.,san francisco,415-956-9662,american (new),-1,True
+jewel of india,15 w. 44th st.,new york,212/869-5544,asian,-1,True
+harold's barbecue,171 mcdonough blvd.,atlanta,404-627-9268,bbq,-1,True
+manila garden,325 e. 14th st.  between 1st and 2nd aves.,new york,212/777-6314,asian,-1,True
+abbey,163 ponce de leon ave.,atlanta,404/876-8532,international,-1,True
+el teddy's,219 w. broadway  between franklin and white sts.,new york,212/941-7070,mexican,-1,True
+buzio's in the rio,3700 w. flamingo rd.,las vegas,702-252-7697,seafood,-1,True
+bryant park grill  roof restaurant and bp cafe,25 w. 40th st.  between 5th and 6th aves.,new york,212/840-6500,american,-1,True
+don antonio's,1136 westwood blvd.,westwood,310-209-1422,italian,-1,True
+union square cafe,21 e. 16th st.,new york,212/243-4020,american,-1,True
+falafel king,1059 broxton ave.,westwood,310-208-4444,middle eastern,-1,True
+montrachet,239 w. broadway,new york city,212-219-2777,french bistro,-1,True
+halcyon,151 w. 54th st.  in the rihga royal hotel,new york,212/468-8888,american,-1,True
+lespinasse (new york city),2 e. 55th st.,new york city,212-339-6719,asian,-1,True
+serendipity,3 225 e. 60th st.,new york,212/838-3531,american,-1,True
+chiam,160 e. 48th st.,new york,212/371-2323,asian,-1,True
+mifune japan center  kintetsu building,1737 post st.,san francisco,415/922-0337,asian,-1,True
+sweet'n'tart cafe,76 mott st. at canal st.,new york,212/334-8088,asian,-1,True
+shun lee palace,155 e. 55th st.,new york city,212-371-8844,chinese,-1,True
+pacific pan pacific hotel,500 post st.,san francisco,415/929-2087,french,-1,True
+restaurant katsu,1972 n. hillhurst ave.,los angeles,213/665-1891,asian,-1,True
+rae's,2901 pico blvd.,santa monica,310-828-7937,diners,-1,True
+gotham bar & grill,12 e. 12th st.,new york city,212-620-4020,american (new),-1,True
+picholine,35 w. 64th st.,new york,212/724-8585,mediterranean,-1,True
+rj's the rib joint,252 n. beverly dr.,los angeles,310/274-7427,american,-1,True
+trio cafe,1870 fillmore st.,san francisco,415-563-2248,american,-1,True
+patria,250 park ave. s at 20th st.,new york,212/777-6211,latin american,-1,True
+park avenue cafe,100 e. 63rd st.,new york,212/644-1900,american,-1,True

@@ -1,0 +1,32 @@
+{
+  "dataset": "restaurant",
+  "n_clusters": 0,
+  "n_noise": 604,
+  "clusters": {},
+  "cluster_sizes": {},
+  "clustering_config": {
+    "eps": 1.0,
+    "min_samples": 3,
+    "method": "Categorical",
+    "quality_score": 0.00,
+    "noise_percentage": 100.00
+  },
+  "analysis": {
+    "status": "Complete clustering failure",
+    "reason": "High categorical diversity with insufficient similarity",
+    "data_characteristics": {
+      "total_rows": 604,
+      "unique_restaurants": "776 (90% unique)",
+      "unique_addresses": "772 (89% unique)",
+      "unique_phone_numbers": "857 (99% unique)",
+      "unique_cities": 49,
+      "unique_types": 83
+    },
+    "recommendations": [
+      "Consider alternative clustering parameters (eps=0.5-0.7, min_samples=2)",
+      "Remove unique identifiers (phone, address)",
+      "Group similar restaurant types",
+      "Try alternative algorithms like K-means with categorical encoding"
+    ]
+  }
+}
