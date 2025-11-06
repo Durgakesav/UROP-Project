@@ -1,0 +1,12 @@
+{
+  "total_imputations": 156,
+  "successful_imputations": 0,
+  "failed_imputations": 156,
+  "accuracy": 0,
+  "correct_matches": 0,
+  "mse": NaN,
+  "smape": NaN,
+  "ks_statistic": NaN,
+  "ks_p_value": NaN,
+  "by_column": {}
+}

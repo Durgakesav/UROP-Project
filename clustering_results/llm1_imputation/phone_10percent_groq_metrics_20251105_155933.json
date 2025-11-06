@@ -1,0 +1,58 @@
+{
+  "total_imputations": 20,
+  "successful_imputations": 5,
+  "failed_imputations": 15,
+  "accuracy": 0.0,
+  "correct_matches": 0,
+  "mse": NaN,
+  "smape": NaN,
+  "ks_statistic": NaN,
+  "ks_p_value": NaN,
+  "by_column": {
+    "4G_bands": {
+      "total": 1,
+      "correct": 0,
+      "accuracy": 0,
+      "mse": NaN,
+      "smape": NaN,
+      "ks_statistic": NaN,
+      "ks_p_value": NaN
+    },
+    "GPRS": {
+      "total": 1,
+      "correct": 0,
+      "accuracy": 0.0,
+      "mse": NaN,
+      "smape": NaN,
+      "ks_statistic": NaN,
+      "ks_p_value": NaN
+    },
+    "memory_card": {
+      "total": 1,
+      "correct": 0,
+      "accuracy": 0.0,
+      "mse": NaN,
+      "smape": NaN,
+      "ks_statistic": NaN,
+      "ks_p_value": NaN
+    },
+    "NFC": {
+      "total": 1,
+      "correct": 0,
+      "accuracy": 0,
+      "mse": NaN,
+      "smape": NaN,
+      "ks_statistic": NaN,
+      "ks_p_value": NaN
+    },
+    "status": {
+      "total": 1,
+      "correct": 0,
+      "accuracy": 0.0,
+      "mse": NaN,
+      "smape": NaN,
+      "ks_statistic": NaN,
+      "ks_p_value": NaN
+    }
+  }
+}

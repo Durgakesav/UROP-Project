@@ -1,0 +1,172 @@
+[
+  {
+    "row_idx": 0,
+    "target_column": "3G_bands",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 0,
+    "target_column": "4G_bands",
+    "original_value": NaN,
+    "imputed_value": "Unknown",
+    "cluster_id": "0",
+    "cluster_distance": 0.7307692307692307,
+    "success": true,
+    "match": false
+  },
+  {
+    "row_idx": 0,
+    "target_column": "network_speed",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 0,
+    "target_column": "GPRS",
+    "original_value": "Class 12",
+    "imputed_value": "Yes",
+    "cluster_id": "0",
+    "cluster_distance": 0.7307692307692307,
+    "success": true,
+    "match": false
+  },
+  {
+    "row_idx": 0,
+    "target_column": "weight_g",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 0,
+    "target_column": "weight_oz",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 0,
+    "target_column": "SIM",
+    "original_value": "Dual SIM (Mini-SIM)",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 0,
+    "target_column": "Chipset",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 0,
+    "target_column": "GPU",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 0,
+    "target_column": "memory_card",
+    "original_value": "microSD  up to 32 GB (dedicated slot)",
+    "imputed_value": "microSD",
+    "cluster_id": "0",
+    "cluster_distance": 0.7307692307692307,
+    "success": true,
+    "match": false
+  },
+  {
+    "row_idx": 0,
+    "target_column": "secondary_camera",
+    "original_value": "VGA",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 0,
+    "target_column": "bluetooth",
+    "original_value": "Yes",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 0,
+    "target_column": "NFC",
+    "original_value": NaN,
+    "imputed_value": "Unknown",
+    "cluster_id": "0",
+    "cluster_distance": 0.7307692307692307,
+    "success": true,
+    "match": false
+  },
+  {
+    "row_idx": 0,
+    "target_column": "radio",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 1,
+    "target_column": "4G_bands",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 1,
+    "target_column": "status",
+    "original_value": "Discontinued",
+    "imputed_value": "Available. Released 2010 August",
+    "cluster_id": "94",
+    "cluster_distance": 0.6774193548387096,
+    "success": true,
+    "match": false
+  },
+  {
+    "row_idx": 1,
+    "target_column": "SIM",
+    "original_value": "Mini-SIM",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 1,
+    "target_column": "Chipset",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 1,
+    "target_column": "GPU",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 1,
+    "target_column": "internal_memory",
+    "original_value": "170 MB",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  }
+]

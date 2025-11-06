@@ -1,0 +1,49 @@
+{
+  "total_imputations": 156,
+  "successful_imputations": 116,
+  "failed_imputations": 40,
+  "accuracy": 1.7241379310344827,
+  "correct_matches": 2,
+  "mse": 412681.9515750001,
+  "smape": 101.80388873545829,
+  "ks_statistic": 0.6,
+  "ks_p_value": 0.18781218781218784,
+  "by_column": {
+    "price": {
+      "total": 89,
+      "correct": 0,
+      "accuracy": 0.0,
+      "mse": 412681.9515750001,
+      "smape": 101.80388873545829,
+      "ks_statistic": 0.6,
+      "ks_p_value": 0.012680602477344973
+    },
+    "manufacturer": {
+      "total": 18,
+      "correct": 1,
+      "accuracy": 5.555555555555555,
+      "mse": NaN,
+      "smape": NaN,
+      "ks_statistic": NaN,
+      "ks_p_value": NaN
+    },
+    "description": {
+      "total": 6,
+      "correct": 1,
+      "accuracy": 16.666666666666664,
+      "mse": NaN,
+      "smape": NaN,
+      "ks_statistic": NaN,
+      "ks_p_value": NaN
+    },
+    "name": {
+      "total": 3,
+      "correct": 0,
+      "accuracy": 0.0,
+      "mse": NaN,
+      "smape": NaN,
+      "ks_statistic": NaN,
+      "ks_p_value": NaN
+    }
+  }
+}

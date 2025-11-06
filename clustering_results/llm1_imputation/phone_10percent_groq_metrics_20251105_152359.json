@@ -1,0 +1,40 @@
+{
+  "total_imputations": 20,
+  "successful_imputations": 3,
+  "failed_imputations": 17,
+  "accuracy": 0.0,
+  "correct_matches": 0,
+  "mse": NaN,
+  "smape": NaN,
+  "ks_statistic": NaN,
+  "ks_p_value": NaN,
+  "by_column": {
+    "4G_bands": {
+      "total": 1,
+      "correct": 0,
+      "accuracy": 0,
+      "mse": NaN,
+      "smape": NaN,
+      "ks_statistic": NaN,
+      "ks_p_value": NaN
+    },
+    "weight_g": {
+      "total": 1,
+      "correct": 0,
+      "accuracy": 0,
+      "mse": NaN,
+      "smape": NaN,
+      "ks_statistic": NaN,
+      "ks_p_value": NaN
+    },
+    "radio": {
+      "total": 1,
+      "correct": 0,
+      "accuracy": 0,
+      "mse": NaN,
+      "smape": NaN,
+      "ks_statistic": NaN,
+      "ks_p_value": NaN
+    }
+  }
+}

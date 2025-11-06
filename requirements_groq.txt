@@ -1,0 +1,21 @@
+# Requirements for Groq API Integration
+# Install with: pip install -r requirements_groq.txt
+
+# Core dependencies
+pandas>=1.5.0
+numpy>=1.21.0
+scikit-learn>=1.1.0
+
+# Groq API (OpenAI-compatible)
+openai>=1.0.0
+
+# Statistical analysis
+scipy>=1.9.0
+
+# Additional utilities
+pathlib2>=2.3.0
+
+
+
+
+

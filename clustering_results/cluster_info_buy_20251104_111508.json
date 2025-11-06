@@ -1,0 +1,337 @@
+{
+  "dataset": "buy",
+  "method": "DBSCAN",
+  "n_clusters": 36,
+  "n_outliers": 248,
+  "score": 0.32090289608177175,
+  "cluster_analysis": {
+    "0": {
+      "size": 8,
+      "centroid": {
+        "name": "Logitech Cordless Desktop MX 5500 Revolution Keyboard and Mouse - 920-000383",
+        "description": "2.1-channel",
+        "manufacturer": "Logitech",
+        "price": null
+      }
+    },
+    "1": {
+      "size": 3,
+      "centroid": {
+        "name": "Sony Handycam DCR-SR45 Digital Camcorder - DCRSR45",
+        "description": "16:9 - 2.7' Hybrid LCD",
+        "manufacturer": "Sony",
+        "price": "$304.99"
+      }
+    },
+    "2": {
+      "size": 10,
+      "centroid": {
+        "name": "Linksys EtherFast EF4116 Ethernet Switch",
+        "description": "54Mbps",
+        "manufacturer": "LINKSYS",
+        "price": null
+      }
+    },
+    "3": {
+      "size": 2,
+      "centroid": {
+        "name": "Olympus LI-42B Lithium Ion Digital Camera Battery - 202034",
+        "description": "Lithium Ion (Li-Ion) - 3.7V DC - Photo Battery",
+        "manufacturer": "Olympus",
+        "price": null
+      }
+    },
+    "4": {
+      "size": 2,
+      "centroid": {
+        "name": "Directed Electronics Antenna Extension Cable - 14230",
+        "description": "42 dBi - SMB",
+        "manufacturer": "Sirius",
+        "price": null
+      }
+    },
+    "5": {
+      "size": 30,
+      "centroid": {
+        "name": "Panasonic 3x DVD-RAM Media",
+        "description": "1 x Phone Line(s) - Black",
+        "manufacturer": "Panasonic",
+        "price": "$45.04"
+      }
+    },
+    "6": {
+      "size": 14,
+      "centroid": {
+        "name": "Canon CB-2LV Battery Charger - 9764A001",
+        "description": "Black",
+        "manufacturer": "Canon",
+        "price": "$11.99"
+      }
+    },
+    "7": {
+      "size": 32,
+      "centroid": {
+        "name": "Sony 17-in-1 External USB Memory Card Reader And Writer - MRW62E/S1/181",
+        "description": "10.1 Megapixel - 16:9 - 2x Digital Zoom - 2.7' Active Matrix TFT Color LCD",
+        "manufacturer": "Sony",
+        "price": "$15.99"
+      }
+    },
+    "8": {
+      "size": 10,
+      "centroid": {
+        "name": "Speck Products SeeThru Case for Apple 13' MacBook - MB13-AQU-SEE-V2",
+        "description": "Plastic - Green",
+        "manufacturer": "Speck Products",
+        "price": null
+      }
+    },
+    "9": {
+      "size": 5,
+      "centroid": {
+        "name": "Netgear ProSafe FS726TP 24 Port 10/100 Smart Switch - FS726TPNA",
+        "description": "22 x 10/100/1000Base-T LAN, 2 x 10/100/1000Base-T LAN",
+        "manufacturer": "Netgear",
+        "price": null
+      }
+    },
+    "10": {
+      "size": 2,
+      "centroid": {
+        "name": "Kensington ComboSaver Ultra Notebook Lock - K64516US",
+        "description": "Combosaver Ultra Combination Notebook Lock",
+        "manufacturer": "Kensington",
+        "price": null
+      }
+    },
+    "11": {
+      "size": 5,
+      "centroid": {
+        "name": "Belkin AC Anywhere 300W Power Inverter - F5C400-300W",
+        "description": "- Green",
+        "manufacturer": "Belkin",
+        "price": null
+      }
+    },
+    "12": {
+      "size": 3,
+      "centroid": {
+        "name": "OmniMount Moda Collection Echo 50 TV Stand - ECHO 50",
+        "description": "Stainless Steel - 20 lb",
+        "manufacturer": "OMNIMOUNT SYSTEMS, INC",
+        "price": "$24.34"
+      }
+    },
+    "13": {
+      "size": 13,
+      "centroid": {
+        "name": "Sanus Center Channel Speaker Mount - VMCC1B",
+        "description": "Steel - 100 lb",
+        "manufacturer": "Sanus",
+        "price": null
+      }
+    },
+    "14": {
+      "size": 2,
+      "centroid": {
+        "name": "Sony 1GB Memory Stick Micro (M2) Card - MSA1GD",
+        "description": "1 GB",
+        "manufacturer": "Sony",
+        "price": "$13.41"
+      }
+    },
+    "15": {
+      "size": 2,
+      "centroid": {
+        "name": "Panasonic Viera TH-46PZ80U 46' Plasma TV",
+        "description": "46' - ATSC, NTSC - 16:9 - 1920 x 1080 - Surround - HDTV",
+        "manufacturer": "Panasonic",
+        "price": "$1,149.99"
+      }
+    },
+    "16": {
+      "size": 4,
+      "centroid": {
+        "name": "Toshiba 22LV506 22' TV/DVD Combo",
+        "description": "21.9' - LCD - Active Matrix - ATSC, NTSC - 16:9 - 1680 x 1050 - - HDTV - DVD-R, DVD-RW, CD-R, CD-RW - 720p",
+        "manufacturer": "Toshiba",
+        "price": null
+      }
+    },
+    "17": {
+      "size": 2,
+      "centroid": {
+        "name": "Panasonic KX-TCA86 Headset",
+        "description": "Over-the-head",
+        "manufacturer": "Panasonic",
+        "price": "$11.03"
+      }
+    },
+    "18": {
+      "size": 3,
+      "centroid": {
+        "name": "ALPINE CDA-9886 Car Audio Player - CDA9886",
+        "description": "CD-R, CD-RW - CD-DA, MP3, WMA, AAC - 4 - 200W - FM, AM",
+        "manufacturer": "Alpine",
+        "price": "$295.00"
+      }
+    },
+    "19": {
+      "size": 2,
+      "centroid": {
+        "name": "Sony Cyber-shot DSC-W120 Digital Camera - Pink - DSCW120/P",
+        "description": "16:9 - 2x Digital Zoom - 2.5' Active Matrix TFT Color LCD",
+        "manufacturer": "Sony",
+        "price": "$106.42"
+      }
+    },
+    "20": {
+      "size": 2,
+      "centroid": {
+        "name": "Pioneer DEH-P3000IB Car Audio Player",
+        "description": "CD-RW - CD-Text, MP3, WMA, WAV, AAC - 4 - 200W - FM, AM",
+        "manufacturer": "Pioneer",
+        "price": "$134.32"
+      }
+    },
+    "21": {
+      "size": 4,
+      "centroid": {
+        "name": "LG 32LG40 32' TV/DVD Combo",
+        "description": "LG 32LG40 - 32' Widescreen 720p LCD HDTV w/ Built-in DVD Player - 12,000:1 Dynamic Contrast Ratio - 8ms Response Time",
+        "manufacturer": "LG Electronics",
+        "price": null
+      }
+    },
+    "22": {
+      "size": 5,
+      "centroid": {
+        "name": "Denon DHT-FS5 Surround Sound Speaker System",
+        "description": "Belt Drive",
+        "manufacturer": "Denon",
+        "price": "$328.99"
+      }
+    },
+    "23": {
+      "size": 6,
+      "centroid": {
+        "name": "Garmin Cigarette Lighter Adapter for GPS",
+        "description": "Clam Shell",
+        "manufacturer": "Garmin",
+        "price": null
+      }
+    },
+    "24": {
+      "size": 6,
+      "centroid": {
+        "name": "Griffin Elan Form for iPhone 3G - 8223-IP2EFRMB",
+        "description": "3 x FM",
+        "manufacturer": "Griffin",
+        "price": null
+      }
+    },
+    "25": {
+      "size": 3,
+      "centroid": {
+        "name": "Pioneer GEX-P920XM XM Digital Satellite Tuner - GEX-P920XM",
+        "description": "Pioneer Electronics CD-MR80D Wired Marine Remote Control with Display",
+        "manufacturer": "Pioneer",
+        "price": null
+      }
+    },
+    "26": {
+      "size": 4,
+      "centroid": {
+        "name": "LaCie Big Disk Extreme+ Hard Drive - 301199U",
+        "description": "LaCie 1TB USB 2.0 7200RPM Desktop External Hard Drive - Design by Neil Poulton",
+        "manufacturer": "LACIE",
+        "price": null
+      }
+    },
+    "27": {
+      "size": 2,
+      "centroid": {
+        "name": "Audiovox XMCK5P EXPRESSEZ Satellite Radio - XMCK5P",
+        "description": "Audiovox Xpress EZ XM Radio Receiver with Vehicle Kit",
+        "manufacturer": "Audiovox",
+        "price": null
+      }
+    },
+    "28": {
+      "size": 6,
+      "centroid": {
+        "name": "Peerless SmartMount 700 Series Articulating Wall Arm",
+        "description": "Glass - Black",
+        "manufacturer": "Peerless",
+        "price": null
+      }
+    },
+    "29": {
+      "size": 2,
+      "centroid": {
+        "name": "Apple V.92 Data/Fax USB Modem - MA034ZA",
+        "description": "1GB Flash Memory - Pink",
+        "manufacturer": "Apple",
+        "price": "$49.00"
+      }
+    },
+    "30": {
+      "size": 3,
+      "centroid": {
+        "name": "Sony Cyber-shot DSC-W150 Digital Camera - Gold - DSCW150N",
+        "description": "8.1 Megapixel - 16:9 - 2x Digital Zoom - 2.7' Active Matrix TFT Color LCD",
+        "manufacturer": "Sony",
+        "price": "$129.99"
+      }
+    },
+    "31": {
+      "size": 2,
+      "centroid": {
+        "name": "Apple iPod Classic 120GB Hard Drive Portable Media Player - MB562LL/A",
+        "description": "Audio Player, Video Player, Photo Viewer - 2.5' Color LCD - 120GB Hard Drive - Black",
+        "manufacturer": "Apple",
+        "price": "$219.97"
+      }
+    },
+    "32": {
+      "size": 2,
+      "centroid": {
+        "name": "Canon EOS Rebel XSi Digital SLR Camera with EF-S 18-55mm f/3.5-5.6 IS Lens - Black - 2756B003",
+        "description": "Canon EOS Rebel XSi 12 Megapixel Digital SLR Camera with 18-55mm IS Lens - Black",
+        "manufacturer": "Canon",
+        "price": "$649.88"
+      }
+    },
+    "33": {
+      "size": 2,
+      "centroid": {
+        "name": "Denon AVR-1709 A/V Receiver - AVR1709",
+        "description": "DVD+RW, DVD-RW, CD-RW - DVD Video, DVD Audio, SACD, Video CD, Picture CD, JPEG, WMA, PCM, HDCD, MP3, MPEG-1, MPEG-2, MPEG-4, DivX Playback - 1 Disc(s) - Progressive Scan - Black",
+        "manufacturer": "Denon",
+        "price": "$448.00"
+      }
+    },
+    "34": {
+      "size": 2,
+      "centroid": {
+        "name": "Nikon Coolpix S550 Digital Camera - Cool Blue - 26109",
+        "description": "10 Megapixel - 16:9 - 4x Digital Zoom - 2.5' Active Matrix TFT Color LCD",
+        "manufacturer": "Nikon",
+        "price": "$168.72"
+      }
+    },
+    "35": {
+      "size": 2,
+      "centroid": {
+        "name": "Yamaha NX-U10 USB Powered Stereo Speaker - NX-U10SL",
+        "description": "2.0-channel - Silver",
+        "manufacturer": "Yamaha",
+        "price": null
+      }
+    }
+  },
+  "best_config": {
+    "eps": 0.5,
+    "min_samples": 2
+  }
+}

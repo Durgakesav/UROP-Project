@@ -1,0 +1,40 @@
+{
+  "total_imputations": 156,
+  "successful_imputations": 25,
+  "failed_imputations": 131,
+  "accuracy": 4.0,
+  "correct_matches": 1,
+  "mse": NaN,
+  "smape": NaN,
+  "ks_statistic": NaN,
+  "ks_p_value": NaN,
+  "by_column": {
+    "price": {
+      "total": 15,
+      "correct": 0,
+      "accuracy": 0,
+      "mse": NaN,
+      "smape": NaN,
+      "ks_statistic": NaN,
+      "ks_p_value": NaN
+    },
+    "manufacturer": {
+      "total": 8,
+      "correct": 0,
+      "accuracy": 0.0,
+      "mse": NaN,
+      "smape": NaN,
+      "ks_statistic": NaN,
+      "ks_p_value": NaN
+    },
+    "description": {
+      "total": 2,
+      "correct": 1,
+      "accuracy": 50.0,
+      "mse": NaN,
+      "smape": NaN,
+      "ks_statistic": NaN,
+      "ks_p_value": NaN
+    }
+  }
+}

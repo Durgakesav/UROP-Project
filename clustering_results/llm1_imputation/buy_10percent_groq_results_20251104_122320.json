@@ -1,0 +1,1258 @@
+[
+  {
+    "row_idx": 0,
+    "target_column": "price",
+    "original_value": "$1,497.99",
+    "imputed_value": "Unknown",
+    "cluster_id": "0",
+    "cluster_distance": 1.0,
+    "success": true,
+    "match": false
+  },
+  {
+    "row_idx": 4,
+    "target_column": "name",
+    "original_value": "Peerless Universal Flat Wall Mount - SF640P",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 4,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": "Unknown",
+    "cluster_id": "28",
+    "cluster_distance": 0.5,
+    "success": true,
+    "match": false
+  },
+  {
+    "row_idx": 5,
+    "target_column": "manufacturer",
+    "original_value": "Samsung",
+    "imputed_value": "Logitech",
+    "cluster_id": "0",
+    "cluster_distance": 1.0,
+    "success": true,
+    "match": false
+  },
+  {
+    "row_idx": 7,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": "Unknown",
+    "cluster_id": "2",
+    "cluster_distance": 0.6666666666666666,
+    "success": true,
+    "match": false
+  },
+  {
+    "row_idx": 8,
+    "target_column": "description",
+    "original_value": "Canon PowerShot SD1100 IS 8 Megapixels, ISO 1600, 3x Optical Zoom Digital Camera - Swing Silver",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 8,
+    "target_column": "manufacturer",
+    "original_value": "Canon",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 8,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 9,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 10,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 11,
+    "target_column": "name",
+    "original_value": "Pioneer Direct Control Cable - CD-IU230V",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 12,
+    "target_column": "description",
+    "original_value": "735W - Dolby TrueHD, Dolby Digital EX, Dolby Pro Logic IIx, Dolby Digital Plus, DTS-HD, DTS-ES, DTS 96/24, DTS Neo:6, Neural SurroundXM",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 13,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 14,
+    "target_column": "price",
+    "original_value": "$131.99",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 16,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 17,
+    "target_column": "manufacturer",
+    "original_value": "LG Electronics",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 17,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 19,
+    "target_column": "description",
+    "original_value": "Linksys EG005W Gigabit 5-Port Workgroup Switch",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 19,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 20,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 21,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 23,
+    "target_column": "description",
+    "original_value": "Canon 9517A002 EF-S 17-85mm f4-5.6 IS USM Standard Zoom Lens with Optical Image Stabilizer",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 24,
+    "target_column": "price",
+    "original_value": "$1,188.65",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 26,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 27,
+    "target_column": "name",
+    "original_value": "Sony VCL-DH1774 Telephoto Lens - VCLDH1774",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 27,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 28,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 30,
+    "target_column": "name",
+    "original_value": "Sony LCS-TWA/B Cyber-shot Camera Case - LCSTWA/B",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 33,
+    "target_column": "description",
+    "original_value": "1 x Mini Type C HDMI - 1 x Type A HDMI - 10ft",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 33,
+    "target_column": "manufacturer",
+    "original_value": "Sony",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 35,
+    "target_column": "name",
+    "original_value": "Sony InfoLithium H-Series NP-FH70 Camcorder Battery - NPFH70",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 36,
+    "target_column": "manufacturer",
+    "original_value": "Panasonic",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 36,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 37,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 38,
+    "target_column": "price",
+    "original_value": "$45.32",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 39,
+    "target_column": "description",
+    "original_value": "- Orange",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 39,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 40,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 41,
+    "target_column": "name",
+    "original_value": "Apple Mac mini Desktop - MB138LL/A",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 43,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 44,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 45,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 46,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 47,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 48,
+    "target_column": "manufacturer",
+    "original_value": "Tom Tom",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 52,
+    "target_column": "price",
+    "original_value": "$1,197.66",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 54,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 55,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 57,
+    "target_column": "name",
+    "original_value": "Elgato EyeTV 250 Plus TV Tuner - 10020780",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 57,
+    "target_column": "description",
+    "original_value": "Elgato EyeTV 250 Plus Video Converter and TV Tuner for Analog and HDTV Reception",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 57,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 58,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 59,
+    "target_column": "name",
+    "original_value": "Sony Universal Remote Control - RM-EZ4",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 59,
+    "target_column": "manufacturer",
+    "original_value": "Sony",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 60,
+    "target_column": "description",
+    "original_value": "Keyboard - Wireless - 104 Keys - Mouse - Laser - Type A - USB - Receiver",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 60,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 62,
+    "target_column": "manufacturer",
+    "original_value": "Canon",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 68,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 71,
+    "target_column": "description",
+    "original_value": "Plastic - Red",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 71,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 72,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 73,
+    "target_column": "name",
+    "original_value": "Sony Cyber-shot DSC-H50 Digital Camera - Black - DSCH50B",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 74,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 75,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 76,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 79,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 80,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 82,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 84,
+    "target_column": "name",
+    "original_value": "Denon AVR2809CI A/V Receiver",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 86,
+    "target_column": "description",
+    "original_value": "f/4 to 5.6",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 88,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 89,
+    "target_column": "description",
+    "original_value": "DVD+RW, DVD-RW, DVD+R, DVD-R, CD-RW - DVD Video, CD-DA, JPEG, MP3, SVCD, Video CD Playback - 5 Disc(s) - Progressive Scan - Silver",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 90,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 92,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 93,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 96,
+    "target_column": "manufacturer",
+    "original_value": "Sony",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 99,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 100,
+    "target_column": "description",
+    "original_value": "Photo Paper",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 102,
+    "target_column": "name",
+    "original_value": "Netgear RangeMax WPN802 Wireless Access Point - WPN802NA",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 102,
+    "target_column": "manufacturer",
+    "original_value": "Netgear",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 102,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 104,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 105,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 107,
+    "target_column": "manufacturer",
+    "original_value": "Canon",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 107,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 109,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 110,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 112,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 115,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 116,
+    "target_column": "description",
+    "original_value": "Lithium Ion (Li-Ion) - 3.7V DC - Photo Battery",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 116,
+    "target_column": "manufacturer",
+    "original_value": "Panasonic",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 116,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 117,
+    "target_column": "name",
+    "original_value": "Sanus Flat Panel TV Wall Mount - VM400B",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 117,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 119,
+    "target_column": "description",
+    "original_value": "Leather",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 119,
+    "target_column": "price",
+    "original_value": "$9.99",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 120,
+    "target_column": "name",
+    "original_value": "Canon PIXMA MX850 Multifunction Photo Printer - 2436B002",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 120,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 123,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 125,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 127,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 128,
+    "target_column": "manufacturer",
+    "original_value": "LINKSYS",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 128,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 129,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 130,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 131,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 133,
+    "target_column": "description",
+    "original_value": "Canon VIXIA HF100 High Definition Camcorder",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 134,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 135,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 138,
+    "target_column": "name",
+    "original_value": "Canon PowerShot A590 IS Digital Camera - 2462B001",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 138,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 139,
+    "target_column": "price",
+    "original_value": "$261.96",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 140,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 141,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 142,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 143,
+    "target_column": "name",
+    "original_value": "Toshiba SD-P101S Portable DVD Player - SDP101S",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 143,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 145,
+    "target_column": "price",
+    "original_value": "$379.72",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 147,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 151,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 152,
+    "target_column": "description",
+    "original_value": "DVD+RW, DVD-RW, CD-RW - DVD Video, Video CD, SVCD, SACD, MP3, JPEG Playback - 400 Disc(s) - Progressive Scan - Black",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 152,
+    "target_column": "manufacturer",
+    "original_value": "Sony",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 152,
+    "target_column": "price",
+    "original_value": "$249.99",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 153,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 154,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 155,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 156,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 157,
+    "target_column": "description",
+    "original_value": "Samsung HT-X810 2.1 Soundbar Home Theater System",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 159,
+    "target_column": "price",
+    "original_value": "$1,954.27",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 160,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 162,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 163,
+    "target_column": "name",
+    "original_value": "Panasonic KX-TG8232B Cordless Phone",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 164,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 165,
+    "target_column": "price",
+    "original_value": "$6.99",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 166,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 168,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 169,
+    "target_column": "name",
+    "original_value": "Canon Ink Cartridge For PIXMA iP1600, iP6210D and iP6220D Printers - 0617B002",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 170,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 172,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 173,
+    "target_column": "price",
+    "original_value": "$1,499.00",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 175,
+    "target_column": "manufacturer",
+    "original_value": "Canon",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 179,
+    "target_column": "manufacturer",
+    "original_value": "Panasonic",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 181,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 182,
+    "target_column": "manufacturer",
+    "original_value": "Sony",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 185,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 186,
+    "target_column": "name",
+    "original_value": "Bracketron iPod Docking Kit",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 186,
+    "target_column": "description",
+    "original_value": "Bracketron IPM-202-BL Pro Series iPod Docking Kit",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 186,
+    "target_column": "manufacturer",
+    "original_value": "Bracketron",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 187,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 189,
+    "target_column": "description",
+    "original_value": "10.1 Megapixel - 16:9 - 2x Digital Zoom - 3.5' Active Matrix TFT Color LCD",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 190,
+    "target_column": "name",
+    "original_value": "Logitech Digital Precision PC Gaming Headset - 981-000040",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 191,
+    "target_column": "manufacturer",
+    "original_value": "Contour",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 191,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 192,
+    "target_column": "price",
+    "original_value": "$1,698.00",
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 194,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  },
+  {
+    "row_idx": 195,
+    "target_column": "price",
+    "original_value": NaN,
+    "imputed_value": null,
+    "success": false,
+    "error": "No prediction returned"
+  }
+]

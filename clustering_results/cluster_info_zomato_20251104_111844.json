@@ -1,0 +1,5488 @@
+{
+  "dataset": "zomato",
+  "method": "DBSCAN",
+  "n_clusters": 365,
+  "n_outliers": 5179,
+  "score": 0.1,
+  "cluster_analysis": {
+    "0": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Coffee Corner",
+        "cuisine": "Italian",
+        "area": "BTM Layout",
+        "rating": 4.449999999999999,
+        "cost_for_two": 400.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 1179.0,
+        "phone": 7375356251.0,
+        "address": "1 JP Nagar Bangalore"
+      }
+    },
+    "1": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Steak House",
+        "cuisine": "French",
+        "area": "Brigade Road",
+        "rating": 4.300000000000001,
+        "cost_for_two": 600.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 3532.0,
+        "phone": 2268967926.5,
+        "address": "74 Whitefield Bangalore"
+      }
+    },
+    "2": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Golden Dragon",
+        "cuisine": "Indian",
+        "area": "BTM Layout",
+        "rating": 3.7,
+        "cost_for_two": 1000.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 947.5,
+        "phone": 6018134778.0,
+        "address": "93 MG Road Bangalore"
+      }
+    },
+    "3": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Pizza Express",
+        "cuisine": "Mexican",
+        "area": "Whitefield",
+        "rating": 3.35,
+        "cost_for_two": 1250.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 1371.0,
+        "phone": 2653992662.5,
+        "address": "60 BTM Layout Bangalore"
+      }
+    },
+    "4": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Italian Bistro",
+        "cuisine": "Fast Food",
+        "area": "JP Nagar",
+        "rating": 3.65,
+        "cost_for_two": 650.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 3477.5,
+        "phone": 2254902362.0,
+        "address": "36 Whitefield Bangalore"
+      }
+    },
+    "5": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Italian Bistro",
+        "cuisine": "Fast Food",
+        "area": "Brigade Road",
+        "rating": 4.15,
+        "cost_for_two": 1500.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 3526.5,
+        "phone": 7277108755.0,
+        "address": "48 Electronic City Bangalore"
+      }
+    },
+    "6": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Sushi House",
+        "cuisine": "Thai",
+        "area": "JP Nagar",
+        "rating": 3.75,
+        "cost_for_two": 650.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 1421.5,
+        "phone": 8086007104.5,
+        "address": "31 Whitefield Bangalore"
+      }
+    },
+    "7": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Sushi House",
+        "cuisine": "Indian",
+        "area": "Brigade Road",
+        "rating": 4.6,
+        "cost_for_two": 1000.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 4444.5,
+        "phone": 1877092643.0,
+        "address": "73 Koramangala Bangalore"
+      }
+    },
+    "8": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Ice Cream Parlor",
+        "cuisine": "Indian",
+        "area": "Koramangala",
+        "rating": 3.55,
+        "cost_for_two": 400.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 3360.5,
+        "phone": 3128139154.5,
+        "address": "54 Brigade Road Bangalore"
+      }
+    },
+    "9": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Italian Bistro",
+        "cuisine": "Fast Food",
+        "area": "Electronic City",
+        "rating": 4.5,
+        "cost_for_two": 850.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 2097.5,
+        "phone": 1692024509.5,
+        "address": "52 Marathahalli Bangalore"
+      }
+    },
+    "10": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Fried Chicken Co",
+        "cuisine": "Japanese",
+        "area": "Marathahalli",
+        "rating": 4.05,
+        "cost_for_two": 500.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 3834.0,
+        "phone": 7776967358.0,
+        "address": "5 BTM Layout Bangalore"
+      }
+    },
+    "11": {
+      "size": 3,
+      "centroid": {
+        "restaurant_name": "Spice Garden",
+        "cuisine": "Indian",
+        "area": "JP Nagar",
+        "rating": 4.3,
+        "cost_for_two": 833.3333333333334,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 3110.6666666666665,
+        "phone": 6024720472.333333,
+        "address": "41 JP Nagar Bangalore"
+      }
+    },
+    "12": {
+      "size": 3,
+      "centroid": {
+        "restaurant_name": "Steak House",
+        "cuisine": "Continental",
+        "area": "BTM Layout",
+        "rating": 4.2,
+        "cost_for_two": 1166.6666666666667,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 2050.0,
+        "phone": 3865680267.3333335,
+        "address": "27 BTM Layout Bangalore"
+      }
+    },
+    "13": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Taco Bell",
+        "cuisine": "Thai",
+        "area": "JP Nagar",
+        "rating": 4.45,
+        "cost_for_two": 850.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 443.0,
+        "phone": 6151365959.0,
+        "address": "64 HSR Layout Bangalore"
+      }
+    },
+    "14": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Bakery Sweet",
+        "cuisine": "Chinese",
+        "area": "Electronic City",
+        "rating": 3.95,
+        "cost_for_two": 400.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 871.5,
+        "phone": 2338961109.0,
+        "address": "2 JP Nagar Bangalore"
+      }
+    },
+    "15": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Mediterranean Delight",
+        "cuisine": "French",
+        "area": "JP Nagar",
+        "rating": 4.25,
+        "cost_for_two": 1100.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 1539.5,
+        "phone": 7595670562.0,
+        "address": "12 Whitefield Bangalore"
+      }
+    },
+    "16": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Thai Paradise",
+        "cuisine": "Mediterranean",
+        "area": "Brigade Road",
+        "rating": 3.75,
+        "cost_for_two": 700.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 4296.5,
+        "phone": 3780212172.0,
+        "address": "44 MG Road Bangalore"
+      }
+    },
+    "17": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Noodle Bar",
+        "cuisine": "Korean",
+        "area": "Indiranagar",
+        "rating": 3.4000000000000004,
+        "cost_for_two": 500.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 3547.0,
+        "phone": 7215183095.5,
+        "address": "64 MG Road Bangalore"
+      }
+    },
+    "18": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "BBQ Junction",
+        "cuisine": "Continental",
+        "area": "Electronic City",
+        "rating": 3.8,
+        "cost_for_two": 500.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 4045.0,
+        "phone": 7367525407.0,
+        "address": "18 MG Road Bangalore"
+      }
+    },
+    "19": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Vegan Heaven",
+        "cuisine": "Indian",
+        "area": "BTM Layout",
+        "rating": 3.1500000000000004,
+        "cost_for_two": 700.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 4598.0,
+        "phone": 4163796205.0,
+        "address": "13 BTM Layout Bangalore"
+      }
+    },
+    "20": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Spice Garden",
+        "cuisine": "Italian",
+        "area": "HSR Layout",
+        "rating": 4.35,
+        "cost_for_two": 1750.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 3125.5,
+        "phone": 5985416626.0,
+        "address": "46 Whitefield Bangalore"
+      }
+    },
+    "21": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Bakery Sweet",
+        "cuisine": "French",
+        "area": "Koramangala",
+        "rating": 4.05,
+        "cost_for_two": 1250.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 4334.0,
+        "phone": 6488941535.5,
+        "address": "53 Whitefield Bangalore"
+      }
+    },
+    "22": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Thai Paradise",
+        "cuisine": "Japanese",
+        "area": "Koramangala",
+        "rating": 3.4,
+        "cost_for_two": 650.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 4076.5,
+        "phone": 5556780122.0,
+        "address": "19 Electronic City Bangalore"
+      }
+    },
+    "23": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Ice Cream Parlor",
+        "cuisine": "Korean",
+        "area": "Koramangala",
+        "rating": 4.35,
+        "cost_for_two": 700.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 4324.5,
+        "phone": 7623558412.0,
+        "address": "37 JP Nagar Bangalore"
+      }
+    },
+    "24": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Taco Bell",
+        "cuisine": "Continental",
+        "area": "Indiranagar",
+        "rating": 4.199999999999999,
+        "cost_for_two": 600.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 3616.0,
+        "phone": 4772710779.0,
+        "address": "70 Whitefield Bangalore"
+      }
+    },
+    "25": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Seafood Shack",
+        "cuisine": "Japanese",
+        "area": "Brigade Road",
+        "rating": 4.800000000000001,
+        "cost_for_two": 750.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 4896.0,
+        "phone": 6887990867.0,
+        "address": "13 JP Nagar Bangalore"
+      }
+    },
+    "26": {
+      "size": 3,
+      "centroid": {
+        "restaurant_name": "BBQ Junction",
+        "cuisine": "Chinese",
+        "area": "JP Nagar",
+        "rating": 4.366666666666666,
+        "cost_for_two": 1000.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 3532.0,
+        "phone": 5838957247.0,
+        "address": "2 Marathahalli Bangalore"
+      }
+    },
+    "27": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Coffee Corner",
+        "cuisine": "Mexican",
+        "area": "Marathahalli",
+        "rating": 3.65,
+        "cost_for_two": 600.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 2571.5,
+        "phone": 6986527240.0,
+        "address": "11 Whitefield Bangalore"
+      }
+    },
+    "28": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Fried Chicken Co",
+        "cuisine": "American",
+        "area": "HSR Layout",
+        "rating": 4.15,
+        "cost_for_two": 500.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 1695.5,
+        "phone": 5457858157.5,
+        "address": "8 MG Road Bangalore"
+      }
+    },
+    "29": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Mexican Fiesta",
+        "cuisine": "Fast Food",
+        "area": "Koramangala",
+        "rating": 3.4,
+        "cost_for_two": 1750.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 946.0,
+        "phone": 9063921972.0,
+        "address": "69 JP Nagar Bangalore"
+      }
+    },
+    "30": {
+      "size": 3,
+      "centroid": {
+        "restaurant_name": "Mexican Fiesta",
+        "cuisine": "Japanese",
+        "area": "HSR Layout",
+        "rating": 4.666666666666667,
+        "cost_for_two": 1166.6666666666667,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 3440.3333333333335,
+        "phone": 8048819298.0,
+        "address": "11 MG Road Bangalore"
+      }
+    },
+    "31": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Coffee Corner",
+        "cuisine": "Thai",
+        "area": "Whitefield",
+        "rating": 4.1,
+        "cost_for_two": 600.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 2588.5,
+        "phone": 2823891703.0,
+        "address": "67 Marathahalli Bangalore"
+      }
+    },
+    "32": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Ice Cream Parlor",
+        "cuisine": "Mexican",
+        "area": "Marathahalli",
+        "rating": 4.85,
+        "cost_for_two": 2000.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 1265.5,
+        "phone": 5205520440.5,
+        "address": "4 Brigade Road Bangalore"
+      }
+    },
+    "33": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "BBQ Junction",
+        "cuisine": "French",
+        "area": "BTM Layout",
+        "rating": 4.300000000000001,
+        "cost_for_two": 2000.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 3460.0,
+        "phone": 7369859698.0,
+        "address": "11 Koramangala Bangalore"
+      }
+    },
+    "34": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Noodle Bar",
+        "cuisine": "Indian",
+        "area": "MG Road",
+        "rating": 3.5,
+        "cost_for_two": 700.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 2800.0,
+        "phone": 4477823089.0,
+        "address": "22 Whitefield Bangalore"
+      }
+    },
+    "35": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Coffee Corner",
+        "cuisine": "Mediterranean",
+        "area": "HSR Layout",
+        "rating": 4.6,
+        "cost_for_two": 1000.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 1353.0,
+        "phone": 5302416099.5,
+        "address": "25 Koramangala Bangalore"
+      }
+    },
+    "36": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Noodle Bar",
+        "cuisine": "Mediterranean",
+        "area": "Electronic City",
+        "rating": 3.65,
+        "cost_for_two": 600.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 466.5,
+        "phone": 5447205019.5,
+        "address": "4 Indiranagar Bangalore"
+      }
+    },
+    "37": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Sushi House",
+        "cuisine": "Korean",
+        "area": "Marathahalli",
+        "rating": 3.2,
+        "cost_for_two": 700.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 1217.5,
+        "phone": 8909005066.5,
+        "address": "84 Brigade Road Bangalore"
+      }
+    },
+    "38": {
+      "size": 3,
+      "centroid": {
+        "restaurant_name": "Fried Chicken Co",
+        "cuisine": "Mexican",
+        "area": "Brigade Road",
+        "rating": 3.8666666666666667,
+        "cost_for_two": 300.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 2750.6666666666665,
+        "phone": 5744652701.0,
+        "address": "11 JP Nagar Bangalore"
+      }
+    },
+    "39": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Thai Paradise",
+        "cuisine": "Italian",
+        "area": "Indiranagar",
+        "rating": 4.1,
+        "cost_for_two": 1250.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 4419.5,
+        "phone": 9666715165.0,
+        "address": "30 JP Nagar Bangalore"
+      }
+    },
+    "40": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Seafood Shack",
+        "cuisine": "Indian",
+        "area": "JP Nagar",
+        "rating": 3.9,
+        "cost_for_two": 850.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 1523.5,
+        "phone": 5735219696.5,
+        "address": "70 Electronic City Bangalore"
+      }
+    },
+    "41": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Sushi House",
+        "cuisine": "Italian",
+        "area": "Marathahalli",
+        "rating": 4.75,
+        "cost_for_two": 600.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 3224.5,
+        "phone": 6428030991.0,
+        "address": "21 Electronic City Bangalore"
+      }
+    },
+    "42": {
+      "size": 3,
+      "centroid": {
+        "restaurant_name": "Taco Bell",
+        "cuisine": "Continental",
+        "area": "Marathahalli",
+        "rating": 3.866666666666667,
+        "cost_for_two": 500.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 1910.3333333333333,
+        "phone": 3299609517.0,
+        "address": "31 BTM Layout Bangalore"
+      }
+    },
+    "43": {
+      "size": 3,
+      "centroid": {
+        "restaurant_name": "Coffee Corner",
+        "cuisine": "Korean",
+        "area": "HSR Layout",
+        "rating": 4.3,
+        "cost_for_two": 1000.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 3091.6666666666665,
+        "phone": 5879620916.0,
+        "address": "20 Koramangala Bangalore"
+      }
+    },
+    "44": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Steak House",
+        "cuisine": "Chinese",
+        "area": "BTM Layout",
+        "rating": 3.5999999999999996,
+        "cost_for_two": 300.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 1503.5,
+        "phone": 9356372958.5,
+        "address": "17 Marathahalli Bangalore"
+      }
+    },
+    "45": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Fried Chicken Co",
+        "cuisine": "Japanese",
+        "area": "Whitefield",
+        "rating": 4.4,
+        "cost_for_two": 2000.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 2684.0,
+        "phone": 7237398391.0,
+        "address": "10 BTM Layout Bangalore"
+      }
+    },
+    "46": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Fried Chicken Co",
+        "cuisine": "American",
+        "area": "JP Nagar",
+        "rating": 4.5,
+        "cost_for_two": 1250.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 3640.5,
+        "phone": 7423572349.0,
+        "address": "24 Indiranagar Bangalore"
+      }
+    },
+    "47": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Ice Cream Parlor",
+        "cuisine": "Fast Food",
+        "area": "JP Nagar",
+        "rating": 3.45,
+        "cost_for_two": 300.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 3021.0,
+        "phone": 6139168071.5,
+        "address": "25 Indiranagar Bangalore"
+      }
+    },
+    "48": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Taco Bell",
+        "cuisine": "Fast Food",
+        "area": "Electronic City",
+        "rating": 3.45,
+        "cost_for_two": 300.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 1958.0,
+        "phone": 4725943241.5,
+        "address": "19 BTM Layout Bangalore"
+      }
+    },
+    "49": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Mediterranean Delight",
+        "cuisine": "Italian",
+        "area": "Koramangala",
+        "rating": 3.35,
+        "cost_for_two": 650.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 4896.5,
+        "phone": 963745326.0,
+        "address": "18 Indiranagar Bangalore"
+      }
+    },
+    "50": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Vegan Heaven",
+        "cuisine": "Chinese",
+        "area": "Indiranagar",
+        "rating": 4.050000000000001,
+        "cost_for_two": 1500.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 2223.5,
+        "phone": 3743604428.5,
+        "address": "19 Indiranagar Bangalore"
+      }
+    },
+    "51": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Mediterranean Delight",
+        "cuisine": "Fast Food",
+        "area": "MG Road",
+        "rating": 3.55,
+        "cost_for_two": 400.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 3646.5,
+        "phone": 6948867964.5,
+        "address": "5 HSR Layout Bangalore"
+      }
+    },
+    "52": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Burger Palace",
+        "cuisine": "Thai",
+        "area": "HSR Layout",
+        "rating": 3.25,
+        "cost_for_two": 500.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 3790.5,
+        "phone": 4017905908.5,
+        "address": "33 Whitefield Bangalore"
+      }
+    },
+    "53": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Burger Palace",
+        "cuisine": "Indian",
+        "area": "Indiranagar",
+        "rating": 3.8000000000000003,
+        "cost_for_two": 400.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 2914.5,
+        "phone": 697996807.5,
+        "address": "66 HSR Layout Bangalore"
+      }
+    },
+    "54": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Vegan Heaven",
+        "cuisine": "Indian",
+        "area": "HSR Layout",
+        "rating": 5.0,
+        "cost_for_two": 2000.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 3339.0,
+        "phone": 3579173346.5,
+        "address": "2 Indiranagar Bangalore"
+      }
+    },
+    "55": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Taco Bell",
+        "cuisine": "Japanese",
+        "area": "HSR Layout",
+        "rating": 4.0,
+        "cost_for_two": 2000.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 3041.0,
+        "phone": 9034989935.5,
+        "address": "19 MG Road Bangalore"
+      }
+    },
+    "56": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Taco Bell",
+        "cuisine": "American",
+        "area": "Indiranagar",
+        "rating": 4.1,
+        "cost_for_two": 700.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 525.5,
+        "phone": 7575941898.5,
+        "address": "23 Koramangala Bangalore"
+      }
+    },
+    "57": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Thai Paradise",
+        "cuisine": "Italian",
+        "area": "HSR Layout",
+        "rating": 4.75,
+        "cost_for_two": 1500.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 1388.0,
+        "phone": 3831046663.5,
+        "address": "31 Brigade Road Bangalore"
+      }
+    },
+    "58": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Sushi House",
+        "cuisine": "Mediterranean",
+        "area": "Indiranagar",
+        "rating": 3.4000000000000004,
+        "cost_for_two": 650.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 4500.0,
+        "phone": 8617278642.5,
+        "address": "68 Brigade Road Bangalore"
+      }
+    },
+    "59": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Noodle Bar",
+        "cuisine": "Chinese",
+        "area": "Electronic City",
+        "rating": 4.199999999999999,
+        "cost_for_two": 1000.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 1473.5,
+        "phone": 2430149397.0,
+        "address": "29 BTM Layout Bangalore"
+      }
+    },
+    "60": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Vegan Heaven",
+        "cuisine": "American",
+        "area": "Electronic City",
+        "rating": 3.45,
+        "cost_for_two": 1500.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 1406.5,
+        "phone": 7094569830.5,
+        "address": "45 Whitefield Bangalore"
+      }
+    },
+    "61": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Mexican Fiesta",
+        "cuisine": "Japanese",
+        "area": "Electronic City",
+        "rating": 3.8,
+        "cost_for_two": 650.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 2668.0,
+        "phone": 3560245226.5,
+        "address": "2 BTM Layout Bangalore"
+      }
+    },
+    "62": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Mexican Fiesta",
+        "cuisine": "Japanese",
+        "area": "Brigade Road",
+        "rating": 3.6,
+        "cost_for_two": 650.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 772.5,
+        "phone": 5661066496.0,
+        "address": "23 HSR Layout Bangalore"
+      }
+    },
+    "63": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Curry House",
+        "cuisine": "Korean",
+        "area": "Electronic City",
+        "rating": 3.9,
+        "cost_for_two": 750.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 2218.5,
+        "phone": 9702146588.0,
+        "address": "62 Whitefield Bangalore"
+      }
+    },
+    "64": {
+      "size": 3,
+      "centroid": {
+        "restaurant_name": "Seafood Shack",
+        "cuisine": "French",
+        "area": "BTM Layout",
+        "rating": 3.4333333333333336,
+        "cost_for_two": 366.6666666666667,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 3930.0,
+        "phone": 5601196303.0,
+        "address": "51 Whitefield Bangalore"
+      }
+    },
+    "65": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Golden Dragon",
+        "cuisine": "Italian",
+        "area": "JP Nagar",
+        "rating": 3.45,
+        "cost_for_two": 300.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 3742.0,
+        "phone": 2496165235.5,
+        "address": "78 Electronic City Bangalore"
+      }
+    },
+    "66": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Spice Garden",
+        "cuisine": "Mexican",
+        "area": "BTM Layout",
+        "rating": 3.5,
+        "cost_for_two": 1250.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 1648.0,
+        "phone": 5068005058.5,
+        "address": "42 Whitefield Bangalore"
+      }
+    },
+    "67": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "BBQ Junction",
+        "cuisine": "American",
+        "area": "JP Nagar",
+        "rating": 3.8499999999999996,
+        "cost_for_two": 500.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 1210.0,
+        "phone": 7092964688.5,
+        "address": "27 Electronic City Bangalore"
+      }
+    },
+    "68": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Seafood Shack",
+        "cuisine": "Indian",
+        "area": "Indiranagar",
+        "rating": 4.300000000000001,
+        "cost_for_two": 1500.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 3813.0,
+        "phone": 3489119483.5,
+        "address": "3 Indiranagar Bangalore"
+      }
+    },
+    "69": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Thai Paradise",
+        "cuisine": "Fast Food",
+        "area": "MG Road",
+        "rating": 4.2,
+        "cost_for_two": 400.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 3718.5,
+        "phone": 7800274700.5,
+        "address": "20 JP Nagar Bangalore"
+      }
+    },
+    "70": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Coffee Corner",
+        "cuisine": "Japanese",
+        "area": "Indiranagar",
+        "rating": 3.5,
+        "cost_for_two": 600.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 3340.0,
+        "phone": 4065567461.0,
+        "address": "40 MG Road Bangalore"
+      }
+    },
+    "71": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Mediterranean Delight",
+        "cuisine": "American",
+        "area": "Electronic City",
+        "rating": 3.55,
+        "cost_for_two": 400.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 1075.5,
+        "phone": 3424210710.5,
+        "address": "96 Koramangala Bangalore"
+      }
+    },
+    "72": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Golden Dragon",
+        "cuisine": "Mexican",
+        "area": "Electronic City",
+        "rating": 3.45,
+        "cost_for_two": 300.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 4096.0,
+        "phone": 2285073798.5,
+        "address": "29 Marathahalli Bangalore"
+      }
+    },
+    "73": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Sushi House",
+        "cuisine": "Thai",
+        "area": "MG Road",
+        "rating": 4.800000000000001,
+        "cost_for_two": 500.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 2589.0,
+        "phone": 6468250017.0,
+        "address": "22 BTM Layout Bangalore"
+      }
+    },
+    "74": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Bakery Sweet",
+        "cuisine": "Korean",
+        "area": "Marathahalli",
+        "rating": 3.8499999999999996,
+        "cost_for_two": 1000.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 3379.5,
+        "phone": 4741055495.0,
+        "address": "14 HSR Layout Bangalore"
+      }
+    },
+    "75": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Vegan Heaven",
+        "cuisine": "Mediterranean",
+        "area": "JP Nagar",
+        "rating": 3.45,
+        "cost_for_two": 600.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 1350.0,
+        "phone": 3312805486.5,
+        "address": "29 BTM Layout Bangalore"
+      }
+    },
+    "76": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Taco Bell",
+        "cuisine": "Thai",
+        "area": "Whitefield",
+        "rating": 4.1,
+        "cost_for_two": 700.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 4325.0,
+        "phone": 2441625020.5,
+        "address": "17 Indiranagar Bangalore"
+      }
+    },
+    "77": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Fried Chicken Co",
+        "cuisine": "Thai",
+        "area": "Marathahalli",
+        "rating": 4.5,
+        "cost_for_two": 1100.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 844.0,
+        "phone": 7050056412.0,
+        "address": "19 Electronic City Bangalore"
+      }
+    },
+    "78": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Burger Palace",
+        "cuisine": "Japanese",
+        "area": "MG Road",
+        "rating": 4.4,
+        "cost_for_two": 600.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 1238.5,
+        "phone": 2703159841.0,
+        "address": "56 Electronic City Bangalore"
+      }
+    },
+    "79": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Seafood Shack",
+        "cuisine": "Indian",
+        "area": "BTM Layout",
+        "rating": 4.1,
+        "cost_for_two": 300.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 1767.5,
+        "phone": 4620795501.5,
+        "address": "15 Brigade Road Bangalore"
+      }
+    },
+    "80": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Fried Chicken Co",
+        "cuisine": "Indian",
+        "area": "MG Road",
+        "rating": 4.2,
+        "cost_for_two": 600.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 4548.5,
+        "phone": 1056334272.0,
+        "address": "64 Electronic City Bangalore"
+      }
+    },
+    "81": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Noodle Bar",
+        "cuisine": "Mediterranean",
+        "area": "JP Nagar",
+        "rating": 3.6,
+        "cost_for_two": 400.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 1266.5,
+        "phone": 5392420617.5,
+        "address": "64 Koramangala Bangalore"
+      }
+    },
+    "82": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Sushi House",
+        "cuisine": "Korean",
+        "area": "Electronic City",
+        "rating": 4.7,
+        "cost_for_two": 400.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 4367.5,
+        "phone": 4741470217.5,
+        "address": "35 Marathahalli Bangalore"
+      }
+    },
+    "83": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Mediterranean Delight",
+        "cuisine": "Japanese",
+        "area": "Marathahalli",
+        "rating": 4.15,
+        "cost_for_two": 400.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 1953.5,
+        "phone": 5601891568.5,
+        "address": "47 Koramangala Bangalore"
+      }
+    },
+    "84": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Mexican Fiesta",
+        "cuisine": "Thai",
+        "area": "MG Road",
+        "rating": 4.55,
+        "cost_for_two": 850.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 3536.5,
+        "phone": 2174205355.0,
+        "address": "31 Electronic City Bangalore"
+      }
+    },
+    "85": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Pizza Express",
+        "cuisine": "Fast Food",
+        "area": "Marathahalli",
+        "rating": 4.15,
+        "cost_for_two": 1500.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 1085.5,
+        "phone": 2288160232.5,
+        "address": "19 Electronic City Bangalore"
+      }
+    },
+    "86": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Pizza Express",
+        "cuisine": "Japanese",
+        "area": "MG Road",
+        "rating": 3.25,
+        "cost_for_two": 1000.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 3938.0,
+        "phone": 4623172194.5,
+        "address": "56 Marathahalli Bangalore"
+      }
+    },
+    "87": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Mediterranean Delight",
+        "cuisine": "Korean",
+        "area": "Indiranagar",
+        "rating": 4.550000000000001,
+        "cost_for_two": 500.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 1664.5,
+        "phone": 368934068.0,
+        "address": "10 JP Nagar Bangalore"
+      }
+    },
+    "88": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Thai Paradise",
+        "cuisine": "Thai",
+        "area": "Electronic City",
+        "rating": 3.6500000000000004,
+        "cost_for_two": 750.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 3754.0,
+        "phone": 3411643482.5,
+        "address": "35 Indiranagar Bangalore"
+      }
+    },
+    "89": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Vegan Heaven",
+        "cuisine": "French",
+        "area": "Brigade Road",
+        "rating": 3.45,
+        "cost_for_two": 500.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 3582.0,
+        "phone": 5302625800.0,
+        "address": "25 HSR Layout Bangalore"
+      }
+    },
+    "90": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Golden Dragon",
+        "cuisine": "Chinese",
+        "area": "MG Road",
+        "rating": 3.5,
+        "cost_for_two": 1500.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 3640.0,
+        "phone": 3963185987.0,
+        "address": "70 JP Nagar Bangalore"
+      }
+    },
+    "91": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Steak House",
+        "cuisine": "Fast Food",
+        "area": "Electronic City",
+        "rating": 3.55,
+        "cost_for_two": 1500.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 1218.0,
+        "phone": 6761599787.0,
+        "address": "36 Electronic City Bangalore"
+      }
+    },
+    "92": {
+      "size": 3,
+      "centroid": {
+        "restaurant_name": "Golden Dragon",
+        "cuisine": "French",
+        "area": "JP Nagar",
+        "rating": 3.6666666666666665,
+        "cost_for_two": 1166.6666666666667,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 4088.0,
+        "phone": 2970462222.6666665,
+        "address": "21 HSR Layout Bangalore"
+      }
+    },
+    "93": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Curry House",
+        "cuisine": "Italian",
+        "area": "Marathahalli",
+        "rating": 4.45,
+        "cost_for_two": 1000.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 3698.0,
+        "phone": 3476104989.5,
+        "address": "41 BTM Layout Bangalore"
+      }
+    },
+    "94": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Steak House",
+        "cuisine": "Chinese",
+        "area": "Brigade Road",
+        "rating": 4.5,
+        "cost_for_two": 850.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 2983.5,
+        "phone": 1297893434.0,
+        "address": "21 Marathahalli Bangalore"
+      }
+    },
+    "95": {
+      "size": 4,
+      "centroid": {
+        "restaurant_name": "Burger Palace",
+        "cuisine": "Fast Food",
+        "area": "BTM Layout",
+        "rating": 3.725,
+        "cost_for_two": 1050.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 3564.75,
+        "phone": 4563173425.25,
+        "address": "1 BTM Layout Bangalore"
+      }
+    },
+    "96": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Mexican Fiesta",
+        "cuisine": "Chinese",
+        "area": "Koramangala",
+        "rating": 3.85,
+        "cost_for_two": 400.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 1419.0,
+        "phone": 2743429561.0,
+        "address": "31 Marathahalli Bangalore"
+      }
+    },
+    "97": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Seafood Shack",
+        "cuisine": "Mediterranean",
+        "area": "Electronic City",
+        "rating": 4.25,
+        "cost_for_two": 600.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 407.5,
+        "phone": 5426398097.5,
+        "address": "66 Whitefield Bangalore"
+      }
+    },
+    "98": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Noodle Bar",
+        "cuisine": "French",
+        "area": "Electronic City",
+        "rating": 4.75,
+        "cost_for_two": 1250.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 2209.5,
+        "phone": 8463251282.5,
+        "address": "50 JP Nagar Bangalore"
+      }
+    },
+    "99": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Fried Chicken Co",
+        "cuisine": "American",
+        "area": "Koramangala",
+        "rating": 3.45,
+        "cost_for_two": 500.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 2146.0,
+        "phone": 993982804.0,
+        "address": "84 HSR Layout Bangalore"
+      }
+    },
+    "100": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Steak House",
+        "cuisine": "Continental",
+        "area": "Electronic City",
+        "rating": 4.5,
+        "cost_for_two": 2000.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 2798.0,
+        "phone": 2693867261.0,
+        "address": "80 Brigade Road Bangalore"
+      }
+    },
+    "101": {
+      "size": 3,
+      "centroid": {
+        "restaurant_name": "Vegan Heaven",
+        "cuisine": "Continental",
+        "area": "Electronic City",
+        "rating": 4.366666666666666,
+        "cost_for_two": 900.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 3170.6666666666665,
+        "phone": 4240910467.0,
+        "address": "75 Brigade Road Bangalore"
+      }
+    },
+    "102": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Pizza Express",
+        "cuisine": "Continental",
+        "area": "BTM Layout",
+        "rating": 3.95,
+        "cost_for_two": 650.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 3763.5,
+        "phone": 3101222900.5,
+        "address": "33 BTM Layout Bangalore"
+      }
+    },
+    "103": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Noodle Bar",
+        "cuisine": "Thai",
+        "area": "Whitefield",
+        "rating": 3.95,
+        "cost_for_two": 1100.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 2150.0,
+        "phone": 2902594206.5,
+        "address": "63 MG Road Bangalore"
+      }
+    },
+    "104": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Mexican Fiesta",
+        "cuisine": "Korean",
+        "area": "Electronic City",
+        "rating": 3.4,
+        "cost_for_two": 1500.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 3826.5,
+        "phone": 5965863027.5,
+        "address": "58 Electronic City Bangalore"
+      }
+    },
+    "105": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Mediterranean Delight",
+        "cuisine": "Thai",
+        "area": "Whitefield",
+        "rating": 3.8,
+        "cost_for_two": 1750.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 1488.5,
+        "phone": 7676940876.0,
+        "address": "52 Marathahalli Bangalore"
+      }
+    },
+    "106": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Taco Bell",
+        "cuisine": "Mexican",
+        "area": "HSR Layout",
+        "rating": 4.15,
+        "cost_for_two": 1750.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 1550.5,
+        "phone": 1018138102.0,
+        "address": "21 Electronic City Bangalore"
+      }
+    },
+    "107": {
+      "size": 3,
+      "centroid": {
+        "restaurant_name": "Coffee Corner",
+        "cuisine": "Korean",
+        "area": "Koramangala",
+        "rating": 4.633333333333333,
+        "cost_for_two": 300.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 3270.0,
+        "phone": 7730481770.0,
+        "address": "30 JP Nagar Bangalore"
+      }
+    },
+    "108": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Ice Cream Parlor",
+        "cuisine": "American",
+        "area": "HSR Layout",
+        "rating": 4.4,
+        "cost_for_two": 500.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 1378.0,
+        "phone": 2803667593.0,
+        "address": "46 Electronic City Bangalore"
+      }
+    },
+    "109": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Seafood Shack",
+        "cuisine": "Mediterranean",
+        "area": "MG Road",
+        "rating": 3.45,
+        "cost_for_two": 1500.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 4349.5,
+        "phone": 5318566557.0,
+        "address": "64 Brigade Road Bangalore"
+      }
+    },
+    "110": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Ice Cream Parlor",
+        "cuisine": "Korean",
+        "area": "Koramangala",
+        "rating": 4.6,
+        "cost_for_two": 600.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 2441.5,
+        "phone": 3093444192.5,
+        "address": "67 Marathahalli Bangalore"
+      }
+    },
+    "111": {
+      "size": 3,
+      "centroid": {
+        "restaurant_name": "Bakery Sweet",
+        "cuisine": "Fast Food",
+        "area": "JP Nagar",
+        "rating": 4.066666666666666,
+        "cost_for_two": 633.3333333333334,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 2122.6666666666665,
+        "phone": 4690295143.0,
+        "address": "3 Indiranagar Bangalore"
+      }
+    },
+    "112": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Bakery Sweet",
+        "cuisine": "Italian",
+        "area": "BTM Layout",
+        "rating": 3.1,
+        "cost_for_two": 850.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 4764.5,
+        "phone": 5758758990.0,
+        "address": "53 JP Nagar Bangalore"
+      }
+    },
+    "113": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Steak House",
+        "cuisine": "Korean",
+        "area": "Marathahalli",
+        "rating": 3.95,
+        "cost_for_two": 850.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 2521.0,
+        "phone": 5097270255.5,
+        "address": "3 BTM Layout Bangalore"
+      }
+    },
+    "114": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Coffee Corner",
+        "cuisine": "Chinese",
+        "area": "JP Nagar",
+        "rating": 4.65,
+        "cost_for_two": 600.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 2336.0,
+        "phone": 2782780495.5,
+        "address": "75 Marathahalli Bangalore"
+      }
+    },
+    "115": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Seafood Shack",
+        "cuisine": "Japanese",
+        "area": "JP Nagar",
+        "rating": 4.0,
+        "cost_for_two": 1500.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 3406.5,
+        "phone": 2808980417.5,
+        "address": "30 Indiranagar Bangalore"
+      }
+    },
+    "116": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Sushi House",
+        "cuisine": "Mexican",
+        "area": "Brigade Road",
+        "rating": 4.4,
+        "cost_for_two": 1250.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 2292.5,
+        "phone": 9280913585.0,
+        "address": "38 JP Nagar Bangalore"
+      }
+    },
+    "117": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Ice Cream Parlor",
+        "cuisine": "Chinese",
+        "area": "Brigade Road",
+        "rating": 4.0,
+        "cost_for_two": 2000.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 3266.5,
+        "phone": 5682250488.0,
+        "address": "38 Brigade Road Bangalore"
+      }
+    },
+    "118": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Taco Bell",
+        "cuisine": "French",
+        "area": "MG Road",
+        "rating": 3.6,
+        "cost_for_two": 500.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 727.5,
+        "phone": 7392089533.5,
+        "address": "38 Brigade Road Bangalore"
+      }
+    },
+    "119": {
+      "size": 4,
+      "centroid": {
+        "restaurant_name": "Seafood Shack",
+        "cuisine": "Japanese",
+        "area": "MG Road",
+        "rating": 3.475,
+        "cost_for_two": 1050.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 2909.75,
+        "phone": 4148999554.25,
+        "address": "37 Brigade Road Bangalore"
+      }
+    },
+    "120": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Mexican Fiesta",
+        "cuisine": "French",
+        "area": "JP Nagar",
+        "rating": 3.8,
+        "cost_for_two": 600.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 1976.0,
+        "phone": 1841496361.0,
+        "address": "53 Whitefield Bangalore"
+      }
+    },
+    "121": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Golden Dragon",
+        "cuisine": "Fast Food",
+        "area": "HSR Layout",
+        "rating": 3.2,
+        "cost_for_two": 1250.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 1688.0,
+        "phone": 2241634727.0,
+        "address": "1 HSR Layout Bangalore"
+      }
+    },
+    "122": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Coffee Corner",
+        "cuisine": "Italian",
+        "area": "BTM Layout",
+        "rating": 3.8499999999999996,
+        "cost_for_two": 1500.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 4197.0,
+        "phone": 8583277652.5,
+        "address": "38 Electronic City Bangalore"
+      }
+    },
+    "123": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "BBQ Junction",
+        "cuisine": "Japanese",
+        "area": "BTM Layout",
+        "rating": 4.3,
+        "cost_for_two": 400.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 1982.0,
+        "phone": 8696184867.5,
+        "address": "27 MG Road Bangalore"
+      }
+    },
+    "124": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Golden Dragon",
+        "cuisine": "Mexican",
+        "area": "Brigade Road",
+        "rating": 5.0,
+        "cost_for_two": 850.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 4001.0,
+        "phone": 3151375931.0,
+        "address": "44 Marathahalli Bangalore"
+      }
+    },
+    "125": {
+      "size": 3,
+      "centroid": {
+        "restaurant_name": "Golden Dragon",
+        "cuisine": "Japanese",
+        "area": "MG Road",
+        "rating": 3.533333333333333,
+        "cost_for_two": 1500.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 398.0,
+        "phone": 5928393981.666667,
+        "address": "40 BTM Layout Bangalore"
+      }
+    },
+    "126": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Italian Bistro",
+        "cuisine": "Korean",
+        "area": "Marathahalli",
+        "rating": 3.75,
+        "cost_for_two": 500.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 582.0,
+        "phone": 5892492527.5,
+        "address": "29 BTM Layout Bangalore"
+      }
+    },
+    "127": {
+      "size": 3,
+      "centroid": {
+        "restaurant_name": "Pizza Express",
+        "cuisine": "Chinese",
+        "area": "Koramangala",
+        "rating": 4.5,
+        "cost_for_two": 1066.6666666666667,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 1167.6666666666667,
+        "phone": 3612119059.3333335,
+        "address": "12 Koramangala Bangalore"
+      }
+    },
+    "128": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Steak House",
+        "cuisine": "Korean",
+        "area": "BTM Layout",
+        "rating": 3.7,
+        "cost_for_two": 1000.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 3483.5,
+        "phone": 5849942377.0,
+        "address": "56 BTM Layout Bangalore"
+      }
+    },
+    "129": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Mexican Fiesta",
+        "cuisine": "Korean",
+        "area": "Indiranagar",
+        "rating": 4.4,
+        "cost_for_two": 850.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 1058.0,
+        "phone": 7093394823.5,
+        "address": "27 Electronic City Bangalore"
+      }
+    },
+    "130": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Taco Bell",
+        "cuisine": "Mediterranean",
+        "area": "Electronic City",
+        "rating": 3.05,
+        "cost_for_two": 700.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 2773.0,
+        "phone": 5167573446.0,
+        "address": "77 Whitefield Bangalore"
+      }
+    },
+    "131": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Taco Bell",
+        "cuisine": "American",
+        "area": "Koramangala",
+        "rating": 4.800000000000001,
+        "cost_for_two": 850.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 2435.5,
+        "phone": 4117200707.0,
+        "address": "16 MG Road Bangalore"
+      }
+    },
+    "132": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Bakery Sweet",
+        "cuisine": "Mexican",
+        "area": "Electronic City",
+        "rating": 3.4,
+        "cost_for_two": 1000.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 1696.0,
+        "phone": 4455350336.5,
+        "address": "46 Brigade Road Bangalore"
+      }
+    },
+    "133": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Ice Cream Parlor",
+        "cuisine": "Fast Food",
+        "area": "Whitefield",
+        "rating": 3.75,
+        "cost_for_two": 1000.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 2794.5,
+        "phone": 2151231868.0,
+        "address": "26 HSR Layout Bangalore"
+      }
+    },
+    "134": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Coffee Corner",
+        "cuisine": "Fast Food",
+        "area": "Whitefield",
+        "rating": 4.5,
+        "cost_for_two": 600.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 3195.0,
+        "phone": 4923436225.0,
+        "address": "31 MG Road Bangalore"
+      }
+    },
+    "135": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Pizza Express",
+        "cuisine": "Italian",
+        "area": "JP Nagar",
+        "rating": 3.3,
+        "cost_for_two": 500.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 2229.5,
+        "phone": 4678859550.0,
+        "address": "37 MG Road Bangalore"
+      }
+    },
+    "136": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Mexican Fiesta",
+        "cuisine": "Thai",
+        "area": "Whitefield",
+        "rating": 3.85,
+        "cost_for_two": 500.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 2328.5,
+        "phone": 6388674296.5,
+        "address": "50 Electronic City Bangalore"
+      }
+    },
+    "137": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Taco Bell",
+        "cuisine": "Japanese",
+        "area": "Indiranagar",
+        "rating": 4.1,
+        "cost_for_two": 600.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 3775.0,
+        "phone": 8779597605.5,
+        "address": "89 Koramangala Bangalore"
+      }
+    },
+    "138": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Bakery Sweet",
+        "cuisine": "Chinese",
+        "area": "Electronic City",
+        "rating": 4.25,
+        "cost_for_two": 300.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 3838.0,
+        "phone": 9547761364.0,
+        "address": "34 Whitefield Bangalore"
+      }
+    },
+    "139": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "BBQ Junction",
+        "cuisine": "French",
+        "area": "Marathahalli",
+        "rating": 3.3,
+        "cost_for_two": 750.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 476.5,
+        "phone": 3199405669.5,
+        "address": "40 Indiranagar Bangalore"
+      }
+    },
+    "140": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Steak House",
+        "cuisine": "Indian",
+        "area": "HSR Layout",
+        "rating": 4.05,
+        "cost_for_two": 1000.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 1052.5,
+        "phone": 6454682626.5,
+        "address": "48 Koramangala Bangalore"
+      }
+    },
+    "141": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Italian Bistro",
+        "cuisine": "American",
+        "area": "Whitefield",
+        "rating": 3.25,
+        "cost_for_two": 700.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 3108.0,
+        "phone": 9450322827.0,
+        "address": "25 JP Nagar Bangalore"
+      }
+    },
+    "142": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Seafood Shack",
+        "cuisine": "Mediterranean",
+        "area": "Whitefield",
+        "rating": 4.0,
+        "cost_for_two": 300.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 3163.5,
+        "phone": 1572913521.5,
+        "address": "83 Brigade Road Bangalore"
+      }
+    },
+    "143": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Fried Chicken Co",
+        "cuisine": "Japanese",
+        "area": "HSR Layout",
+        "rating": 4.35,
+        "cost_for_two": 400.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 4740.0,
+        "phone": 6236962237.5,
+        "address": "34 Brigade Road Bangalore"
+      }
+    },
+    "144": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Mexican Fiesta",
+        "cuisine": "Japanese",
+        "area": "JP Nagar",
+        "rating": 4.550000000000001,
+        "cost_for_two": 500.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 1046.0,
+        "phone": 6927288116.0,
+        "address": "53 JP Nagar Bangalore"
+      }
+    },
+    "145": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Steak House",
+        "cuisine": "Japanese",
+        "area": "HSR Layout",
+        "rating": 4.300000000000001,
+        "cost_for_two": 1250.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 583.0,
+        "phone": 6431328682.0,
+        "address": "46 Indiranagar Bangalore"
+      }
+    },
+    "146": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Burger Palace",
+        "cuisine": "Chinese",
+        "area": "JP Nagar",
+        "rating": 3.35,
+        "cost_for_two": 750.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 4521.0,
+        "phone": 1138882363.5,
+        "address": "44 JP Nagar Bangalore"
+      }
+    },
+    "147": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Golden Dragon",
+        "cuisine": "Indian",
+        "area": "BTM Layout",
+        "rating": 4.1,
+        "cost_for_two": 300.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 3762.0,
+        "phone": 7026520640.0,
+        "address": "59 Marathahalli Bangalore"
+      }
+    },
+    "148": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Pizza Express",
+        "cuisine": "Mediterranean",
+        "area": "BTM Layout",
+        "rating": 4.35,
+        "cost_for_two": 400.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 2432.5,
+        "phone": 4799078182.5,
+        "address": "8 Brigade Road Bangalore"
+      }
+    },
+    "149": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Curry House",
+        "cuisine": "Korean",
+        "area": "MG Road",
+        "rating": 4.0,
+        "cost_for_two": 500.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 4035.0,
+        "phone": 1104012195.5,
+        "address": "47 Whitefield Bangalore"
+      }
+    },
+    "150": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Bakery Sweet",
+        "cuisine": "American",
+        "area": "Brigade Road",
+        "rating": 3.5,
+        "cost_for_two": 300.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 2478.5,
+        "phone": 3046689312.0,
+        "address": "5 Indiranagar Bangalore"
+      }
+    },
+    "151": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Burger Palace",
+        "cuisine": "Chinese",
+        "area": "Whitefield",
+        "rating": 3.95,
+        "cost_for_two": 1500.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 1195.0,
+        "phone": 6761908008.0,
+        "address": "23 Marathahalli Bangalore"
+      }
+    },
+    "152": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Vegan Heaven",
+        "cuisine": "Japanese",
+        "area": "HSR Layout",
+        "rating": 3.5,
+        "cost_for_two": 300.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 2314.0,
+        "phone": 5624038892.5,
+        "address": "80 Brigade Road Bangalore"
+      }
+    },
+    "153": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Curry House",
+        "cuisine": "Fast Food",
+        "area": "HSR Layout",
+        "rating": 3.95,
+        "cost_for_two": 1250.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 945.0,
+        "phone": 4466881591.0,
+        "address": "35 Electronic City Bangalore"
+      }
+    },
+    "154": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Italian Bistro",
+        "cuisine": "Chinese",
+        "area": "HSR Layout",
+        "rating": 3.1,
+        "cost_for_two": 750.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 4059.5,
+        "phone": 5296975474.0,
+        "address": "69 Marathahalli Bangalore"
+      }
+    },
+    "155": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Mediterranean Delight",
+        "cuisine": "French",
+        "area": "MG Road",
+        "rating": 4.2,
+        "cost_for_two": 500.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 3373.0,
+        "phone": 7566287537.0,
+        "address": "5 Brigade Road Bangalore"
+      }
+    },
+    "156": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Fried Chicken Co",
+        "cuisine": "French",
+        "area": "BTM Layout",
+        "rating": 3.65,
+        "cost_for_two": 500.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 4121.5,
+        "phone": 1159583362.5,
+        "address": "10 BTM Layout Bangalore"
+      }
+    },
+    "157": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Pizza Express",
+        "cuisine": "French",
+        "area": "Electronic City",
+        "rating": 3.8499999999999996,
+        "cost_for_two": 700.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 2324.5,
+        "phone": 8254254659.5,
+        "address": "61 Indiranagar Bangalore"
+      }
+    },
+    "158": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Curry House",
+        "cuisine": "Mexican",
+        "area": "Electronic City",
+        "rating": 3.75,
+        "cost_for_two": 1350.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 886.0,
+        "phone": 9156983352.5,
+        "address": "4 Marathahalli Bangalore"
+      }
+    },
+    "159": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Ice Cream Parlor",
+        "cuisine": "Mediterranean",
+        "area": "HSR Layout",
+        "rating": 4.55,
+        "cost_for_two": 300.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 2258.5,
+        "phone": 8230438391.0,
+        "address": "44 Whitefield Bangalore"
+      }
+    },
+    "160": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Mexican Fiesta",
+        "cuisine": "Mexican",
+        "area": "Whitefield",
+        "rating": 3.3499999999999996,
+        "cost_for_two": 300.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 3122.0,
+        "phone": 1320763124.0,
+        "address": "16 Marathahalli Bangalore"
+      }
+    },
+    "161": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Bakery Sweet",
+        "cuisine": "French",
+        "area": "Whitefield",
+        "rating": 4.2,
+        "cost_for_two": 750.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 2626.0,
+        "phone": 406716768.5,
+        "address": "72 HSR Layout Bangalore"
+      }
+    },
+    "162": {
+      "size": 3,
+      "centroid": {
+        "restaurant_name": "Ice Cream Parlor",
+        "cuisine": "French",
+        "area": "BTM Layout",
+        "rating": 4.066666666666666,
+        "cost_for_two": 666.6666666666666,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 3422.0,
+        "phone": 6828966580.666667,
+        "address": "25 Marathahalli Bangalore"
+      }
+    },
+    "163": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Taco Bell",
+        "cuisine": "Continental",
+        "area": "BTM Layout",
+        "rating": 3.25,
+        "cost_for_two": 750.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 2016.5,
+        "phone": 5054627306.5,
+        "address": "26 Marathahalli Bangalore"
+      }
+    },
+    "164": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "BBQ Junction",
+        "cuisine": "Korean",
+        "area": "Marathahalli",
+        "rating": 4.55,
+        "cost_for_two": 700.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 1041.5,
+        "phone": 3932192002.5,
+        "address": "83 Brigade Road Bangalore"
+      }
+    },
+    "165": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Thai Paradise",
+        "cuisine": "Chinese",
+        "area": "MG Road",
+        "rating": 3.5,
+        "cost_for_two": 300.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 3098.5,
+        "phone": 1097339180.5,
+        "address": "72 JP Nagar Bangalore"
+      }
+    },
+    "166": {
+      "size": 3,
+      "centroid": {
+        "restaurant_name": "Pizza Express",
+        "cuisine": "Indian",
+        "area": "Whitefield",
+        "rating": 3.966666666666667,
+        "cost_for_two": 1166.6666666666667,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 1812.3333333333333,
+        "phone": 5245794339.333333,
+        "address": "13 Electronic City Bangalore"
+      }
+    },
+    "167": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Spice Garden",
+        "cuisine": "Mediterranean",
+        "area": "Indiranagar",
+        "rating": 4.35,
+        "cost_for_two": 500.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 1801.0,
+        "phone": 9094207974.0,
+        "address": "12 Brigade Road Bangalore"
+      }
+    },
+    "168": {
+      "size": 3,
+      "centroid": {
+        "restaurant_name": "Steak House",
+        "cuisine": "Korean",
+        "area": "HSR Layout",
+        "rating": 4.066666666666666,
+        "cost_for_two": 1066.6666666666667,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 1824.0,
+        "phone": 7772520145.666667,
+        "address": "78 Indiranagar Bangalore"
+      }
+    },
+    "169": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Burger Palace",
+        "cuisine": "Thai",
+        "area": "JP Nagar",
+        "rating": 4.0,
+        "cost_for_two": 300.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 2166.0,
+        "phone": 6450092399.5,
+        "address": "14 Electronic City Bangalore"
+      }
+    },
+    "170": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Curry House",
+        "cuisine": "French",
+        "area": "Koramangala",
+        "rating": 4.4,
+        "cost_for_two": 500.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 3565.0,
+        "phone": 3640289752.0,
+        "address": "24 Koramangala Bangalore"
+      }
+    },
+    "171": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Bakery Sweet",
+        "cuisine": "Mexican",
+        "area": "Koramangala",
+        "rating": 4.300000000000001,
+        "cost_for_two": 750.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 3762.5,
+        "phone": 2339733702.0,
+        "address": "56 Brigade Road Bangalore"
+      }
+    },
+    "172": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Golden Dragon",
+        "cuisine": "Korean",
+        "area": "Marathahalli",
+        "rating": 4.65,
+        "cost_for_two": 850.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 2806.5,
+        "phone": 4881399434.0,
+        "address": "15 Koramangala Bangalore"
+      }
+    },
+    "173": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Steak House",
+        "cuisine": "Mediterranean",
+        "area": "Electronic City",
+        "rating": 4.7,
+        "cost_for_two": 500.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 2052.0,
+        "phone": 7655256533.5,
+        "address": "15 Brigade Road Bangalore"
+      }
+    },
+    "174": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Ice Cream Parlor",
+        "cuisine": "Mediterranean",
+        "area": "Koramangala",
+        "rating": 4.5,
+        "cost_for_two": 1750.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 629.5,
+        "phone": 8247118181.5,
+        "address": "41 Electronic City Bangalore"
+      }
+    },
+    "175": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Seafood Shack",
+        "cuisine": "Mediterranean",
+        "area": "MG Road",
+        "rating": 4.5,
+        "cost_for_two": 500.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 4522.5,
+        "phone": 9829584321.0,
+        "address": "34 Koramangala Bangalore"
+      }
+    },
+    "176": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Noodle Bar",
+        "cuisine": "French",
+        "area": "Koramangala",
+        "rating": 3.5,
+        "cost_for_two": 1500.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 3498.5,
+        "phone": 9317222775.0,
+        "address": "10 MG Road Bangalore"
+      }
+    },
+    "177": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Curry House",
+        "cuisine": "Chinese",
+        "area": "Marathahalli",
+        "rating": 4.1,
+        "cost_for_two": 400.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 2570.0,
+        "phone": 7110863815.0,
+        "address": "58 Marathahalli Bangalore"
+      }
+    },
+    "178": {
+      "size": 3,
+      "centroid": {
+        "restaurant_name": "Mexican Fiesta",
+        "cuisine": "Fast Food",
+        "area": "Brigade Road",
+        "rating": 3.9,
+        "cost_for_two": 666.6666666666666,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 3889.6666666666665,
+        "phone": 5241568494.333333,
+        "address": "27 MG Road Bangalore"
+      }
+    },
+    "179": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Mexican Fiesta",
+        "cuisine": "Thai",
+        "area": "Whitefield",
+        "rating": 3.75,
+        "cost_for_two": 300.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 1405.0,
+        "phone": 2775187263.0,
+        "address": "59 Whitefield Bangalore"
+      }
+    },
+    "180": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Taco Bell",
+        "cuisine": "French",
+        "area": "Whitefield",
+        "rating": 4.05,
+        "cost_for_two": 2000.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 562.5,
+        "phone": 6792525744.5,
+        "address": "11 JP Nagar Bangalore"
+      }
+    },
+    "181": {
+      "size": 3,
+      "centroid": {
+        "restaurant_name": "BBQ Junction",
+        "cuisine": "Thai",
+        "area": "Brigade Road",
+        "rating": 3.9000000000000004,
+        "cost_for_two": 1166.6666666666667,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 2285.6666666666665,
+        "phone": 2651835252.6666665,
+        "address": "66 Indiranagar Bangalore"
+      }
+    },
+    "182": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Pizza Express",
+        "cuisine": "Mediterranean",
+        "area": "Marathahalli",
+        "rating": 3.55,
+        "cost_for_two": 1500.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 2583.0,
+        "phone": 4089132918.0,
+        "address": "37 JP Nagar Bangalore"
+      }
+    },
+    "183": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "BBQ Junction",
+        "cuisine": "Mediterranean",
+        "area": "Koramangala",
+        "rating": 3.8,
+        "cost_for_two": 2000.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 2759.0,
+        "phone": 6904082696.0,
+        "address": "47 Whitefield Bangalore"
+      }
+    },
+    "184": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Mexican Fiesta",
+        "cuisine": "American",
+        "area": "MG Road",
+        "rating": 4.1,
+        "cost_for_two": 750.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 1139.5,
+        "phone": 9580574776.5,
+        "address": "64 Indiranagar Bangalore"
+      }
+    },
+    "185": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Thai Paradise",
+        "cuisine": "Chinese",
+        "area": "MG Road",
+        "rating": 4.0,
+        "cost_for_two": 600.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 1653.5,
+        "phone": 6455187339.0,
+        "address": "36 HSR Layout Bangalore"
+      }
+    },
+    "186": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Vegan Heaven",
+        "cuisine": "Chinese",
+        "area": "MG Road",
+        "rating": 3.8499999999999996,
+        "cost_for_two": 1250.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 2587.0,
+        "phone": 6506888319.5,
+        "address": "35 Marathahalli Bangalore"
+      }
+    },
+    "187": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Mediterranean Delight",
+        "cuisine": "Fast Food",
+        "area": "Indiranagar",
+        "rating": 3.7,
+        "cost_for_two": 400.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 1960.5,
+        "phone": 7434330266.5,
+        "address": "22 HSR Layout Bangalore"
+      }
+    },
+    "188": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Thai Paradise",
+        "cuisine": "Italian",
+        "area": "Indiranagar",
+        "rating": 3.8,
+        "cost_for_two": 1500.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 1237.5,
+        "phone": 3862041753.5,
+        "address": "44 Whitefield Bangalore"
+      }
+    },
+    "189": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Steak House",
+        "cuisine": "Italian",
+        "area": "Electronic City",
+        "rating": 3.6999999999999997,
+        "cost_for_two": 300.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 1541.5,
+        "phone": 2697212423.5,
+        "address": "65 BTM Layout Bangalore"
+      }
+    },
+    "190": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Curry House",
+        "cuisine": "Japanese",
+        "area": "HSR Layout",
+        "rating": 4.45,
+        "cost_for_two": 600.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 1392.5,
+        "phone": 6728284529.0,
+        "address": "12 Brigade Road Bangalore"
+      }
+    },
+    "191": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Thai Paradise",
+        "cuisine": "Mexican",
+        "area": "Brigade Road",
+        "rating": 4.15,
+        "cost_for_two": 300.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 1797.0,
+        "phone": 7910424340.5,
+        "address": "1 Whitefield Bangalore"
+      }
+    },
+    "192": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Taco Bell",
+        "cuisine": "Chinese",
+        "area": "Marathahalli",
+        "rating": 4.35,
+        "cost_for_two": 650.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 2892.5,
+        "phone": 2821810520.0,
+        "address": "52 Marathahalli Bangalore"
+      }
+    },
+    "193": {
+      "size": 3,
+      "centroid": {
+        "restaurant_name": "Curry House",
+        "cuisine": "French",
+        "area": "Indiranagar",
+        "rating": 3.4333333333333336,
+        "cost_for_two": 733.3333333333334,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 1916.0,
+        "phone": 7448126533.333333,
+        "address": "39 Indiranagar Bangalore"
+      }
+    },
+    "194": {
+      "size": 3,
+      "centroid": {
+        "restaurant_name": "Thai Paradise",
+        "cuisine": "American",
+        "area": "Indiranagar",
+        "rating": 3.9333333333333336,
+        "cost_for_two": 566.6666666666666,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 2191.0,
+        "phone": 2347646807.6666665,
+        "address": "68 JP Nagar Bangalore"
+      }
+    },
+    "195": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Taco Bell",
+        "cuisine": "French",
+        "area": "JP Nagar",
+        "rating": 3.4,
+        "cost_for_two": 600.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 1702.5,
+        "phone": 8524670171.0,
+        "address": "76 Indiranagar Bangalore"
+      }
+    },
+    "196": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Vegan Heaven",
+        "cuisine": "Mediterranean",
+        "area": "JP Nagar",
+        "rating": 4.5,
+        "cost_for_two": 300.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 4183.5,
+        "phone": 1829375577.0,
+        "address": "5 HSR Layout Bangalore"
+      }
+    },
+    "197": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Coffee Corner",
+        "cuisine": "Italian",
+        "area": "HSR Layout",
+        "rating": 3.05,
+        "cost_for_two": 600.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 4133.5,
+        "phone": 2710870023.0,
+        "address": "30 Whitefield Bangalore"
+      }
+    },
+    "198": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Bakery Sweet",
+        "cuisine": "Chinese",
+        "area": "Brigade Road",
+        "rating": 3.4,
+        "cost_for_two": 400.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 3934.5,
+        "phone": 4439875177.5,
+        "address": "62 MG Road Bangalore"
+      }
+    },
+    "199": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Mexican Fiesta",
+        "cuisine": "Italian",
+        "area": "Indiranagar",
+        "rating": 3.1,
+        "cost_for_two": 1750.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 1610.0,
+        "phone": 2768458524.5,
+        "address": "56 MG Road Bangalore"
+      }
+    },
+    "200": {
+      "size": 3,
+      "centroid": {
+        "restaurant_name": "Sushi House",
+        "cuisine": "Italian",
+        "area": "MG Road",
+        "rating": 3.3000000000000003,
+        "cost_for_two": 566.6666666666666,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 1535.6666666666667,
+        "phone": 2698931569.6666665,
+        "address": "21 Indiranagar Bangalore"
+      }
+    },
+    "201": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Thai Paradise",
+        "cuisine": "French",
+        "area": "Marathahalli",
+        "rating": 3.8499999999999996,
+        "cost_for_two": 1350.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 4428.5,
+        "phone": 8635851391.0,
+        "address": "37 BTM Layout Bangalore"
+      }
+    },
+    "202": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Mexican Fiesta",
+        "cuisine": "Japanese",
+        "area": "BTM Layout",
+        "rating": 3.9,
+        "cost_for_two": 850.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 1767.5,
+        "phone": 4797211086.5,
+        "address": "3 JP Nagar Bangalore"
+      }
+    },
+    "203": {
+      "size": 3,
+      "centroid": {
+        "restaurant_name": "Steak House",
+        "cuisine": "Japanese",
+        "area": "Koramangala",
+        "rating": 4.3999999999999995,
+        "cost_for_two": 1500.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 2293.3333333333335,
+        "phone": 2690736344.3333335,
+        "address": "24 Brigade Road Bangalore"
+      }
+    },
+    "204": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Taco Bell",
+        "cuisine": "Chinese",
+        "area": "BTM Layout",
+        "rating": 4.05,
+        "cost_for_two": 1750.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 298.0,
+        "phone": 4723981692.0,
+        "address": "19 Indiranagar Bangalore"
+      }
+    },
+    "205": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Bakery Sweet",
+        "cuisine": "Mexican",
+        "area": "BTM Layout",
+        "rating": 4.05,
+        "cost_for_two": 600.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 1179.5,
+        "phone": 4941694566.5,
+        "address": "26 MG Road Bangalore"
+      }
+    },
+    "206": {
+      "size": 3,
+      "centroid": {
+        "restaurant_name": "Curry House",
+        "cuisine": "Japanese",
+        "area": "Electronic City",
+        "rating": 4.533333333333333,
+        "cost_for_two": 766.6666666666666,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 3612.3333333333335,
+        "phone": 1807740043.6666667,
+        "address": "14 Brigade Road Bangalore"
+      }
+    },
+    "207": {
+      "size": 3,
+      "centroid": {
+        "restaurant_name": "Golden Dragon",
+        "cuisine": "Indian",
+        "area": "Koramangala",
+        "rating": 3.9000000000000004,
+        "cost_for_two": 1400.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 1108.6666666666667,
+        "phone": 6307122740.666667,
+        "address": "23 JP Nagar Bangalore"
+      }
+    },
+    "208": {
+      "size": 3,
+      "centroid": {
+        "restaurant_name": "Noodle Bar",
+        "cuisine": "Fast Food",
+        "area": "BTM Layout",
+        "rating": 4.266666666666667,
+        "cost_for_two": 566.6666666666666,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 2065.6666666666665,
+        "phone": 7582115995.0,
+        "address": "23 Marathahalli Bangalore"
+      }
+    },
+    "209": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Italian Bistro",
+        "cuisine": "American",
+        "area": "Whitefield",
+        "rating": 3.8499999999999996,
+        "cost_for_two": 750.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 3748.0,
+        "phone": 5252387529.5,
+        "address": "31 Koramangala Bangalore"
+      }
+    },
+    "210": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Noodle Bar",
+        "cuisine": "Indian",
+        "area": "Whitefield",
+        "rating": 3.45,
+        "cost_for_two": 400.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 4666.5,
+        "phone": 3825605551.0,
+        "address": "30 Marathahalli Bangalore"
+      }
+    },
+    "211": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Coffee Corner",
+        "cuisine": "Continental",
+        "area": "Electronic City",
+        "rating": 4.25,
+        "cost_for_two": 1250.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 2233.5,
+        "phone": 7382669357.5,
+        "address": "56 MG Road Bangalore"
+      }
+    },
+    "212": {
+      "size": 3,
+      "centroid": {
+        "restaurant_name": "Sushi House",
+        "cuisine": "Fast Food",
+        "area": "Whitefield",
+        "rating": 3.8666666666666667,
+        "cost_for_two": 900.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 263.3333333333333,
+        "phone": 7780535067.0,
+        "address": "10 MG Road Bangalore"
+      }
+    },
+    "213": {
+      "size": 3,
+      "centroid": {
+        "restaurant_name": "Steak House",
+        "cuisine": "Mediterranean",
+        "area": "HSR Layout",
+        "rating": 3.8333333333333335,
+        "cost_for_two": 666.6666666666666,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 2938.3333333333335,
+        "phone": 5660801238.666667,
+        "address": "2 Koramangala Bangalore"
+      }
+    },
+    "214": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Thai Paradise",
+        "cuisine": "Mexican",
+        "area": "JP Nagar",
+        "rating": 4.25,
+        "cost_for_two": 400.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 2725.0,
+        "phone": 1942222434.0,
+        "address": "22 HSR Layout Bangalore"
+      }
+    },
+    "215": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Ice Cream Parlor",
+        "cuisine": "Chinese",
+        "area": "MG Road",
+        "rating": 4.4,
+        "cost_for_two": 1000.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 2370.0,
+        "phone": 2099400711.5,
+        "address": "34 Marathahalli Bangalore"
+      }
+    },
+    "216": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Italian Bistro",
+        "cuisine": "Japanese",
+        "area": "JP Nagar",
+        "rating": 3.6500000000000004,
+        "cost_for_two": 2000.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 741.5,
+        "phone": 7571707199.0,
+        "address": "26 BTM Layout Bangalore"
+      }
+    },
+    "217": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Golden Dragon",
+        "cuisine": "Indian",
+        "area": "Marathahalli",
+        "rating": 3.6,
+        "cost_for_two": 1250.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 4243.5,
+        "phone": 2605358391.5,
+        "address": "73 Koramangala Bangalore"
+      }
+    },
+    "218": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Mexican Fiesta",
+        "cuisine": "Indian",
+        "area": "MG Road",
+        "rating": 3.7,
+        "cost_for_two": 400.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 2132.5,
+        "phone": 4250614942.0,
+        "address": "27 Indiranagar Bangalore"
+      }
+    },
+    "219": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Curry House",
+        "cuisine": "Fast Food",
+        "area": "Brigade Road",
+        "rating": 4.05,
+        "cost_for_two": 600.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 4023.0,
+        "phone": 2668393510.0,
+        "address": "65 JP Nagar Bangalore"
+      }
+    },
+    "220": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Thai Paradise",
+        "cuisine": "Continental",
+        "area": "Marathahalli",
+        "rating": 4.1,
+        "cost_for_two": 1750.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 3318.5,
+        "phone": 2857192595.0,
+        "address": "17 MG Road Bangalore"
+      }
+    },
+    "221": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Coffee Corner",
+        "cuisine": "Fast Food",
+        "area": "Electronic City",
+        "rating": 4.05,
+        "cost_for_two": 500.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 3898.0,
+        "phone": 4275387963.0,
+        "address": "71 Brigade Road Bangalore"
+      }
+    },
+    "222": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Thai Paradise",
+        "cuisine": "Mediterranean",
+        "area": "BTM Layout",
+        "rating": 4.55,
+        "cost_for_two": 600.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 4505.5,
+        "phone": 4826340568.0,
+        "address": "3 MG Road Bangalore"
+      }
+    },
+    "223": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Noodle Bar",
+        "cuisine": "Indian",
+        "area": "Whitefield",
+        "rating": 3.6,
+        "cost_for_two": 700.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 1907.0,
+        "phone": 5663090612.5,
+        "address": "42 Marathahalli Bangalore"
+      }
+    },
+    "224": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Burger Palace",
+        "cuisine": "Thai",
+        "area": "Whitefield",
+        "rating": 4.4,
+        "cost_for_two": 300.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 960.0,
+        "phone": 8881294297.5,
+        "address": "56 Brigade Road Bangalore"
+      }
+    },
+    "225": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Noodle Bar",
+        "cuisine": "Fast Food",
+        "area": "JP Nagar",
+        "rating": 4.5,
+        "cost_for_two": 750.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 1289.0,
+        "phone": 2940907013.5,
+        "address": "16 Indiranagar Bangalore"
+      }
+    },
+    "226": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Steak House",
+        "cuisine": "Chinese",
+        "area": "Brigade Road",
+        "rating": 4.6,
+        "cost_for_two": 500.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 796.5,
+        "phone": 8887790304.5,
+        "address": "16 Whitefield Bangalore"
+      }
+    },
+    "227": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Italian Bistro",
+        "cuisine": "Thai",
+        "area": "Brigade Road",
+        "rating": 3.6500000000000004,
+        "cost_for_two": 1500.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 4369.0,
+        "phone": 6094009875.0,
+        "address": "27 Whitefield Bangalore"
+      }
+    },
+    "228": {
+      "size": 3,
+      "centroid": {
+        "restaurant_name": "Sushi House",
+        "cuisine": "Italian",
+        "area": "HSR Layout",
+        "rating": 3.9,
+        "cost_for_two": 433.3333333333333,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 3563.0,
+        "phone": 6743651235.666667,
+        "address": "34 MG Road Bangalore"
+      }
+    },
+    "229": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Golden Dragon",
+        "cuisine": "Thai",
+        "area": "JP Nagar",
+        "rating": 4.15,
+        "cost_for_two": 500.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 2313.0,
+        "phone": 5989909803.5,
+        "address": "69 Koramangala Bangalore"
+      }
+    },
+    "230": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Fried Chicken Co",
+        "cuisine": "Mediterranean",
+        "area": "JP Nagar",
+        "rating": 4.0,
+        "cost_for_two": 1750.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 2562.0,
+        "phone": 6276396532.5,
+        "address": "60 Koramangala Bangalore"
+      }
+    },
+    "231": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Noodle Bar",
+        "cuisine": "Mediterranean",
+        "area": "Marathahalli",
+        "rating": 4.0,
+        "cost_for_two": 400.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 987.5,
+        "phone": 7578712282.0,
+        "address": "40 Indiranagar Bangalore"
+      }
+    },
+    "232": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Coffee Corner",
+        "cuisine": "Thai",
+        "area": "Electronic City",
+        "rating": 3.7,
+        "cost_for_two": 1100.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 850.5,
+        "phone": 8954012533.0,
+        "address": "15 JP Nagar Bangalore"
+      }
+    },
+    "233": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "BBQ Junction",
+        "cuisine": "Chinese",
+        "area": "HSR Layout",
+        "rating": 3.8,
+        "cost_for_two": 1500.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 2517.0,
+        "phone": 8999838433.0,
+        "address": "52 Indiranagar Bangalore"
+      }
+    },
+    "234": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Pizza Express",
+        "cuisine": "Italian",
+        "area": "Whitefield",
+        "rating": 3.6500000000000004,
+        "cost_for_two": 600.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 3209.0,
+        "phone": 6562790333.5,
+        "address": "50 BTM Layout Bangalore"
+      }
+    },
+    "235": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Noodle Bar",
+        "cuisine": "American",
+        "area": "HSR Layout",
+        "rating": 3.4,
+        "cost_for_two": 600.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 3226.5,
+        "phone": 8085169752.0,
+        "address": "49 Electronic City Bangalore"
+      }
+    },
+    "236": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Vegan Heaven",
+        "cuisine": "Japanese",
+        "area": "Marathahalli",
+        "rating": 4.1,
+        "cost_for_two": 1250.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 1223.5,
+        "phone": 7565330474.0,
+        "address": "74 Electronic City Bangalore"
+      }
+    },
+    "237": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Burger Palace",
+        "cuisine": "Thai",
+        "area": "Koramangala",
+        "rating": 3.75,
+        "cost_for_two": 600.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 2576.5,
+        "phone": 3049031987.0,
+        "address": "58 Koramangala Bangalore"
+      }
+    },
+    "238": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Vegan Heaven",
+        "cuisine": "Continental",
+        "area": "Koramangala",
+        "rating": 3.15,
+        "cost_for_two": 1500.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 4595.0,
+        "phone": 4355087879.5,
+        "address": "15 HSR Layout Bangalore"
+      }
+    },
+    "239": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Italian Bistro",
+        "cuisine": "Japanese",
+        "area": "MG Road",
+        "rating": 4.05,
+        "cost_for_two": 700.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 3622.0,
+        "phone": 5680632748.5,
+        "address": "20 BTM Layout Bangalore"
+      }
+    },
+    "240": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Burger Palace",
+        "cuisine": "French",
+        "area": "Koramangala",
+        "rating": 4.35,
+        "cost_for_two": 1100.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 2941.5,
+        "phone": 8834954720.0,
+        "address": "18 HSR Layout Bangalore"
+      }
+    },
+    "241": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Seafood Shack",
+        "cuisine": "Fast Food",
+        "area": "Koramangala",
+        "rating": 4.449999999999999,
+        "cost_for_two": 1000.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 4016.0,
+        "phone": 8653746032.5,
+        "address": "75 Indiranagar Bangalore"
+      }
+    },
+    "242": {
+      "size": 3,
+      "centroid": {
+        "restaurant_name": "Noodle Bar",
+        "cuisine": "Mexican",
+        "area": "Marathahalli",
+        "rating": 4.133333333333334,
+        "cost_for_two": 766.6666666666666,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 4075.0,
+        "phone": 3673763121.0,
+        "address": "16 BTM Layout Bangalore"
+      }
+    },
+    "243": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Fried Chicken Co",
+        "cuisine": "Mediterranean",
+        "area": "HSR Layout",
+        "rating": 4.6,
+        "cost_for_two": 1750.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 600.0,
+        "phone": 5068108681.0,
+        "address": "17 BTM Layout Bangalore"
+      }
+    },
+    "244": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Golden Dragon",
+        "cuisine": "American",
+        "area": "HSR Layout",
+        "rating": 3.55,
+        "cost_for_two": 400.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 1520.5,
+        "phone": 3276533234.0,
+        "address": "22 JP Nagar Bangalore"
+      }
+    },
+    "245": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Curry House",
+        "cuisine": "Indian",
+        "area": "JP Nagar",
+        "rating": 4.55,
+        "cost_for_two": 1000.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 4893.5,
+        "phone": 8118324767.0,
+        "address": "18 JP Nagar Bangalore"
+      }
+    },
+    "246": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Taco Bell",
+        "cuisine": "Mexican",
+        "area": "MG Road",
+        "rating": 4.300000000000001,
+        "cost_for_two": 750.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 4281.0,
+        "phone": 7027023898.5,
+        "address": "13 BTM Layout Bangalore"
+      }
+    },
+    "247": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Curry House",
+        "cuisine": "American",
+        "area": "HSR Layout",
+        "rating": 3.5999999999999996,
+        "cost_for_two": 300.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 3046.0,
+        "phone": 5277861756.5,
+        "address": "16 HSR Layout Bangalore"
+      }
+    },
+    "248": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Fried Chicken Co",
+        "cuisine": "Chinese",
+        "area": "MG Road",
+        "rating": 4.1,
+        "cost_for_two": 1250.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 3907.0,
+        "phone": 6921661616.5,
+        "address": "63 Brigade Road Bangalore"
+      }
+    },
+    "249": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Seafood Shack",
+        "cuisine": "French",
+        "area": "HSR Layout",
+        "rating": 4.85,
+        "cost_for_two": 400.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 3503.0,
+        "phone": 3495266627.5,
+        "address": "26 Brigade Road Bangalore"
+      }
+    },
+    "250": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Vegan Heaven",
+        "cuisine": "Korean",
+        "area": "Whitefield",
+        "rating": 4.4,
+        "cost_for_two": 700.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 3693.5,
+        "phone": 2266406571.0,
+        "address": "4 Koramangala Bangalore"
+      }
+    },
+    "251": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Pizza Express",
+        "cuisine": "Thai",
+        "area": "JP Nagar",
+        "rating": 4.55,
+        "cost_for_two": 1250.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 3379.0,
+        "phone": 3906359363.0,
+        "address": "23 JP Nagar Bangalore"
+      }
+    },
+    "252": {
+      "size": 3,
+      "centroid": {
+        "restaurant_name": "Thai Paradise",
+        "cuisine": "French",
+        "area": "Whitefield",
+        "rating": 4.333333333333333,
+        "cost_for_two": 1000.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 3963.0,
+        "phone": 3618995742.3333335,
+        "address": "24 Electronic City Bangalore"
+      }
+    },
+    "253": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Spice Garden",
+        "cuisine": "Korean",
+        "area": "JP Nagar",
+        "rating": 3.65,
+        "cost_for_two": 400.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 1192.5,
+        "phone": 9260897892.5,
+        "address": "53 Whitefield Bangalore"
+      }
+    },
+    "254": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Italian Bistro",
+        "cuisine": "Fast Food",
+        "area": "Koramangala",
+        "rating": 3.6500000000000004,
+        "cost_for_two": 750.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 1410.0,
+        "phone": 3735151556.0,
+        "address": "86 BTM Layout Bangalore"
+      }
+    },
+    "255": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Vegan Heaven",
+        "cuisine": "Indian",
+        "area": "Brigade Road",
+        "rating": 4.800000000000001,
+        "cost_for_two": 850.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 3745.5,
+        "phone": 4160011503.0,
+        "address": "12 Whitefield Bangalore"
+      }
+    },
+    "256": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Curry House",
+        "cuisine": "Italian",
+        "area": "JP Nagar",
+        "rating": 3.3,
+        "cost_for_two": 900.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 3523.0,
+        "phone": 1319164477.5,
+        "address": "49 Whitefield Bangalore"
+      }
+    },
+    "257": {
+      "size": 3,
+      "centroid": {
+        "restaurant_name": "Steak House",
+        "cuisine": "Continental",
+        "area": "Koramangala",
+        "rating": 4.3999999999999995,
+        "cost_for_two": 1000.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 892.3333333333334,
+        "phone": 3281405282.6666665,
+        "address": "34 Brigade Road Bangalore"
+      }
+    },
+    "258": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Curry House",
+        "cuisine": "Mediterranean",
+        "area": "BTM Layout",
+        "rating": 4.3,
+        "cost_for_two": 400.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 1529.5,
+        "phone": 4452155539.5,
+        "address": "12 Electronic City Bangalore"
+      }
+    },
+    "259": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Vegan Heaven",
+        "cuisine": "Japanese",
+        "area": "Whitefield",
+        "rating": 4.45,
+        "cost_for_two": 650.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 3534.0,
+        "phone": 7454919394.5,
+        "address": "33 Electronic City Bangalore"
+      }
+    },
+    "260": {
+      "size": 3,
+      "centroid": {
+        "restaurant_name": "Noodle Bar",
+        "cuisine": "Fast Food",
+        "area": "BTM Layout",
+        "rating": 4.1000000000000005,
+        "cost_for_two": 433.3333333333333,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 3364.6666666666665,
+        "phone": 6915165232.666667,
+        "address": "42 Koramangala Bangalore"
+      }
+    },
+    "261": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Fried Chicken Co",
+        "cuisine": "American",
+        "area": "Indiranagar",
+        "rating": 3.95,
+        "cost_for_two": 2000.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 4877.5,
+        "phone": 9452325058.0,
+        "address": "3 BTM Layout Bangalore"
+      }
+    },
+    "262": {
+      "size": 3,
+      "centroid": {
+        "restaurant_name": "Vegan Heaven",
+        "cuisine": "Thai",
+        "area": "Electronic City",
+        "rating": 3.6666666666666665,
+        "cost_for_two": 633.3333333333334,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 2105.6666666666665,
+        "phone": 4233576183.6666665,
+        "address": "84 Marathahalli Bangalore"
+      }
+    },
+    "263": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Vegan Heaven",
+        "cuisine": "Indian",
+        "area": "Electronic City",
+        "rating": 3.6999999999999997,
+        "cost_for_two": 2000.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 3412.0,
+        "phone": 5397986088.5,
+        "address": "76 Koramangala Bangalore"
+      }
+    },
+    "264": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Golden Dragon",
+        "cuisine": "Korean",
+        "area": "Electronic City",
+        "rating": 3.15,
+        "cost_for_two": 500.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 631.5,
+        "phone": 6849754444.5,
+        "address": "12 Koramangala Bangalore"
+      }
+    },
+    "265": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Thai Paradise",
+        "cuisine": "Korean",
+        "area": "Indiranagar",
+        "rating": 3.8499999999999996,
+        "cost_for_two": 1500.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 681.5,
+        "phone": 5990152080.5,
+        "address": "19 Brigade Road Bangalore"
+      }
+    },
+    "266": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Spice Garden",
+        "cuisine": "Fast Food",
+        "area": "Indiranagar",
+        "rating": 4.0,
+        "cost_for_two": 1250.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 2013.5,
+        "phone": 4695752994.0,
+        "address": "40 Whitefield Bangalore"
+      }
+    },
+    "267": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Steak House",
+        "cuisine": "Thai",
+        "area": "Marathahalli",
+        "rating": 4.15,
+        "cost_for_two": 700.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 4008.0,
+        "phone": 7090238757.0,
+        "address": "38 JP Nagar Bangalore"
+      }
+    },
+    "268": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Coffee Corner",
+        "cuisine": "Japanese",
+        "area": "Marathahalli",
+        "rating": 3.5,
+        "cost_for_two": 1750.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 2913.0,
+        "phone": 4489250970.0,
+        "address": "22 BTM Layout Bangalore"
+      }
+    },
+    "269": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Steak House",
+        "cuisine": "Mexican",
+        "area": "BTM Layout",
+        "rating": 3.55,
+        "cost_for_two": 500.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 619.5,
+        "phone": 2869467526.0,
+        "address": "1 MG Road Bangalore"
+      }
+    },
+    "270": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Mediterranean Delight",
+        "cuisine": "Korean",
+        "area": "Brigade Road",
+        "rating": 3.5,
+        "cost_for_two": 500.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 4205.5,
+        "phone": 7901193630.5,
+        "address": "82 HSR Layout Bangalore"
+      }
+    },
+    "271": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Mediterranean Delight",
+        "cuisine": "Thai",
+        "area": "JP Nagar",
+        "rating": 4.2,
+        "cost_for_two": 500.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 967.0,
+        "phone": 3840532010.0,
+        "address": "55 HSR Layout Bangalore"
+      }
+    },
+    "272": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Sushi House",
+        "cuisine": "Japanese",
+        "area": "JP Nagar",
+        "rating": 3.6,
+        "cost_for_two": 750.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 3221.0,
+        "phone": 9072961737.0,
+        "address": "56 Electronic City Bangalore"
+      }
+    },
+    "273": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Fried Chicken Co",
+        "cuisine": "Mediterranean",
+        "area": "Koramangala",
+        "rating": 4.65,
+        "cost_for_two": 1250.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 1661.5,
+        "phone": 8511527184.5,
+        "address": "30 HSR Layout Bangalore"
+      }
+    },
+    "274": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Mediterranean Delight",
+        "cuisine": "Japanese",
+        "area": "Brigade Road",
+        "rating": 3.8499999999999996,
+        "cost_for_two": 300.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 3574.0,
+        "phone": 7234654623.5,
+        "address": "7 Marathahalli Bangalore"
+      }
+    },
+    "275": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Spice Garden",
+        "cuisine": "Korean",
+        "area": "Marathahalli",
+        "rating": 3.95,
+        "cost_for_two": 1750.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 2222.0,
+        "phone": 8545176734.0,
+        "address": "39 Brigade Road Bangalore"
+      }
+    },
+    "276": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Taco Bell",
+        "cuisine": "Japanese",
+        "area": "Electronic City",
+        "rating": 4.25,
+        "cost_for_two": 700.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 1680.0,
+        "phone": 6581649097.0,
+        "address": "2 Whitefield Bangalore"
+      }
+    },
+    "277": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Steak House",
+        "cuisine": "Chinese",
+        "area": "Electronic City",
+        "rating": 3.8,
+        "cost_for_two": 600.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 3397.5,
+        "phone": 6081065578.5,
+        "address": "20 Brigade Road Bangalore"
+      }
+    },
+    "278": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Coffee Corner",
+        "cuisine": "Japanese",
+        "area": "JP Nagar",
+        "rating": 3.8000000000000003,
+        "cost_for_two": 500.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 3267.5,
+        "phone": 4702246693.5,
+        "address": "62 BTM Layout Bangalore"
+      }
+    },
+    "279": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Mexican Fiesta",
+        "cuisine": "Continental",
+        "area": "HSR Layout",
+        "rating": 4.050000000000001,
+        "cost_for_two": 2000.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 3682.5,
+        "phone": 5908548523.5,
+        "address": "37 MG Road Bangalore"
+      }
+    },
+    "280": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Coffee Corner",
+        "cuisine": "Thai",
+        "area": "Marathahalli",
+        "rating": 3.55,
+        "cost_for_two": 500.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 1111.5,
+        "phone": 1431422461.5,
+        "address": "74 Indiranagar Bangalore"
+      }
+    },
+    "281": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Mediterranean Delight",
+        "cuisine": "Mediterranean",
+        "area": "Whitefield",
+        "rating": 4.35,
+        "cost_for_two": 1000.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 2857.5,
+        "phone": 7339047463.5,
+        "address": "39 HSR Layout Bangalore"
+      }
+    },
+    "282": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Bakery Sweet",
+        "cuisine": "Indian",
+        "area": "Marathahalli",
+        "rating": 4.199999999999999,
+        "cost_for_two": 1500.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 2455.5,
+        "phone": 1534135620.5,
+        "address": "19 JP Nagar Bangalore"
+      }
+    },
+    "283": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Steak House",
+        "cuisine": "Chinese",
+        "area": "Koramangala",
+        "rating": 4.7,
+        "cost_for_two": 1250.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 4483.5,
+        "phone": 3236624202.5,
+        "address": "2 Indiranagar Bangalore"
+      }
+    },
+    "284": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Bakery Sweet",
+        "cuisine": "Chinese",
+        "area": "Indiranagar",
+        "rating": 3.25,
+        "cost_for_two": 1250.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 3763.5,
+        "phone": 2906219614.0,
+        "address": "6 Whitefield Bangalore"
+      }
+    },
+    "285": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Ice Cream Parlor",
+        "cuisine": "Fast Food",
+        "area": "Whitefield",
+        "rating": 3.45,
+        "cost_for_two": 1100.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 1387.0,
+        "phone": 1375598923.5,
+        "address": "29 Electronic City Bangalore"
+      }
+    },
+    "286": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Burger Palace",
+        "cuisine": "Mediterranean",
+        "area": "Brigade Road",
+        "rating": 3.1,
+        "cost_for_two": 1500.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 602.5,
+        "phone": 6490684138.0,
+        "address": "53 Brigade Road Bangalore"
+      }
+    },
+    "287": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Steak House",
+        "cuisine": "Mexican",
+        "area": "JP Nagar",
+        "rating": 4.15,
+        "cost_for_two": 300.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 1310.0,
+        "phone": 3220487390.0,
+        "address": "54 Koramangala Bangalore"
+      }
+    },
+    "288": {
+      "size": 3,
+      "centroid": {
+        "restaurant_name": "Bakery Sweet",
+        "cuisine": "Mediterranean",
+        "area": "Whitefield",
+        "rating": 3.766666666666667,
+        "cost_for_two": 833.3333333333334,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 2149.6666666666665,
+        "phone": 2866152038.3333335,
+        "address": "52 Whitefield Bangalore"
+      }
+    },
+    "289": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Steak House",
+        "cuisine": "Continental",
+        "area": "JP Nagar",
+        "rating": 4.550000000000001,
+        "cost_for_two": 850.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 2232.0,
+        "phone": 9304983453.5,
+        "address": "2 Koramangala Bangalore"
+      }
+    },
+    "290": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Taco Bell",
+        "cuisine": "Japanese",
+        "area": "BTM Layout",
+        "rating": 3.65,
+        "cost_for_two": 500.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 631.5,
+        "phone": 6671886461.0,
+        "address": "29 Electronic City Bangalore"
+      }
+    },
+    "291": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Sushi House",
+        "cuisine": "Chinese",
+        "area": "Whitefield",
+        "rating": 3.3,
+        "cost_for_two": 600.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 957.5,
+        "phone": 2029600538.5,
+        "address": "36 Whitefield Bangalore"
+      }
+    },
+    "292": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Curry House",
+        "cuisine": "Mediterranean",
+        "area": "MG Road",
+        "rating": 4.449999999999999,
+        "cost_for_two": 500.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 3590.5,
+        "phone": 5184096910.0,
+        "address": "24 JP Nagar Bangalore"
+      }
+    },
+    "293": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Vegan Heaven",
+        "cuisine": "French",
+        "area": "Indiranagar",
+        "rating": 3.45,
+        "cost_for_two": 1000.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 1514.5,
+        "phone": 7984051689.5,
+        "address": "38 Koramangala Bangalore"
+      }
+    },
+    "294": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Burger Palace",
+        "cuisine": "Fast Food",
+        "area": "Whitefield",
+        "rating": 4.45,
+        "cost_for_two": 1250.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 2073.5,
+        "phone": 2442604888.5,
+        "address": "39 Whitefield Bangalore"
+      }
+    },
+    "295": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Seafood Shack",
+        "cuisine": "Thai",
+        "area": "HSR Layout",
+        "rating": 4.35,
+        "cost_for_two": 650.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 4184.5,
+        "phone": 4743744804.5,
+        "address": "34 Electronic City Bangalore"
+      }
+    },
+    "296": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Italian Bistro",
+        "cuisine": "Fast Food",
+        "area": "Electronic City",
+        "rating": 4.85,
+        "cost_for_two": 1500.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 4867.0,
+        "phone": 3986147517.5,
+        "address": "68 Indiranagar Bangalore"
+      }
+    },
+    "297": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Burger Palace",
+        "cuisine": "Mexican",
+        "area": "Marathahalli",
+        "rating": 4.35,
+        "cost_for_two": 600.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 1100.5,
+        "phone": 3724758009.0,
+        "address": "33 Whitefield Bangalore"
+      }
+    },
+    "298": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Taco Bell",
+        "cuisine": "French",
+        "area": "Brigade Road",
+        "rating": 3.1,
+        "cost_for_two": 600.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 1230.5,
+        "phone": 8297095380.0,
+        "address": "28 JP Nagar Bangalore"
+      }
+    },
+    "299": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Golden Dragon",
+        "cuisine": "Japanese",
+        "area": "HSR Layout",
+        "rating": 3.35,
+        "cost_for_two": 500.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 2004.5,
+        "phone": 6341047210.5,
+        "address": "18 Indiranagar Bangalore"
+      }
+    },
+    "300": {
+      "size": 3,
+      "centroid": {
+        "restaurant_name": "Mediterranean Delight",
+        "cuisine": "American",
+        "area": "MG Road",
+        "rating": 3.9666666666666663,
+        "cost_for_two": 1000.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 1899.3333333333333,
+        "phone": 8759323454.0,
+        "address": "1 JP Nagar Bangalore"
+      }
+    },
+    "301": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Pizza Express",
+        "cuisine": "French",
+        "area": "Electronic City",
+        "rating": 3.9,
+        "cost_for_two": 850.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 3922.5,
+        "phone": 1060217874.5,
+        "address": "12 Marathahalli Bangalore"
+      }
+    },
+    "302": {
+      "size": 3,
+      "centroid": {
+        "restaurant_name": "Spice Garden",
+        "cuisine": "Continental",
+        "area": "Marathahalli",
+        "rating": 4.466666666666666,
+        "cost_for_two": 1000.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 3340.0,
+        "phone": 1497837830.0,
+        "address": "74 HSR Layout Bangalore"
+      }
+    },
+    "303": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Thai Paradise",
+        "cuisine": "French",
+        "area": "HSR Layout",
+        "rating": 4.449999999999999,
+        "cost_for_two": 1500.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 3885.5,
+        "phone": 3824928977.0,
+        "address": "2 Indiranagar Bangalore"
+      }
+    },
+    "304": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Sushi House",
+        "cuisine": "Japanese",
+        "area": "HSR Layout",
+        "rating": 3.7,
+        "cost_for_two": 1000.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 3931.0,
+        "phone": 6189465146.5,
+        "address": "84 MG Road Bangalore"
+      }
+    },
+    "305": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Sushi House",
+        "cuisine": "French",
+        "area": "Electronic City",
+        "rating": 4.9,
+        "cost_for_two": 500.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 2746.5,
+        "phone": 5163640946.5,
+        "address": "73 Indiranagar Bangalore"
+      }
+    },
+    "306": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Curry House",
+        "cuisine": "Indian",
+        "area": "Indiranagar",
+        "rating": 3.8,
+        "cost_for_two": 1750.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 3739.5,
+        "phone": 3307843378.0,
+        "address": "80 JP Nagar Bangalore"
+      }
+    },
+    "307": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Taco Bell",
+        "cuisine": "Indian",
+        "area": "Electronic City",
+        "rating": 3.05,
+        "cost_for_two": 2000.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 1759.5,
+        "phone": 6190009681.5,
+        "address": "6 Whitefield Bangalore"
+      }
+    },
+    "308": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Seafood Shack",
+        "cuisine": "Mediterranean",
+        "area": "BTM Layout",
+        "rating": 3.8499999999999996,
+        "cost_for_two": 1500.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 4392.5,
+        "phone": 8657754697.5,
+        "address": "1 Marathahalli Bangalore"
+      }
+    },
+    "309": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Seafood Shack",
+        "cuisine": "Chinese",
+        "area": "JP Nagar",
+        "rating": 3.5,
+        "cost_for_two": 500.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 3798.0,
+        "phone": 3520580294.0,
+        "address": "15 Indiranagar Bangalore"
+      }
+    },
+    "310": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Mexican Fiesta",
+        "cuisine": "Mexican",
+        "area": "Whitefield",
+        "rating": 3.3,
+        "cost_for_two": 850.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 810.5,
+        "phone": 8043931547.5,
+        "address": "19 MG Road Bangalore"
+      }
+    },
+    "311": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Curry House",
+        "cuisine": "French",
+        "area": "MG Road",
+        "rating": 3.95,
+        "cost_for_two": 300.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 2180.0,
+        "phone": 8192932798.5,
+        "address": "77 JP Nagar Bangalore"
+      }
+    },
+    "312": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Noodle Bar",
+        "cuisine": "Indian",
+        "area": "Koramangala",
+        "rating": 4.15,
+        "cost_for_two": 2000.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 1378.0,
+        "phone": 6849393376.5,
+        "address": "14 Koramangala Bangalore"
+      }
+    },
+    "313": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Spice Garden",
+        "cuisine": "Fast Food",
+        "area": "Whitefield",
+        "rating": 3.5,
+        "cost_for_two": 500.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 3011.5,
+        "phone": 4251004103.5,
+        "address": "20 BTM Layout Bangalore"
+      }
+    },
+    "314": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Taco Bell",
+        "cuisine": "Italian",
+        "area": "Koramangala",
+        "rating": 3.95,
+        "cost_for_two": 700.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 991.0,
+        "phone": 4228306383.5,
+        "address": "73 BTM Layout Bangalore"
+      }
+    },
+    "315": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Bakery Sweet",
+        "cuisine": "Thai",
+        "area": "Brigade Road",
+        "rating": 3.3,
+        "cost_for_two": 2000.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 2068.0,
+        "phone": 8398358904.5,
+        "address": "54 JP Nagar Bangalore"
+      }
+    },
+    "316": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Sushi House",
+        "cuisine": "Indian",
+        "area": "Marathahalli",
+        "rating": 4.05,
+        "cost_for_two": 600.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 2574.5,
+        "phone": 1948186743.0,
+        "address": "67 Koramangala Bangalore"
+      }
+    },
+    "317": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Mediterranean Delight",
+        "cuisine": "French",
+        "area": "Marathahalli",
+        "rating": 3.35,
+        "cost_for_two": 400.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 3667.5,
+        "phone": 2748494337.5,
+        "address": "32 JP Nagar Bangalore"
+      }
+    },
+    "318": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Bakery Sweet",
+        "cuisine": "Mexican",
+        "area": "Brigade Road",
+        "rating": 4.75,
+        "cost_for_two": 850.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 1819.0,
+        "phone": 6896003975.5,
+        "address": "11 HSR Layout Bangalore"
+      }
+    },
+    "319": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Steak House",
+        "cuisine": "Continental",
+        "area": "Brigade Road",
+        "rating": 4.65,
+        "cost_for_two": 1750.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 3452.5,
+        "phone": 8202201076.5,
+        "address": "74 Brigade Road Bangalore"
+      }
+    },
+    "320": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Noodle Bar",
+        "cuisine": "Fast Food",
+        "area": "JP Nagar",
+        "rating": 3.6,
+        "cost_for_two": 850.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 3734.0,
+        "phone": 5495264242.5,
+        "address": "85 Whitefield Bangalore"
+      }
+    },
+    "321": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Vegan Heaven",
+        "cuisine": "Mexican",
+        "area": "MG Road",
+        "rating": 3.65,
+        "cost_for_two": 600.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 3396.5,
+        "phone": 7064149381.5,
+        "address": "48 BTM Layout Bangalore"
+      }
+    },
+    "322": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Noodle Bar",
+        "cuisine": "Mexican",
+        "area": "Indiranagar",
+        "rating": 4.1,
+        "cost_for_two": 1350.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 3567.5,
+        "phone": 6585390999.5,
+        "address": "1 JP Nagar Bangalore"
+      }
+    },
+    "323": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Spice Garden",
+        "cuisine": "Korean",
+        "area": "Indiranagar",
+        "rating": 3.45,
+        "cost_for_two": 1000.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 3976.0,
+        "phone": 2758691671.0,
+        "address": "30 Brigade Road Bangalore"
+      }
+    },
+    "324": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Mediterranean Delight",
+        "cuisine": "Korean",
+        "area": "Brigade Road",
+        "rating": 3.4000000000000004,
+        "cost_for_two": 850.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 1751.5,
+        "phone": 4557287813.5,
+        "address": "20 HSR Layout Bangalore"
+      }
+    },
+    "325": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "BBQ Junction",
+        "cuisine": "Mexican",
+        "area": "Koramangala",
+        "rating": 4.1,
+        "cost_for_two": 700.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 2454.0,
+        "phone": 7534115989.5,
+        "address": "11 JP Nagar Bangalore"
+      }
+    },
+    "326": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Mexican Fiesta",
+        "cuisine": "Mediterranean",
+        "area": "JP Nagar",
+        "rating": 3.45,
+        "cost_for_two": 2000.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 3511.0,
+        "phone": 2265330901.0,
+        "address": "49 Indiranagar Bangalore"
+      }
+    },
+    "327": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Mediterranean Delight",
+        "cuisine": "Mediterranean",
+        "area": "Marathahalli",
+        "rating": 4.8,
+        "cost_for_two": 650.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 2649.5,
+        "phone": 5989665920.0,
+        "address": "77 JP Nagar Bangalore"
+      }
+    },
+    "328": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Bakery Sweet",
+        "cuisine": "Continental",
+        "area": "HSR Layout",
+        "rating": 4.6,
+        "cost_for_two": 500.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 1900.5,
+        "phone": 3476941856.5,
+        "address": "53 Marathahalli Bangalore"
+      }
+    },
+    "329": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Ice Cream Parlor",
+        "cuisine": "Thai",
+        "area": "Electronic City",
+        "rating": 4.35,
+        "cost_for_two": 1250.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 2217.5,
+        "phone": 8967797783.0,
+        "address": "64 HSR Layout Bangalore"
+      }
+    },
+    "330": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Golden Dragon",
+        "cuisine": "Continental",
+        "area": "Marathahalli",
+        "rating": 3.9,
+        "cost_for_two": 850.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 3765.0,
+        "phone": 7106253183.0,
+        "address": "19 BTM Layout Bangalore"
+      }
+    },
+    "331": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Coffee Corner",
+        "cuisine": "Japanese",
+        "area": "MG Road",
+        "rating": 4.45,
+        "cost_for_two": 850.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 3425.5,
+        "phone": 6178560266.0,
+        "address": "67 HSR Layout Bangalore"
+      }
+    },
+    "332": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Noodle Bar",
+        "cuisine": "Japanese",
+        "area": "JP Nagar",
+        "rating": 3.55,
+        "cost_for_two": 1100.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 2597.5,
+        "phone": 8016354397.0,
+        "address": "27 Indiranagar Bangalore"
+      }
+    },
+    "333": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Noodle Bar",
+        "cuisine": "Continental",
+        "area": "Electronic City",
+        "rating": 4.65,
+        "cost_for_two": 1500.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 2780.5,
+        "phone": 8266250500.0,
+        "address": "5 JP Nagar Bangalore"
+      }
+    },
+    "334": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Noodle Bar",
+        "cuisine": "Continental",
+        "area": "Indiranagar",
+        "rating": 4.550000000000001,
+        "cost_for_two": 300.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 3946.5,
+        "phone": 7887804602.0,
+        "address": "11 Electronic City Bangalore"
+      }
+    },
+    "335": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Burger Palace",
+        "cuisine": "Thai",
+        "area": "MG Road",
+        "rating": 3.9,
+        "cost_for_two": 850.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 3741.5,
+        "phone": 2293339160.0,
+        "address": "70 Marathahalli Bangalore"
+      }
+    },
+    "336": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Sushi House",
+        "cuisine": "Mexican",
+        "area": "BTM Layout",
+        "rating": 4.65,
+        "cost_for_two": 400.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 3075.0,
+        "phone": 6031567779.5,
+        "address": "51 BTM Layout Bangalore"
+      }
+    },
+    "337": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Steak House",
+        "cuisine": "Indian",
+        "area": "BTM Layout",
+        "rating": 4.65,
+        "cost_for_two": 700.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 1817.0,
+        "phone": 7034139372.0,
+        "address": "25 Koramangala Bangalore"
+      }
+    },
+    "338": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Spice Garden",
+        "cuisine": "Chinese",
+        "area": "Indiranagar",
+        "rating": 4.7,
+        "cost_for_two": 2000.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 3934.5,
+        "phone": 3714693823.5,
+        "address": "44 BTM Layout Bangalore"
+      }
+    },
+    "339": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Seafood Shack",
+        "cuisine": "French",
+        "area": "Brigade Road",
+        "rating": 3.55,
+        "cost_for_two": 2000.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 2656.0,
+        "phone": 5729480877.5,
+        "address": "26 HSR Layout Bangalore"
+      }
+    },
+    "340": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Italian Bistro",
+        "cuisine": "Chinese",
+        "area": "JP Nagar",
+        "rating": 4.0,
+        "cost_for_two": 1250.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 1103.0,
+        "phone": 5486802784.5,
+        "address": "26 BTM Layout Bangalore"
+      }
+    },
+    "341": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Curry House",
+        "cuisine": "Indian",
+        "area": "JP Nagar",
+        "rating": 3.2,
+        "cost_for_two": 650.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 213.5,
+        "phone": 3333230271.0,
+        "address": "61 Brigade Road Bangalore"
+      }
+    },
+    "342": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Seafood Shack",
+        "cuisine": "Japanese",
+        "area": "JP Nagar",
+        "rating": 4.05,
+        "cost_for_two": 850.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 3871.0,
+        "phone": 7760262566.5,
+        "address": "35 Koramangala Bangalore"
+      }
+    },
+    "343": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Spice Garden",
+        "cuisine": "Mexican",
+        "area": "Indiranagar",
+        "rating": 4.4,
+        "cost_for_two": 1000.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 4496.0,
+        "phone": 4119202179.5,
+        "address": "12 Indiranagar Bangalore"
+      }
+    },
+    "344": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Fried Chicken Co",
+        "cuisine": "Thai",
+        "area": "Brigade Road",
+        "rating": 3.65,
+        "cost_for_two": 1000.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 4053.5,
+        "phone": 4871132781.5,
+        "address": "36 BTM Layout Bangalore"
+      }
+    },
+    "345": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Mediterranean Delight",
+        "cuisine": "Mediterranean",
+        "area": "Electronic City",
+        "rating": 4.2,
+        "cost_for_two": 500.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 1500.5,
+        "phone": 6451167683.5,
+        "address": "62 Brigade Road Bangalore"
+      }
+    },
+    "346": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Fried Chicken Co",
+        "cuisine": "Fast Food",
+        "area": "Electronic City",
+        "rating": 4.35,
+        "cost_for_two": 300.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 972.5,
+        "phone": 3875040588.5,
+        "address": "27 Electronic City Bangalore"
+      }
+    },
+    "347": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Golden Dragon",
+        "cuisine": "Italian",
+        "area": "Indiranagar",
+        "rating": 3.8,
+        "cost_for_two": 1250.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 2031.5,
+        "phone": 806504396.5,
+        "address": "24 Indiranagar Bangalore"
+      }
+    },
+    "348": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "BBQ Junction",
+        "cuisine": "Continental",
+        "area": "Indiranagar",
+        "rating": 4.25,
+        "cost_for_two": 650.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 1733.0,
+        "phone": 8140489500.0,
+        "address": "10 Koramangala Bangalore"
+      }
+    },
+    "349": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Sushi House",
+        "cuisine": "Mexican",
+        "area": "Marathahalli",
+        "rating": 4.449999999999999,
+        "cost_for_two": 600.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 1756.5,
+        "phone": 3011782991.0,
+        "address": "17 JP Nagar Bangalore"
+      }
+    },
+    "350": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Spice Garden",
+        "cuisine": "Indian",
+        "area": "MG Road",
+        "rating": 4.0,
+        "cost_for_two": 850.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 2836.5,
+        "phone": 4724536875.5,
+        "address": "10 Whitefield Bangalore"
+      }
+    },
+    "351": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Fried Chicken Co",
+        "cuisine": "Chinese",
+        "area": "MG Road",
+        "rating": 3.8,
+        "cost_for_two": 850.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 4271.0,
+        "phone": 7027943808.5,
+        "address": "18 MG Road Bangalore"
+      }
+    },
+    "352": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Golden Dragon",
+        "cuisine": "French",
+        "area": "Koramangala",
+        "rating": 3.95,
+        "cost_for_two": 500.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 4077.0,
+        "phone": 3115549234.0,
+        "address": "16 BTM Layout Bangalore"
+      }
+    },
+    "353": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Pizza Express",
+        "cuisine": "Chinese",
+        "area": "Indiranagar",
+        "rating": 3.25,
+        "cost_for_two": 600.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 1728.0,
+        "phone": 2734882135.5,
+        "address": "72 MG Road Bangalore"
+      }
+    },
+    "354": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Bakery Sweet",
+        "cuisine": "French",
+        "area": "Indiranagar",
+        "rating": 3.85,
+        "cost_for_two": 700.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 2483.5,
+        "phone": 9454391682.5,
+        "address": "25 BTM Layout Bangalore"
+      }
+    },
+    "355": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Seafood Shack",
+        "cuisine": "Continental",
+        "area": "Koramangala",
+        "rating": 3.8,
+        "cost_for_two": 1000.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 2803.5,
+        "phone": 5508599042.0,
+        "address": "44 Whitefield Bangalore"
+      }
+    },
+    "356": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Italian Bistro",
+        "cuisine": "French",
+        "area": "Brigade Road",
+        "rating": 3.9,
+        "cost_for_two": 700.0,
+        "online_order": "Yes",
+        "book_table": "No",
+        "votes": 4057.0,
+        "phone": 8155473918.5,
+        "address": "19 Electronic City Bangalore"
+      }
+    },
+    "357": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Burger Palace",
+        "cuisine": "Italian",
+        "area": "Brigade Road",
+        "rating": 4.199999999999999,
+        "cost_for_two": 700.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 1150.0,
+        "phone": 7394533804.0,
+        "address": "61 Indiranagar Bangalore"
+      }
+    },
+    "358": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Burger Palace",
+        "cuisine": "Italian",
+        "area": "BTM Layout",
+        "rating": 3.65,
+        "cost_for_two": 1250.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 4193.0,
+        "phone": 7893658662.0,
+        "address": "58 Koramangala Bangalore"
+      }
+    },
+    "359": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Steak House",
+        "cuisine": "American",
+        "area": "Electronic City",
+        "rating": 4.25,
+        "cost_for_two": 1100.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 2125.5,
+        "phone": 2544421396.0,
+        "address": "6 JP Nagar Bangalore"
+      }
+    },
+    "360": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Vegan Heaven",
+        "cuisine": "Fast Food",
+        "area": "BTM Layout",
+        "rating": 4.65,
+        "cost_for_two": 500.0,
+        "online_order": "Yes",
+        "book_table": "Yes",
+        "votes": 3757.0,
+        "phone": 4440043355.5,
+        "address": "1 JP Nagar Bangalore"
+      }
+    },
+    "361": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Vegan Heaven",
+        "cuisine": "Chinese",
+        "area": "HSR Layout",
+        "rating": 4.75,
+        "cost_for_two": 750.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 3550.5,
+        "phone": 5744529360.5,
+        "address": "10 Indiranagar Bangalore"
+      }
+    },
+    "362": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Pizza Express",
+        "cuisine": "Indian",
+        "area": "Indiranagar",
+        "rating": 3.8000000000000003,
+        "cost_for_two": 500.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 4197.0,
+        "phone": 4646869782.0,
+        "address": "27 Indiranagar Bangalore"
+      }
+    },
+    "363": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Spice Garden",
+        "cuisine": "French",
+        "area": "Brigade Road",
+        "rating": 3.5,
+        "cost_for_two": 1000.0,
+        "online_order": "No",
+        "book_table": "Yes",
+        "votes": 1126.5,
+        "phone": 6979138885.5,
+        "address": "38 Electronic City Bangalore"
+      }
+    },
+    "364": {
+      "size": 2,
+      "centroid": {
+        "restaurant_name": "Vegan Heaven",
+        "cuisine": "Korean",
+        "area": "BTM Layout",
+        "rating": 4.0,
+        "cost_for_two": 1000.0,
+        "online_order": "No",
+        "book_table": "No",
+        "votes": 4016.0,
+        "phone": 5846852592.0,
+        "address": "1 Marathahalli Bangalore"
+      }
+    }
+  },
+  "best_config": {
+    "eps": 0.2,
+    "min_samples": 2
+  }
+}

@@ -1,0 +1,605 @@
+name,addr,city,phone,type,cluster_label,is_outlier
+mel's drive-in,3355 geary st.,san francisco,415-387-2244,hamburgers,0,False
+boulevard,1 mission st.,san francisco,415-543-6084,american (new),1,False
+tra di noi,3835 cross creek rd.,los angeles,310/456-0169,italian,2,False
+tang pavillion,65 w. 55th st.,new york,212/956-6888,asian,3,False
+water club,500 e. 30th st.,new york,212/683-3333,american,4,False
+palace court,3570 las vegas blvd. s,las vegas,702/731-7547,continental,5,False
+mary mac's tea room,224 ponce de leon ave.,atlanta,404-876-1800,southern/soul,6,False
+cafe bizou,14016 ventura blvd.,sherman oaks,818/788-3536,french,-1,True
+van gogh's restaurant & bar,70 w. crossville rd.,roswell,770-993-1156,american (new),-1,True
+pamir,1065 1st ave.  at 58th st.,new york,212/644-9258,middle eastern,7,False
+gramercy tavern,42 e. 20th st.,new york city,212-477-0777,american (new),4,False
+izzy's steak & chop house,3345 steiner st.,san francisco,415/563-0487,steak houses,8,False
+big cup,228 8th ave.  between 21st and 22nd sts.,new york,212/206-0059,coffee bar,9,False
+grand cafe hotel monaco,501 geary st.,san francisco,415/292-0101,american,10,False
+steak house  the,2880 las vegas blvd. s.,las vegas,702-734-0410,steakhouses,5,False
+canter's,419 n. fairfax ave.,los angeles,213/651-2030.,american,4,False
+ritz-carlton restaurant and dining room,600 stockton st.,san francisco,415/296-7465,american,10,False
+duane park cafe,157 duane st.  between w. broadway and hudson st.,new york,212/732-5555,american,4,False
+fraunces tavern,54 pearl st. at broad st.,new york,212/269-0144,american,4,False
+virgil's,152 w. 44th st.,new york,212/ 921-9494,american,4,False
+roettelle a. g,126 e. 7th st.  between 1st ave. and ave. a,new york,212/674-4140,continental,11,False
+au mandarin,200-250 vesey st. world financial center,new york,212/385-0313,asian,3,False
+tse yang,34 e. 51st st.,new york,212/688-5447,asian,3,False
+spago (los angeles),8795 sunset blvd.,w. hollywood,310-652-4025,californian,-1,True
+stringer's fish camp and oyster bar,3384 shallowford rd.  chamblee,atlanta,770/458-7145,southern,6,False
+pisces,95 ave. a at 6th st.,new york,212/260-6660,seafood,12,False
+cassis,3300 peachtree rd.  grand hyatt,atlanta,404/365-8100,mediterranean,13,False
+carmine's,2450 broadway  between 90th and 91st sts.,new york,212/362-2200,italian,14,False
+arizona,206 206 e. 60th st.,new york,212/838-0440,american,4,False
+caffe dell'artista,46 greenwich ave.,new york,212/645-4431,coffee bar,9,False
+buccaneer bay club,3300 las vegas blvd. s.,las vegas,702-894-7350,continental,5,False
+le chardonnay,8284 melrose ave.,los angeles,213/655-8880,french,15,False
+caffe vivaldi,32 jones st. at bleecker st.,new york,212/691-7538,coffee bar,9,False
+ocean star,145 n. atlantic blvd.,monterey park,818-308-2128,seafood,-1,True
+perry's,1944 union st.,san francisco,415/922-9022,american,10,False
+aureole,34 e. 61st st.,new york city,212-319-1660,american (new),4,False
+koo koo roo,8393 w. beverly blvd.,la,213-655-9045,chicken,-1,True
+bradshaw's restaurant,2911 s. pharr court,atlanta,404-261-7015,southern/soul,6,False
+benny's burritos,93 ave. a,new york city,212-254-2054,mexican,-1,True
+orleans,11705 national blvd.,los angeles,310/479-4187,cajun,-1,True
+le select,507 columbus ave.  between 84th and 85th sts.,new york,212/875-1993,american,4,False
+il fornaio levi's plaza,1265 battery st.,san francisco,415/986-0100,italian,16,False
+veselka,144 second ave.,new york city,212-228-9682,ukrainian,17,False
+sammy's roumanian steak house,157 chrystie st. at delancey st.,new york,212/673-0330,east european,18,False
+grill on the alley,9560 dayton way,los angeles,310/276-0615,american,4,False
+sanppo,1702 post st.,san francisco,415/346-3486,asian,1,False
+cafe bianco,1486 2nd ave.  between 77th and 78th sts.,new york,212/988-2655,coffee bar,9,False
+le bernardin,155 w. 51st st.,new york city,212-489-1515,seafood,19,False
+chanterelle,2 harrison st.,new york city,212-966-6960,french (new),-1,True
+restaurant horikawa,111 s. san pedro st.,los angeles,213/680-9355,asian,20,False
+9 jones street,9 jones st.,new york,212/989-1220,american,4,False
+maxwell's cafe,13329 washington blvd.,marina del rey,310-306-7829,american,-1,True
+osteria al droge,142 w. 44th st.,new york,212/944-3643,italian,14,False
+le central,453 bush st.,san francisco,415/391-2233,french,10,False
+restaurant  ritz-carlton  atlanta,181 peachtree st.,atlanta,404/659-0400,continental,21,False
+battista's hole in the wall,4041 audrie st. at flamingo rd.,las vegas,702/732-1424,italian,5,False
+bally's big kitchen,3645 las vegas blvd. s,las vegas,702/739-4111,buffets,22,False
+rose pistola,532 columbus ave.,san francisco,415-399-0499,italian,16,False
+circus circus,2880 las vegas blvd. s,las vegas,702/734-0410,buffets,22,False
+straits cafe,3300 geary blvd.,san francisco,415/668-1783,asian,1,False
+french roast cafe,2340 broadway at 85th st.,new york,212/799-1533,coffee bar,9,False
+gumbo pot  the,6333 w. third st.,la,213-933-0358,cajun/creole,23,False
+cafe renaissance,7050 jimmy carter blvd.  norcross,atlanta,770/441--0291,american,24,False
+south of france,2345 cheshire bridge rd.,atlanta,404/325-6963,french,25,False
+pano's and paul's,1232 w. paces ferry rd.,atlanta,404/261-3662,international,24,False
+fog city diner,1300 battery st.,san francisco,415/982-2000,american,10,False
+mad fish,2182 broadway  between 77th and 78th sts.,new york,212/787-0202,seafood,12,False
+georgia grille,2290 peachtree rd.,atlanta,404-352-3517,southwestern,24,False
+gladstone's,4 fish 17300 pacific coast hwy. at sunset blvd.,pacific palisades,310/454-3474,american,-1,True
+lillie langtry's,129 e. fremont st.,las vegas,702/385-7111,asian,5,False
+windows on the world,107th fl.,new york city,212-524-7000,eclectic,-1,True
+island spice,402 w. 44th st.,new york,212/765-1737,tel caribbean,26,False
+river cafe,1 water st.,brooklyn,718-522-5200,american (new),27,False
+the savannah club,2420 broadway at 89th st.,new york,212/496-1066,american,4,False
+sarabeth's kitchen,423 amsterdam ave.  between 80th and 81st sts.,new york,212/496-6280,american,4,False
+petrossian,182 w. 58th st.,new york,212/245-2214,french,28,False
+san domenico,240 central park s,new york,212/265-5959,italian,14,False
+bix,56 gold st.,san francisco,415/433-6300,american,10,False
+march,405 e. 58th st.,new york,212/754-6272,american,4,False
+sofia fabulous pizza,1022 madison ave.  near 79th st.,new york,212/734-2676,italian,14,False
+lutece,249 e. 50th st.,new york city,212-752-2225,french (classic),28,False
+cupcake cafe,522 9th ave. at 39th st.,new york,212/465-1530,coffee bar,9,False
+victor's cafe,52 236 w. 52nd st.,new york,212/586-7714,latin american,29,False
+brookhaven cafe,4274 peachtree rd.,atlanta,404-231-5907,vegetarian,-1,True
+greenwood's,1087 green st.,roswell,770-992-5383,southern/soul,-1,True
+sa tsu ki,3043 buford hwy.,atlanta,404/325-5285,asian,30,False
+sundown cafe,2165 cheshire bridge rd.,atlanta,404/321-1118,american,24,False
+mesa grill,102 5th ave.  between 15th and 16th sts.,new york,212/807-7400,american,4,False
+chinois on main,2709 main st.,santa monica,310-392-9025,pacific new wave,-1,True
+anthonys,3109 piedmont rd.  just south of peachtree rd.,atlanta,404/262-7379,american,24,False
+valentino,3115 pico blvd.,santa monica,310-829-4313,italian,14,False
+valentino,3115 pico blvd.,santa monica,310/829-4313,italian,14,False
+chez jacqueline,72 macdougal st.  between w. houston and bleecker sts.,new york,212/505-0727,french,28,False
+heera of india,595 piedmont ave.,atlanta,404-876-4408,indian,30,False
+szechuan hunan cottage,1588 york ave.,new york city,212-535-5223,chinese,31,False
+nickiemoto's: a sushi bar,247 buckhead ave.  east village sq.,atlanta,404/842-0334,fusion,-1,True
+cafe blanc,9777 little santa monica blvd.,beverly hills,310-888-0108,pacific new wave,32,False
+rubicon,558 sacramento st.,san francisco,415/434-4100,american,10,False
+cafe  ritz-carlton  buckhead,3434 peachtree rd.,atlanta,404/237-2700,ext 6108 international,24,False
+nava,3060 peachtree rd.,atlanta,404-240-1984,southwestern,24,False
+california culinary academy,625 polk st.,san francisco,415/771-3500,french,10,False
+pano's & paul's,1232 w. paces ferry rd.,atlanta,404-261-3662,american (new),24,False
+hayes street grill,320 hayes st.,san francisco,415/863-5545,seafood,1,False
+michael's (los angeles),1147 third st.,santa monica,310-451-0843,californian,33,False
+jack's,615 sacramento st.,san francisco,415/986-9854,old san francisco,34,False
+le dome,8720 sunset blvd.,los angeles,310/659-6919,french,15,False
+les halles,411 park ave. s  between 28th and 29th sts.,new york,212/679-4111,french,28,False
+corrado cafe,1013 3rd ave.  between 60th and 61st sts.,new york,212/753-5100,coffee bar,9,False
+antonio's,3700 w. flamingo,las vegas,702/252-7737,italian,5,False
+fenix at the argyle,8358 sunset blvd.,w. hollywood,213-848-6677,french (new),-1,True
+art's deli,12224 ventura blvd.,studio city,818-762-1221,delis,-1,True
+inca grill,492 broome st.  near w. broadway,new york,212/966-3371,latin american,29,False
+le colonial,8783 beverly blvd.,los angeles,310/289-0660,asian,20,False
+harbor village,4 embarcadero center,san francisco,415/781-8833,asian,1,False
+planet hollywood,140 w. 57th st.,new york,212/333-7827,american,4,False
+ipanema,13 w. 46th st.,new york,212/730-5848,latin american,29,False
+rose pistola,532 columbus ave.,san francisco,415/399-0499,italian,16,False
+eats,600 ponce de leon ave.,atlanta,404-888-9149,italian,35,False
+monkey bar,60 e. 54th st.,new york,212/838-2600,american,4,False
+alon's at the terrace,659 peachtree st.,atlanta,404-724-0444,sandwiches,-1,True
+caffe bondi ristorante,7 w. 20th st.,new york,212/691-8136,italian,14,False
+la grotta at ravinia dunwoody rd.,holiday inn/crowne plaza at ravinia  dunwoody,atlanta,770/395-9925,italian,35,False
+campanile,624 s. la brea ave.,los angeles,213-938-1447,californian,4,False
+hard rock cafe,8600 beverly blvd.,los angeles,310/276-7605,american,4,False
+l'orangerie,903 n. la cienega blvd.,los angeles,310/652-9770,french,15,False
+fishin eddie,73 w. 71st st.,new york,212/874-3474,seafood,12,False
+ritz-carlton dining room (san francisco),600 stockton st.,san francisco,415-296-7465,french (new),10,False
+garden court,market and new montgomery sts.,san francisco,415/546-5011,old san francisco,34,False
+one if by land  tibs,17 barrow st.,new york city,212-228-0822,continental,-1,True
+la taqueria,2889 mission st.,san francisco,415-285-7117,mexican,36,False
+imperial fez,2285 peachtree rd.  peachtree battle condominium,atlanta,404/351-0870,mediterranean,13,False
+dix et sept,181 w. 10th st.,new york,212/645-8023,french,28,False
+ej's luncheonette,432 sixth ave.,new york city,212-473-5555,diners,37,False
+fringale,570 fourth st.,san francisco,415-543-0573,french bistro,10,False
+chan dara,310 n. larchmont blvd.,los angeles,213/467-1052,asian,20,False
+march,405 e. 58th st.,new york city,212-754-6272,american (new),4,False
+s.p.q.r,133 mulberry st.  between hester and grand sts.,new york,212/925-3120,italian,14,False
+mani's bakery & espresso bar,519 s. fairfax ave.,la,213-938-8800,desserts,-1,True
+bugsy's diner,3555 las vegas blvd. s,las vegas,702/733-3111,coffee shops/diners,38,False
+20 mott,20 mott st.  between bowery and pell st.,new york,212/964-0380,asian,3,False
+toulouse,b peachtree rd.,atlanta,404/351-9533,french,25,False
+pink's famous chili dogs,709 n. la brea ave.,la,213-931-4223,hot dogs,-1,True
+verbena,54 irving pl. at 17th st.,new york,212/260-5454,american,4,False
+bone's restaurant,3130 piedmont rd. ne,atlanta,404-237-2663,steakhouses,39,False
+island spice,402 w. 44th st.,new york city,212-765-1737,caribbean,26,False
+des alpes,732 broadway,san francisco,415/788-9900,french,10,False
+tomtom,3393 peachtree rd.,atlanta,404/264-1163,continental,21,False
+tavola calda,7371 melrose ave.,los angeles,213/658-6340,italian,2,False
+four seasons grill room,99 e. 52nd st.,new york,212/754-9494,american,4,False
+center stage plaza hotel,1 main st.,las vegas,702/386-2512,american,40,False
+alain rondelli,126 clement st.,san francisco,415/387-0408,french,10,False
+remi,3rd st. promenade,santa monica,310/393-6545,italian,14,False
+zarzuela,2000 hyde st.,san francisco,415/346-0800,mexican/latin american/spanish,41,False
+bertolini's,3570 las vegas blvd. s,las vegas,702/735-4663,italian,5,False
+cha cha cha,656 n. virgil ave.,los angeles,213/664-7723,caribbean,-1,True
+lutece,249 e. 50th st.,new york,212/752-2225,french,28,False
+la grenouille,3 e. 52nd st.,new york city,212-752-1495,french (classic),28,False
+second avenue deli,156 second ave.,new york city,212-677-0606,delis,42,False
+smith & wollensky,797 third ave.,new york city,212-753-1530,steakhouses,43,False
+tommy's,2575 beverly blvd.,la,213-389-9060,hamburgers,44,False
+alamo,304 e. 48th st.,new york,212/ 759-0590,mexican,45,False
+clearwater cafe,168 w. colorado blvd.,los angeles,818/356-0959,health food,46,False
+arnie morton's of chicago,435 s. la cienega blv.,los angeles,310/246-1501,american,4,False
+sally's cafe & bakery,300 de haro st.,san francisco,415-626-6006,american,10,False
+parioli romanissimo,24 e. 81st st.,new york,212/288-2391,italian,14,False
+stick to your ribs,5-16 51st ave.,queens,718-937-3030,bbq,-1,True
+lattanzi ristorante,361 w. 46th st.,new york,212/315-0980,italian,14,False
+brent's deli,19565 parthenia ave.,northridge,818-886-5679,delis,-1,True
+tavern on the green,in central park at 67th st.,new york,212/873-3200,american,4,False
+the mandarin,430 n. camden dr.,los angeles,310/859-0926,asian,20,False
+jiraffe,502 santa monica blvd,santa monica,310-917-6671,californian,33,False
+second avenue deli,156 2nd ave. at 10th st.,new york,212/677-0606,delicatessen,47,False
+border grill,4th st.,los angeles,310/451-1655,mexican,48,False
+le soleil,133 clement st.,san francisco,415/668-4848,asian,1,False
+cypress club,500 jackson st.,san francisco,415/296-8555,american,10,False
+west,63rd street steakhouse 44 w. 63rd st.,new york,212/246-6363,american,4,False
+schatzi on main,3110 main st.,los angeles,310/399-4800,continental,49,False
+caffe dante,81 macdougal st.  between houston and bleeker sts.,new york,212/982-5275,coffee bar,9,False
+harris',2100 van ness ave.,san francisco,415/673-1888,steak houses,8,False
+steak house,2880 las vegas blvd. s,las vegas,702/734-0410,steak houses,22,False
+palio d'asti,640 sacramento st.,san francisco,415/395-9800,italian,16,False
+broiler,4111 boulder hwy.,las vegas,702/432-7777,american,40,False
+tre visi,3799 las vegas blvd. s.,las vegas,702-891-7331,italian,5,False
+scala's bistro,432 powell st.,san francisco,415/395-8555,italian,16,False
+global,33 93 2nd ave.  between 5th and 6th sts.,new york,212/477-8427,american,4,False
+posto,14928 ventura blvd.,sherman oaks,818/784-4400,italian,-1,True
+macarthur park,607 front st.,san francisco,415/398-5700,american,10,False
+bruno,240 e. 58th st.,new york,212/688-4190,italian,14,False
+motown cafe,104 w. 57th st.  near 6th ave.,new york,212/581-8030,american,4,False
+ct,111 e. 22nd st.  between park ave. s and lexington ave.,new york,212/995-8500,french,28,False
+fat matt's rib shack,1811 piedmont ave.  near cheshire bridge rd.,atlanta,404/607-1622,barbecue,50,False
+21 club,21 w. 52nd st.,new york,212/582-7200,american,4,False
+felix,340 w. broadway at grand st.,new york,212/431-0021,french,28,False
+grand ticino,228 thompson st.  between w. 3rd and bleecker sts.,new york,212/777-5922,italian,14,False
+pamplemousse,400 e. sahara ave.,las vegas,702/733-2066,continental,5,False
+nate 'n' al's,414 n. beverly dr.,los angeles,310/274-0101,american,4,False
+cafe claude,7 claude ln.,san francisco,415-392-3505,french bistro,10,False
+wa-ha-ka oaxaca mexican grill,2141 polk st.,san francisco,415-775-1055,mexican,36,False
+edison cafe,228 w. 47th st.,new york city,212-840-5000,diners,37,False
+picholine,35 w. 64th st.,new york city,212-724-8585,mediterranean,51,False
+carnegie deli,854 seventh ave.,new york city,212-757-2245,delis,42,False
+original pancake house (at),4330 peachtree rd.,atlanta,404-237-4116,american,24,False
+atlanta fish market,265 pharr rd.,atlanta,404/262-3165,american,24,False
+oceana,55 e. 54th st.,new york,212/759-5941,seafood,12,False
+post house,28 e. 63rd st.,new york,212/935-2888,american,4,False
+harry denton's,161 steuart st.,san francisco,415/882-1333,american,10,False
+cafe sunflower,5975 roswell rd.,atlanta,404-256-1675,health food,-1,True
+rumpus,1 tillman pl.,san francisco,415/421-2300,american,10,False
+pane e vino,3011 steiner st.,san francisco,415/346-2111,italian,16,False
+ritz-carlton cafe (buckhead),3434 peachtree rd. ne,atlanta,404-237-2700,american (new),24,False
+boonthai,1393a 2nd ave.  between 72nd and 73rd sts.,new york,212/249-8484,asian,3,False
+veniero's pasticceria,342 e. 11th st.  near 1st ave.,new york,212/674-7264,coffee bar,9,False
+carmine's,2450 broadway,new york city,212-362-2200,italian,14,False
+bill's place,2315 clement st.,san francisco,415-221-5262,hamburgers,0,False
+abruzzi,2355 peachtree rd. ne,atlanta,404-261-8186,italian,35,False
+smith & wollensky,201 e. 49th st.,new york,212/753-1530,american,4,False
+parkway grill,510 s. arroyo pkwy.,pasadena,818-795-1001,californian,52,False
+sam's noodle shop,411 third ave.,new york city,212-213-2288,chinese,31,False
+toulouse,293-b peachtree rd.,atlanta,404-351-9533,french (new),25,False
+pho hoa,642 broadway,chinatown,213-626-5530,vietnamese,-1,True
+aureole,34 e. 61st st.,new york,212/ 319-1660,american,4,False
+docks,633 3rd ave. at 40th st.,new york,212/ 986-8080,seafood,12,False
+remi,145 w. 53rd st.,new york,212/581-4242,italian,14,False
+phnom penh cambodian restaurant,631 larkin st.,san francisco,415-775-5979,cambodian,-1,True
+sylvia's,328 lenox ave.,new york city,212-996-0660,southern/soul,-1,True
+caffe reggio,119 macdougal st.  between 3rd and bleecker sts.,new york,212/475-9557,coffee bar,9,False
+fiorello's roman cafe,1900 broadway  between 63rd and 64th sts.,new york,212/595-5330,italian,14,False
+chopstix,4279 roswell rd.,atlanta,404-255-4868,chinese,-1,True
+second street grille,200 e. fremont st.,las vegas,702/385-3232,seafood,5,False
+teresa's,103 1st ave.  between 6th and 7th sts.,new york,212/228-0604,east european,18,False
+golden unicorn,18 e. broadway at catherine st.,new york,212/ 941-0911,asian,3,False
+ocean park cafe,3117 ocean park blvd.,santa monica,310-452-5728,american,14,False
+palace court,3570 las vegas blvd. s.,las vegas,702-731-7110,french (new),5,False
+le gamin,50 macdougal st.  between houston and prince sts.,new york,212/254-4678,coffee bar,9,False
+annie's thai castle,3195 roswell rd.,atlanta,404/264-9546,asian,30,False
+ocean avenue,1401 ocean ave.,santa monica,310/394-5669,american,14,False
+caffe lure,169 sullivan st.  between houston and bleecker sts.,new york,212/473-2642,french,28,False
+grill  the,9560 dayton way,beverly hills,310-276-0615,american (traditional),-1,True
+mary mac's tea room,224 ponce de leon ave.,atlanta,404/876-1800,southern,6,False
+rainbow restaurant,2118 n. decatur rd.,decatur,404-633-3538,vegetarian,-1,True
+cafe botanica,160 central park s,new york,212/484-5120,french,28,False
+l'auberge,1191 1st ave.  between 64th and 65th sts.,new york,212/288-8791,middle eastern,7,False
+havana sandwich shop,2905 buford hwy.,atlanta,404-636-4094,cuban,-1,True
+citrus,6703 melrose ave.,los angeles,213/857-0034,californian,4,False
+lola,30 west 22nd st.  between 5th and 6th ave.,new york,212/675-6700,american,4,False
+lucky strike,59 grand st.  between wooster st. and w. broadway,new york,212/941-0479,or 212/941-0772 american,-1,True
+bouterin,420 e. 59th st.  off 1st ave.,new york,212/758-0323,french,28,False
+firehouse,522 columbus ave.  between 85th and 86th sts.,new york,212/595-3139,american,4,False
+le chardonnay (los angeles),8284 melrose ave.,los angeles,213-655-8880,french bistro,15,False
+sparks steak house,210 e. 46th st.,new york city,212-687-4855,steakhouses,43,False
+indigo coastal grill,1397 n. highland ave.,atlanta,404-876-0676,eclectic,53,False
+bistro,3400 las vegas blvd. s,las vegas,702/791-7111,continental,5,False
+rex il ristorante,617 s. olive st.,los angeles,213/627-2300,italian,2,False
+nikolai's roof,255 courtland st.,atlanta,404-221-6362,continental,21,False
+ed debevic's,134 n. la cienega,los angeles,310/659-1952,american,4,False
+cucina della fontana,368 bleecker st.,new york city,212-242-0636,italian,14,False
+gaylord's,ghirardelli sq.,san francisco,415/771-8822,asian,1,False
+bruno's,3838 centinela ave.,mar vista,310-397-5703,italian,-1,True
+moustache,405 atlantic ave.,brooklyn,718-852-5555,middle eastern,-1,True
+brasserie le coze,3393 peachtree rd.  lenox square mall  near neiman marcus,atlanta,404/266-1440,french,25,False
+agrotikon,322 e. 14 st.  between 1st and 2nd aves.,new york,212/473-2602,mediterranean,51,False
+emeril's new orleans fish house,3799 las vegas blvd. s.,las vegas,702-891-7374,seafood,5,False
+granita,23725 w. malibu rd.,malibu,310-456-0488,californian,54,False
+tavern on the green,central park west,new york city,212-873-3200,american (new),4,False
+caffe roma,385 broome st. at mulberry,new york,212/226-8413,coffee bar,9,False
+joss,9255 sunset blvd.,los angeles,310/276-1886,asian,20,False
+zankou chicken,1415 e. colorado st.,glendale,818-244-1937,middle eastern,-1,True
+white house restaurant,3172 peachtree rd. ne,atlanta,404-237-7601,diners,55,False
+aqua,252 california st.,san francisco,415/956-9662,seafood,1,False
+san domenico,240 central park s.,new york city,212-265-5959,italian,14,False
+bamboo garden,4850 flamingo rd.,las vegas,702/871-3262,asian,5,False
+dining room  ritz-carlton  buckhead,3434 peachtree rd.,atlanta,404/237-2700,international,24,False
+billy's,948 1st ave.  between 52nd and 53rd sts.,new york,212/753-1870,american,4,False
+diaghilev,1020 n. san vicente blvd.,w. hollywood,310-854-1111,russian,-1,True
+afghan kebab house,764 ninth ave.,new york city,212-307-1612,afghan,-1,True
+suppenkuche,601 hayes st.,san francisco,415/252-9289,russian/german,-1,True
+kabuto sushi,5116 geary blvd.,san francisco,415/752-5652,asian,1,False
+chevys,4th and howard sts.,san francisco,415/543-8060,mexican/latin american/spanish,41,False
+luna si,1931 peachtree rd.,atlanta,404/355-5993,continental,21,False
+mario's bohemian cigar store cafe,2209 polk st.,san francisco,415-776-8226,italian,16,False
+yujean kang's,67 n. raymond ave.,pasadena,818-585-0855,chinese,-1,True
+stefano's,129 fremont st.,las vegas,702-385-7111,italian,5,False
+buckhead diner,3073 piedmont rd.,atlanta,404-262-3336,american (new),24,False
+la fonda latina,4427 roswell rd.,atlanta,404-303-8201,spanish,-1,True
+la grotta,2637 peachtree rd. ne,atlanta,404-231-1368,italian,35,False
+granita,23725 w. malibu rd.,malibu,310/456-0488,californian,54,False
+hsu's gourmet,192 peachtree center ave.  at international blvd.,atlanta,404/659-2788,asian,30,False
+aquavit,13 w. 54th st.,new york,212/307-7311,continental,11,False
+cha cha cha's,1805 haight st.,san francisco,415-386-5758,caribbean,-1,True
+hugo's cellar,202 e. fremont st.,las vegas,702-385-4011,continental,5,False
+little szechuan,c buford hwy.  northwoods plaza  doraville,atlanta,770/451-0192,asian,30,False
+katia's,600 5th ave.,san francisco,415/668-9292,,-1,True
+two two two,222 w. 79th st.,new york,212/799-0400,american,4,False
+west beach cafe,60 n. venice blvd.,los angeles,310/823-5396,american,4,False
+buca giovanni,800 greenwich st.,san francisco,415/776-7766,italian,16,False
+barney greengrass,9570 wilshire blvd.,beverly hills,310/777-5877,american,-1,True
+locanda veneta,3rd st.,los angeles,310/274-1893,italian,2,False
+kokomo cafe,6333 w. third st.,la,213-933-0773,american,23,False
+pen & pencil,205 e. 45th st.,new york,212/682-8660,american,4,False
+fujiyama mama,467 columbus ave.  between 82nd and 83rd sts.,new york,212/769-1144,asian,3,False
+broadway deli,3rd st. promenade,santa monica,310/451-0616,american,14,False
+pinot bistro,12969 ventura blvd.,studio city,818-990-0500,french bistro,15,False
+zab-e-lee,4837 old national hwy.,college park,404-768-2705,thai,-1,True
+hi-life restaurant and lounge,1340 1st ave. at 72nd st.,new york,212/249-3600,american,4,False
+tapika,950 8th ave. at 56th st.,new york,212/ 397-3737,american,4,False
+cafe flore,2298 market st.,san francisco,415-621-8579,californian,56,False
+lemongrass grill,61a seventh ave.,brooklyn,718-399-7100,thai,-1,True
+killer shrimp,4000 colfax ave.,studio city,818-508-1570,seafood,-1,True
+cafe claude,7 claude la.,san francisco,415/392-3505,french,10,False
+marnie's noodle shop,466 hudson st.,new york city,212-741-3214,asian,57,False
+palm too,840 second ave.,new york city,212-697-5198,steakhouses,43,False
+coco loco,40  buckhead crossing mall on the sidney marcus blvd.,atlanta,404/364-0212,caribbean,-1,True
+campo santo,240 columbus ave.,san francisco,415-433-9623,mexican,36,False
+andre's french restaurant,401 s. 6th st.,las vegas,702-385-5016,french (classic),-1,True
+caffe greco,423 columbus ave.,san francisco,415-397-6261,continental,-1,True
+georgia grille,2290 peachtree rd.  peachtree square shopping center,atlanta,404/352-3517,american,24,False
+north india,3131 webster st.,san francisco,415/931-1556,asian,1,False
+bone's,3130 piedmont road,atlanta,404/237-2663,american,24,False
+hyde street bistro,1521 hyde st.,san francisco,415/441-7778,italian,16,False
+moose's,1652 stockton st.,san francisco,415/989-7800,mediterranean,1,False
+cafe '50s,838 lincoln blvd.,venice,310-399-1955,american,-1,True
+rainbow room,30 rockefeller plaza,new york city,212-632-5000,american (new),4,False
+beaurivage,26025 pacific coast hwy.,malibu,310/456-5733,french,-1,True
+house of chan,2469 cobb pkwy.,smyrna,770-955-9444,chinese,-1,True
+park avenue cafe (new york city),100 e. 63rd st.,new york city,212-644-1900,american (new),4,False
+montien,1134 1st ave.   between 62nd and 63rd sts.,new york,212/421-4433,asian,3,False
+milan cafe and coffee bar,120 w. 23rd st.,new york,212/807-1801,coffee bar,9,False
+greens,bldg. a fort mason,san francisco,415/771-6222,vegetarian,58,False
+seryna,11 e. 53rd st.,new york city,212-980-9393,japanese,59,False
+cafe lalo,201 w. 83rd st.,new york city,212-496-6031,coffeehouses,9,False
+bacchanalia,3125 piedmont rd.,atlanta,404-365-0410,californian,24,False
+le perigord,405 e. 52nd st.,new york,212/755-6244,french,28,False
+majestic,1031 ponce de leon ave.,atlanta,404-875-0276,diners,55,False
+khan toke thai house,5937 geary blvd.,san francisco,415-668-6654,thai,1,False
+piero's restaurant,355 convention center dr.,las vegas,702-369-2305,italian,5,False
+duke's,8909 sunset blvd.,w. hollywood,310-652-3100,coffee shops,-1,True
+campanile,624 s. la brea ave.,los angeles,213/938-1447,american,4,False
+swan oyster depot,1517 polk st.,san francisco,415-673-1101,seafood,1,False
+pinot bistro,12969 ventura blvd.,los angeles,818/990-0500,french,15,False
+sal anthony's,55 irving pl.,new york,212/982-9030,italian,14,False
+jackson's farm,439 n. beverly drive,los angeles,310/273-5578,californian,4,False
+bolo,23 e. 22nd st.,new york,212/228-2200,mediterranean,51,False
+jody maroni's sausage kingdom,2011 ocean front walk,venice,310-306-1995,hot dogs,-1,True
+bizou,598 fourth st.,san francisco,415/543-2222,french,10,False
+pastis,1015 battery st.,san francisco,415/391-2555,french,10,False
+stars,150 redwood alley,san francisco,415/861-7827,american,10,False
+nicola,601 s. figueroa st.,los angeles,213/485-0927,american,4,False
+bar anise,1022 3rd ave.  between 60th and 61st sts.,new york,212/355-1112,mediterranean,51,False
+marichu,342 e. 46th st.  between 1st and 2nd aves.,new york,212/370-1866,french,28,False
+bacchanalia,3125 piedmont rd.  near peachtree rd.,atlanta,404/365-0410,international,24,False
+joe's shanghai,9 pell st.,queens,718-539-3838,chinese,-1,True
+yama,122 e. 17th st.,new york city,212-475-0969,japanese,59,False
+empress court,3570 las vegas blvd. s,las vegas,702/731-7888,asian,5,False
+xunta,174 1st ave.  between 10th and 11th sts.,new york,212/614-0620,mediterranean,51,False
+tillerman  the,2245 e. flamingo rd.,las vegas,702-731-4036,steakhouses,5,False
+tillerman,2245 e. flamingo rd.,las vegas,702/731-4036,seafood,5,False
+johnny rockets (la),7507 melrose ave.,la,213-651-3361,american,23,False
+flying biscuit  the,1655 mclendon ave.,atlanta,404-687-8888,eclectic,53,False
+elias corner,24-02 31st st.,queens,718-932-1510,greek,-1,True
+f. ille ponte ristorante,39 desbrosses st.  near west st.,new york,212/226-4621,italian,14,False
+spring street natural restaurant & bar,62 spring st. at lafayette st.,new york,212/966-0290,american,4,False
+capsouto freres,451 washington st.  near watts st.,new york,212/966-4900,french,28,False
+veni vidi vici,41 14th st.,atlanta,404/875-8424,italian,35,False
+sign of the dove,1110 third ave.,new york city,212-861-8080,american (new),4,False
+lombardi's,32 spring st.,new york city,212-941-7994,pizza,60,False
+mccormick & kuleto's,ghirardelli sq.,san francisco,415/929-1730,seafood,1,False
+second street grill,200 e. fremont st.,las vegas,702-385-6277,pacific rim,5,False
+soto,3330 piedmont rd.,atlanta,404-233-2005,japanese,-1,True
+campton place,340 stockton st.,san francisco,415-955-5555,american (new),1,False
+millennium,246 mcallister st.,san francisco,415/487-9800,vegetarian,58,False
+tommy tang's,7313 melrose ave.,los angeles,213/937-5733,asian,20,False
+anche vivolo,222 e. 58th st.  between 2nd and 3rd aves.,new york,212/308-0112,italian,14,False
+le jardin,25 cleveland pl.  near spring st.,new york,212/343-9599,french,28,False
+sign of the dove,1110 3rd ave. at 65th st.,new york,212/861-8080,american,4,False
+ritz-carlton restaurant,181 peachtree st.,atlanta,404-659-0400,french (classic),21,False
+fringale,570 4th st.,san francisco,415/543-0573,french,10,False
+penang soho,109 spring st.  between greene and mercer sts.,new york,212/274-8883,asian,3,False
+el cholo,1121 s. western ave.,los angeles,213/734-2773,mexican,48,False
+marquet patisserie,15 e. 12th st.  between 5th ave. and university pl.,new york,212/229-9313,coffee bar,9,False
+wollensky's grill,205 e. 49th st.,new york city,212-753-0444,steakhouses,43,False
+uncle nick's,747 ninth ave.,new york city,212-245-7992,greek,-1,True
+vivande ristorante,670 golden gate ave.,san francisco,415/673-9245,italian,16,False
+le marais,150 w. 46th st.,new york,212/869-0900,american,4,False
+la cachette,10506 little santa monica blvd.,century city,310-470-4992,french (new),-1,True
+jan's family restaurant,8424 beverly blvd.,la,213-651-2866,coffee shops,-1,True
+103 west,103 w. paces ferry rd.,atlanta,404-233-5993,continental,21,False
+postrio,545 post st.,san francisco,415-776-7825,californian,56,False
+yaya cuisine,1220 9th ave.,san francisco,415/566-6966,greek and middle eastern,61,False
+baker's cajun cafe,1134 euclid ave.,atlanta,404-223-5039,cajun/creole,-1,True
+brighton coffee shop,9600 brighton way,beverly hills,310-276-7732,coffee shops,-1,True
+bobby & june's kountry kitchen,375 14th st.,atlanta,404-876-3872,southern/soul,6,False
+south park cafe,108 south park,san francisco,415/495-7275,french,10,False
+kelley & ping,127 greene st.,new york city,212-228-1212,pan-asian,-1,True
+kelly's on trinity,333 bush st.,san francisco,415-362-4454,californian,56,False
+jimmy sung's,219 e. 44th st.  between 2nd and 3rd aves.,new york,212/682-5678,asian,3,False
+doidge's,2217 union st.,san francisco,415-921-2149,american,10,False
+holt bros. bar-b-q,6359 jimmy carter blvd.  at buford hwy.  norcross,atlanta,770/242-3984,barbecue,50,False
+pinot hollywood,1448 n. gower st.,los angeles,213/461-8800,californian,4,False
+uncle bill's pancake house,1305 highland ave.,manhattan beach,310-545-5177,diners,-1,True
+pomaire,371 w. 46th st.  off 9th ave.,new york,212/ 956-3055,latin american,29,False
+beesley's of buckhead,260 e. paces ferry road,atlanta,404/264-1334,continental,21,False
+river cafe,1 water st. at the east river,brooklyn,718/522-5200,american,27,False
+cafe pinot,700 w. fifth st.,los angeles,213/239-6500,californian,4,False
+sarabeth's,1295 madison ave.,new york city,212-410-7335,american,62,False
+maykadeh,470 green st.,san francisco,415/362-8286,greek and middle eastern,61,False
+hard rock cafe,221 w. 57th st.,new york,212/489-6565,american,4,False
+la mediterranee,288 noe st.,san francisco,415-431-7210,mediterranean,1,False
+california pizza kitchen,207 s. beverly dr.,los angeles,310/275-1101,californian,4,False
+la salsa (la),22800 pch,malibu,310-456-6299,mexican,-1,True
+cafe fes,246 w. 4th st. at charles st.,new york,212/924-7653,mediterranean,51,False
+belvedere  the,9882 little santa monica blvd.,beverly hills,310-788-2306,pacific new wave,32,False
+main street,446 columbus ave.  between 81st and 82nd sts.,new york,212/873-5025,american,4,False
+mayflower cuisinier,4750 w. sahara ave.,las vegas,702-870-8432,chinese,-1,True
+flowers,21 west 17th st.  between 5th and 6th aves.,new york,212/691-8888,american,4,False
+louise's trattoria,4500 los feliz blvd.,los angeles,213/667-0777,italian,2,False
+stars cafe,500 van ness ave.,san francisco,415/861-4344,american,10,False
+the heights,3235 sacramento st.,san francisco,415/474-8890,french,10,False
+vida,1930 north hillhurst ave.,los feliz,213/660-4446,american,-1,True
+hudson river club,4 world financial center,new york,212/786-1500,american,4,False
+jean lafitte,68 w. 58th st.,new york,212/751-2323,french,28,False
+adriano's ristorante,2930 beverly glen circle,los angeles,310/475-9807,italian,2,False
+palm  the (atlanta),3391 peachtree rd. ne,atlanta,404-814-1955,steakhouses,39,False
+sushi nozawa,11288 ventura blvd.,studio city,818-508-7017,japanese,-1,True
+the coffee pot,350 9th ave. at 49th st.,new york,212/265-3566,coffee bar,9,False
+evergreen cafe,1288 1st ave. at 69th st.,new york,212/744-3266,asian,3,False
+dante's down the hatch  buckhead,3380 peachtree rd.,atlanta,404/266-1600,continental,21,False
+wu kong,101 spear st.,san francisco,415/957-9300,asian,1,False
+mo's burgers,1322 grant st.,san francisco,415-788-3779,hamburgers,0,False
+deacon burton's soulfood restaurant,1029 edgewood ave. se,atlanta,404-523-1929,southern/soul,6,False
+nicky blair's,3925 paradise rd.,las vegas,702-792-9900,italian,5,False
+r&g lounge,631 b kearny st.,san francisco,415/982-7877,or 415/982-3811 asian,-1,True
+menchanko-tei,39 w. 55th st.,new york city,212-247-1585,japanese,59,False
+apple pan  the,10801 w. pico blvd.,west la,310-475-3585,american,-1,True
+kiev,117 second ave.,new york city,212-674-4040,ukrainian,17,False
+margarita's mexican cantina,3120 las vegas blvd. s,las vegas,702/794-8200,mexican,63,False
+silver skillet  the,200 14th st. nw,atlanta,404-874-1388,coffee shops,-1,True
+carta,1772 market st.,san francisco,415/863-3516,american,10,False
+les celebrites,155 w. 58th st.,new york city,212-484-5113,french (classic),28,False
+drai's,730 n. la cienega blvd.,los angeles,310/358-8585,french,15,False
+poquito mas,2635 w. olive ave.,burbank,818-563-2252,mexican,-1,True
+ciboulette restaurant,1529 piedmont ave.,atlanta,404-874-7600,french (new),25,False
+pricci,500 pharr rd.,atlanta,404/237-2941,italian,35,False
+philippe the original,1001 n. alameda st.,chinatown,213-628-3781,cafeterias,-1,True
+binion's coffee shop,128 fremont st.,las vegas,702/382-1600,coffee shops/diners,38,False
+la grotta,2637 peachtree rd.  peachtree house condominium,atlanta,404/231-1368,italian,35,False
+bristol farms market cafe,1570 rosecrans ave. s.,pasadena,310-643-5229,californian,52,False
+monsoon (ny),435 amsterdam ave.,new york city,212-580-8686,thai,64,False
+kuruma zushi,2nd fl.,new york city,212-317-2802,japanese,59,False
+lettuce souprise you (at),3525 mall blvd.,duluth,770-418-9969,cafeterias,-1,True
+mesa grill,102 fifth ave.,new york city,212-807-7400,southwestern,-1,True
+viva mercado's,6182 w. flamingo rd.,las vegas,702/871-8826,mexican,63,False
+dive!,10250 santa monica blvd.,los angeles,310/788-,dive american,-1,True
+cafe marimba,2317 chestnut st.,san francisco,415/776-1506,mexican/latin american/spanish,41,False
+mo better meatty meat,7261 melrose ave.,la,213-935-5280,hamburgers,44,False
+sfuzzi,58 w. 65th st.,new york,212/873-3700,american,4,False
+golden steer,308 w. sahara ave.,las vegas,702/384-4470,steak houses,22,False
+szechuan kitchen,1460 first ave.,new york city,212-249-4615,chinese,31,False
+khan toke thai house,5937 geary blvd.,san francisco,415/668-6654,asian,1,False
+l'udo,432 lafayette st.  near astor pl.,new york,212/388-0978,french,28,False
+le chantilly,106 e. 57th st.,new york,212/751-2931,french,28,False
+la caridad,2199 broadway,new york city,212-874-2780,cuban,-1,True
+plumpjack cafe,3127 fillmore st.,san francisco,415-563-4755,american (new),1,False
+hotel bel-air,701 stone canyon rd.,bel air,310/472-1211,californian,-1,True
+yoyo tsumami bistro,1611 post st.,san francisco,415/922-7788,french,10,False
+madame ching's,3300 las vegas blvd. s.,las vegas,702-894-7111,asian,5,False
+one market,1 market st.,san francisco,415/777-5577,american,10,False
+capozzoli's,3333 s. maryland pkwy.,las vegas,702/731-5311,italian,5,False
+gray's papaya,2090 broadway,new york city,212-799-0243,hot dogs,-1,True
+local nochol,30869 thousand oaks blvd.,westlake village,818-706-7706,health food,-1,True
+montrachet,239 w. broadway  between walker and white sts.,new york,212/ 219-2777,french,28,False
+jackson diner,37-03 74th st.,queens,718-672-1232,indian,-1,True
+cafe adriano,3347 fillmore st.,san francisco,415/474-4180,italian,16,False
+lincoln tavern,51 w. 64th st.,new york,212/721-8271,american,4,False
+city grill,50 hurt plaza,atlanta,404/524-2489,international,24,False
+21 club,21 w. 52nd st.,new york city,212-582-7200,american (new),4,False
+patina,5955 melrose ave.,los angeles,213/467-1108,californian,4,False
+fleur de lys,777 sutter st.,san francisco,415/673-7779,french,10,False
+chin's,3200 las vegas blvd. s,las vegas,702/733-8899,asian,5,False
+locanda veneta,8638 w. third st.,los angeles,310-274-1893,italian,2,False
+thai house cafe,151 hudson st.,new york city,212-334-1085,thai,64,False
+ca'brea,346 s. la brea ave.,los angeles,213/938-2863,italian,2,False
+zen palate,34 union sq. e at 16th st.,new york,212/614-9291,and 212/614-9345 asian,-1,True
+il cortile,125 mulberry st.  between canal and hester sts.,new york,212/226-6060,italian,14,False
+aja,937 broadway at 22nd st.,new york,212/473-8388,american,4,False
+mavalli palace,46 e. 29th st.,new york,212/679-5535,asian,3,False
+johnny reb's southern smokehouse,4663 long beach blvd.,long beach,310-423-7327,southern/soul,-1,True
+l'auberge du midi,310 w. 4th st.  between w. 12th and bank sts.,new york,212/242-4705,french,28,False
+hong kong flower lounge,5322 geary blvd.,san francisco,415/668-8998,asian,1,False
+bistango,1100 peachtree st.,atlanta,404/724-0901,mediterranean,13,False
+le montrachet,3000 w. paradise rd.,las vegas,702/732-5111,continental,5,False
+daniel,20 e. 76th st.,new york,212/288-0033,french,28,False
+terrace,400 w. 119th st.  between amsterdam and morningside aves.,new york,212/666-9490,continental,11,False
+baja fresh,3345 kimber dr.,westlake village,805-498-4049,mexican,-1,True
+uncle nick's,747 9th ave.  between 50th and 51st sts.,new york,212/315-1726,mediterranean,51,False
+emerald garden restaurant,1550 california st.,san francisco,415-673-1155,vietnamese,65,False
+mi spia dunwoody rd.,park place  across from perimeter mall  dunwoody,atlanta,770/393-1333,italian,35,False
+dawat,210 e. 58th st.,new york,212/355-7555,asian,3,False
+fenix,8358 sunset blvd. west,hollywood,213/848-6677,american,-1,True
+buckhead diner,3073 piedmont road,atlanta,404/262-3336,american,24,False
+spago,1114 horn ave.,los angeles,310/652-4025,californian,4,False
+aleck's barbecue heaven,783 martin luther king jr. dr.,atlanta,404/525-2062,barbecue,50,False
+il nido,251 e. 53rd st.,new york,212/753-8450,italian,14,False
+veni vidi vici,41 14th st.,atlanta,404-875-8424,italian,35,False
+plumpjack cafe,3201 fillmore st.,san francisco,415/563-4755,mediterranean,1,False
+cafe lalo,201 w. 83rd st.,new york,212/496-6031,coffee bar,9,False
+da nico,164 mulberry st.  between grand and broome sts.,new york,212/343-1212,italian,14,False
+peter luger steak house,178 broadway,brooklyn,718-387-7400,steakhouses,-1,True
+cucina di pesce,87 e. fourth st.,new york city,212-260-6800,seafood,19,False
+good enough to eat,483 amsterdam ave.,new york city,212-496-0163,american,62,False
+arturo's,106 w. houston st.  off thompson st.,new york,212/677-3820,italian,14,False
+rubin's red hots,15322 ventura blvd.,encino,818-905-6515,hot dogs,-1,True
+il fornaio cucina italiana,301 n. beverly dr.,los angeles,310/550-8330,italian,2,False
+il mulino,86 w. third st.,new york city,212-673-3783,italian,14,False
+shaan,57 w. 48th st.,new york,212/ 977-8400,asian,3,False
+sant ambroeus,1000 madison ave.  between 77th and 78th sts.,new york,212/570-2211,coffee bar,9,False
+tu lan,8 sixth st.,san francisco,415-626-0927,vietnamese,65,False
+prego,362 n. camden dr.,los angeles,310/277-7346,italian,2,False
+fleur de lys,777 sutter st.,san francisco,415-673-7779,french (new),10,False
+delectables,1 margaret mitchell sq.,atlanta,404-681-2909,cafeterias,24,False
+mandarin court,1510 e. flamingo rd.,las vegas,702/737-1234,asian,5,False
+john's pizzeria,48 w. 65th st.,new york city,212-721-7001,pizza,60,False
+le madri,168 w. 18th st.,new york,212/727-8022,italian,14,False
+ruby's (la),45 s. fair oaks ave.,pasadena,818-796-7829,diners,-1,True
+tribeca grill,375 greenwich st.  near franklin st.,new york,212/941-3900,american,4,False
+fiore rotisserie & grille,3700 w. flamingo rd.,las vegas,702-252-7702,italian,5,False
+petrossian,182 w. 58th st.,new york city,212-245-2214,russian,28,False
+2223,2223 market st.,san francisco,415/431-0692,american,10,False
+l'absinthe,227 e. 67th st.,new york,212/794-4950,french,28,False
+arnie morton's of chicago,435 s. la cienega blvd.,los angeles,310-246-1501,steakhouses,4,False
+indian delights,3675 satellite blvd.,duluth,100-813-8212,indian,-1,True
+the bacchanal,3570 las vegas blvd. s,las vegas,702/731-7525,only in las vegas,5,False
+la cote basque,60 w. 55th st.  between 5th and 6th ave.,new york,212/688-6525,french,28,False
+hawthorne lane,22 hawthorne st.,san francisco,415-777-9779,californian,56,False
+philippe's the original,1001 n. alameda st.,los angeles,213/628-3781,american,4,False
+michael's (las vegas),3595 las vegas blvd. s.,las vegas,702-737-7111,continental,5,False
+french quarter food shop,923 peachtree st.  at 8th st.,atlanta,404/875-2489,southern,6,False
+odeon,145 w. broadway at thomas st.,new york,212/233-0507,american,4,False
+san pietro,18 e. 54th st.,new york,212/753-9015,italian,14,False
+gallagher's,228 w. 52nd st.,new york,212/245-5336,american,4,False
+manhattan ocean club,57 w. 58th st.,new york city,212-371-7777,seafood,19,False
+diva,341 w. broadway  near grand st.,new york,212/941-9024,italian,14,False
+yolie's,3900 paradise rd.,las vegas,702/794-0700,steak houses,22,False
+empire korea,6 e. 32nd st.,new york,212/725-1333,asian,3,False
+monte carlo,3145 las vegas blvd. s.,las vegas,702-733-4524,french (new),5,False
+drago,2628 wilshire blvd.,santa monica,310/828-1585,italian,14,False
+citrus,6703 melrose ave.,los angeles,213-857-0034,californian,4,False
+cafe pierre,2 e. 61st st.,new york,212/940-8185,french,28,False
+kuleto's,221 powell st.,san francisco,415/397-7720,italian,16,False
+joe allen,326 w. 46th st.,new york,212/581-6464,american,4,False
+roscoe's house of chicken 'n' waffles,1514 n. gower st.,los angeles,213/466-9329,american,4,False
+heera of india,595 piedmont ave.  rio shopping mall,atlanta,404/876-4408,asian,30,False
+slanted door,584 valencia st.,san francisco,415-861-8032,vietnamese,65,False
+asahi ramen,2027 sawtelle blvd.,west la,310-479-2231,noodle shops,-1,True
+vince & eddie's,70 w. 68th st.,new york,212/721-0068,american,4,False
+la cumbre,515 valencia st.,san francisco,415-863-8205,mexican,36,False
+colonnade restaurant,1879 cheshire bridge rd.,atlanta,404/874-5642,southern,6,False
+dynasty room,930 hilgard ave.,los angeles,310/208-8765,continental,49,False
+acquarello,1722 sacramento st.,san francisco,415/567-5432,italian,16,False
+venetian,3713 w. sahara ave.,las vegas,702/876-4190,italian,5,False
+martha's,22nd street grill 25 22nd,st. hermosa beach,310-376-7786,american,-1,True
+alain rondelli,126 clement st.,san francisco,415-387-0408,french (new),10,False
+steakhouse  the,128 e. fremont st.,las vegas,702-382-1600,steakhouses,5,False
+r-23,923 e. third st.,los angeles,213-687-7178,japanese,-1,True
+triangolo,345 e. 83rd st.,new york,212/472-4488,italian,14,False
+la serenata de garibaldi,1842 e. first,st. boyle hts.,213-265-2887,mexican/tex-mex,-1,True
+horseradish grill,4320 powers ferry rd.,atlanta,404/255-7277,southern,6,False
+carnegie deli,854 7th ave.  between 54th and 55th sts.,new york,212/757-2245,delicatessen,47,False
+trattoria dell'arte,900 7th ave.  between 56th and 57th sts.,new york,212/245-9800,italian,14,False
+ralph's diner,3000 las vegas blvd. s,las vegas,702/732-6330,coffee shops/diners,38,False
+patsy's pizza,19 old fulton st.,brooklyn,718-858-4300,pizza,-1,True
+jack sprat's grill,10668 w. pico blvd.,los angeles,310/837-6662,health food,46,False
+katsu,1972 hillhurst ave.,los feliz,213-665-1891,japanese,-1,True
+cafe la fortuna,69 w. 71st st.,new york,212/724-5846,coffee bar,9,False
+seventh regiment mess and bar,643 park ave. at 66th st.,new york,212/744-4107,american,4,False
+delectables,1 margaret mitchell sq.,atlanta,404/681-2909,american,24,False
+swingers,8020 beverly blvd.,los angeles,213/653-5858,american,4,False
+aqua,252 california st.,san francisco,415-956-9662,american (new),1,False
+jewel of india,15 w. 44th st.,new york,212/869-5544,asian,3,False
+harold's barbecue,171 mcdonough blvd.,atlanta,404-627-9268,bbq,-1,True
+manila garden,325 e. 14th st.  between 1st and 2nd aves.,new york,212/777-6314,asian,3,False
+abbey,163 ponce de leon ave.,atlanta,404/876-8532,international,24,False
+el teddy's,219 w. broadway  between franklin and white sts.,new york,212/941-7070,mexican,45,False
+buzio's in the rio,3700 w. flamingo rd.,las vegas,702-252-7697,seafood,5,False
+bryant park grill  roof restaurant and bp cafe,25 w. 40th st.  between 5th and 6th aves.,new york,212/840-6500,american,4,False
+don antonio's,1136 westwood blvd.,westwood,310-209-1422,italian,-1,True
+union square cafe,21 e. 16th st.,new york,212/243-4020,american,4,False
+falafel king,1059 broxton ave.,westwood,310-208-4444,middle eastern,-1,True
+montrachet,239 w. broadway,new york city,212-219-2777,french bistro,-1,True
+halcyon,151 w. 54th st.  in the rihga royal hotel,new york,212/468-8888,american,4,False
+lespinasse (new york city),2 e. 55th st.,new york city,212-339-6719,asian,57,False
+serendipity,3 225 e. 60th st.,new york,212/838-3531,american,4,False
+chiam,160 e. 48th st.,new york,212/371-2323,asian,3,False
+mifune japan center  kintetsu building,1737 post st.,san francisco,415/922-0337,asian,1,False
+sweet'n'tart cafe,76 mott st. at canal st.,new york,212/334-8088,asian,3,False
+shun lee palace,155 e. 55th st.,new york city,212-371-8844,chinese,31,False
+pacific pan pacific hotel,500 post st.,san francisco,415/929-2087,french,10,False
+restaurant katsu,1972 n. hillhurst ave.,los angeles,213/665-1891,asian,20,False
+rae's,2901 pico blvd.,santa monica,310-828-7937,diners,-1,True
+gotham bar & grill,12 e. 12th st.,new york city,212-620-4020,american (new),4,False
+picholine,35 w. 64th st.,new york,212/724-8585,mediterranean,51,False
+rj's the rib joint,252 n. beverly dr.,los angeles,310/274-7427,american,4,False
+trio cafe,1870 fillmore st.,san francisco,415-563-2248,american,10,False
+patria,250 park ave. s at 20th st.,new york,212/777-6211,latin american,29,False
+park avenue cafe,100 e. 63rd st.,new york,212/644-1900,american,4,False
