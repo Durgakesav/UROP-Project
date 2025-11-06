@@ -13,7 +13,7 @@ from datetime import datetime
 import os
 
 # Groq API Key
-GROQ_API_KEY = "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"
+GROQ_API_KEY = ""
 
 MAX_MISSING_TO_PROCESS = 20
 

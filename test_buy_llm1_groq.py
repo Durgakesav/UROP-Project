@@ -12,7 +12,7 @@ from datetime import datetime
 import os
 
 # Groq API Key
-GROQ_API_KEY = "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"
+GROQ_API_KEY = ""
 
 def clean_price(price_str):
     """Convert price string to float"""
